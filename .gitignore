@@ -1,0 +1,18 @@
+*~
+.*.swp
+.*.swo
+*.o
+lib*.a
+.deps
+
+# Ignore thumbnails created by Windows
+Thumbs.db
+
+# Ignore Python files
+*.pyc
+
+# Ignore Komodo IDE/Edit project files
+*.komodoproject
+
+# Ignore Mac DS_Store files
+.DS_Store
