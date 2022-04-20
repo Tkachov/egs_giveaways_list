@@ -523,6 +523,7 @@ function make_list(items, add_years, mark_taken) {
 		item.className = "item";
 		
 		var img = document.createElement("img");
+		img.loading = "lazy";
 		img.src = x.img;
 		item.appendChild(img);
 
