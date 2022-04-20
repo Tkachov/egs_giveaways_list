@@ -15,6 +15,9 @@ body { min-width: 800pt; }
 	min-height: calc(100vh - 30pt - 64px - 2*10pt); /* -top margin & -footer height */
 }
 
+a { color: #0059B2; }
+a:hover { color: #0080FF; }
+
 /* tabs  */
 
 .tabs {
@@ -32,7 +35,7 @@ body { min-width: 800pt; }
 }
 
 .tab.selected { background: #0059B2; }
-.tab:hover, .tab.selected:hover { background: #0080FF; }
+.tab:hover, .tab.selected:hover { background: #0080FF; color: #FFF }
 .tab.hidden { display: none; }
 .tab.dimmed { display: none; }
 
@@ -103,7 +106,7 @@ input:focus {
 	text-align: center;
 }
 
-.button:hover { background: #0080FF; }
+.button:hover { background: #0080FF; color: #FFF; }
 
 .login_form, .logout_form {
 	width: calc(60vw - 2*20pt);
