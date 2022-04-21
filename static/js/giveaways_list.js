@@ -8,7 +8,7 @@ var giveaways_list = [
 	{"start": "07.04.2022", "end": "14.04.2022", "item": "f401d7e187e349138380d22e991b29ca_3c78aafd710548659283d761315676ab"}, // The Vanishing of Ethan Carter
 	{"start": "07.04.2022", "end": "14.04.2022", "item": "f401d7e187e349138380d22e991b29ca_78a7496bffbd48e1af50165fe830c3e7"}, // The Vanishing of Ethan Carter Redux
 
-	{"start": "31.03.2022", "end": "07.04.2022", "item": null},																   // Total War: Warhammer -- not in russia
+	{"start": "31.03.2022", "end": "07.04.2022", "item": "0c321ac6d5fe49139c153253b60702f4_30d3a88d29e24716ac5a4720042289f7"}, // Total War: Warhammer -- not in Russia
 	{"start": "31.03.2022", "end": "07.04.2022", "item": "fa234e40c4d44dfa84fbcb302fef0233_3eb3ed8244724e2eb7a69d1e3007856b"}, // City of Brass
 
 	{"start": "24.03.2022", "end": "31.03.2022", "item": "c4a39e8e304c4356afcddd79820b223d_9f57531a402c4659b1c51b223dd5c3f0"}, // Demon's Tilt
@@ -137,7 +137,7 @@ var giveaways_list = [
 
 	{"start": "27.05.2021", "end": "03.06.2021", "item": "33956bcb55d4452d8c47e16b94e294bd_729a86a5146640a2ace9e8c595414c56"}, // Among Us | May 27 - Jun 3, 2021
 
-	{"start": "20.05.2021", "end": "27.05.2021", "item": null},																   // NBA 2K21 -- it seems I skipped this one
+	{"start": "20.05.2021", "end": "27.05.2021", "item": "6b3b9698082c43cd9dcd7f68e3365e79_639977eecfd2497c941b71af949b5067"}, // NBA 2K21 -- it seems I skipped this one
 
 	{"start": "13.05.2021", "end": "20.05.2021", "item": "e35a5826457c4c98aada2ffad7b5ea5d_5d4ff21331934631ab5ddf55d5fafb6d"}, // The Lion's Song | May 13 - May 20, 2021
 
