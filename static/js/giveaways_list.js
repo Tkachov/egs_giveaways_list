@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2022
 
+	{"start": "21.04.2022", "end": "28.04.2022", "item": "b2df9b20c72446d690718965da41c7ad_97b5a984dfdd4f0ab638605ac1cc3169"}, // Amnesia: Rebirth
+	{"start": "21.04.2022", "end": "28.04.2022", "item": "100f8957d16d4d2d89716775b5767779_733f6d08332746288c1d212490fdf944"}, // Riverbond
+
 	{"start": "14.04.2022", "end": "21.04.2022", "item": "e25eba2210804006a61763a4108322de_0f2cff71f385472bb082829eeef2973b"}, // Insurmountable
 	{"start": "14.04.2022", "end": "21.04.2022", "item": "7ec453d446194b8f8afe82aaa9561211_47c6774a15374b5ba04f86d4541410c7"}, // XCOM 2
 
