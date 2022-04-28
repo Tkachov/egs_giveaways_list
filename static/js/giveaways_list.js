@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2022
 
+	{"start": "28.04.2022", "end": "05.05.2022", "item": "8c7ed85dae4341d385919ee4d832eb1a_337333962e364b4bb2ce8f907c7c7d4d"}, // Just Die Already
+	{"start": "28.04.2022", "end": "05.05.2022", "item": "dd9648d29088406e9e2a61ba33fc13f6_2572debc5cbc4debab7aa3c3693e56c3"}, // Paradigm
+
 	{"start": "21.04.2022", "end": "28.04.2022", "item": "b2df9b20c72446d690718965da41c7ad_97b5a984dfdd4f0ab638605ac1cc3169"}, // Amnesia: Rebirth
 	{"start": "21.04.2022", "end": "28.04.2022", "item": "100f8957d16d4d2d89716775b5767779_733f6d08332746288c1d212490fdf944"}, // Riverbond
 
