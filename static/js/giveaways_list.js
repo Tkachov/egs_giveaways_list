@@ -1,5 +1,6 @@
 var giveaways_list = [
 	// 2022
+	{"start": "05.05.2022", "end": "12.05.2022", "item": "25d726130e6c4fe68f88e71933bda955_1737b72081d443c2916134b8f5ecd678"}, // Terraforming Mars
 
 	{"start": "28.04.2022", "end": "05.05.2022", "item": "8c7ed85dae4341d385919ee4d832eb1a_337333962e364b4bb2ce8f907c7c7d4d"}, // Just Die Already
 	{"start": "28.04.2022", "end": "05.05.2022", "item": "dd9648d29088406e9e2a61ba33fc13f6_2572debc5cbc4debab7aa3c3693e56c3"}, // Paradigm
