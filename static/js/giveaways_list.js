@@ -1,5 +1,9 @@
 var giveaways_list = [
 	// 2022
+	{"start": "12.05.2022", "end": "19.05.2022", "item": "6ea398b9c2244250a9177c0b8a69b5cd_ebaf29e138a446d3a2d523668ab05ddc"}, // Prey
+	{"start": "12.05.2022", "end": "19.05.2022", "item": "93ea0d593cb04e62afb0741bbf894173_058dbac3ef2e41a09901a6ad504e22c5"}, // Redout Enhanced Edition
+	{"start": "12.05.2022", "end": "19.05.2022", "item": "ba3149b6d7a7488ab5cc674154458757_75e740783b2f496ab7f6f8ecf546c702"}, // Jotun: Valhalla Edition
+
 	{"start": "05.05.2022", "end": "12.05.2022", "item": "25d726130e6c4fe68f88e71933bda955_1737b72081d443c2916134b8f5ecd678"}, // Terraforming Mars
 
 	{"start": "28.04.2022", "end": "05.05.2022", "item": "8c7ed85dae4341d385919ee4d832eb1a_337333962e364b4bb2ce8f907c7c7d4d"}, // Just Die Already
