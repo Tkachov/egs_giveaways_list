@@ -1,5 +1,7 @@
 var giveaways_list = [
 	// 2022
+	{"start": "16.06.2022", "end": "23.06.2022", "item": "ae373893881044d2bf26d6f8363a120e_2eb4a44635c342849d06d2d7e4f95a3d"}, // Supraland
+
 	{"start": "09.06.2022", "end": "16.06.2022", "item": "turtle_d43a176b083c4f92867c2313c6326d26"}, // Maneater
 
 	// {"start": "02.06.2022", "end": "09.06.2022", "item": "?"}, // TODO: Wolfenstein: The New Order
