@@ -1,5 +1,8 @@
 var giveaways_list = [
 	// 2022
+	{"start": "23.06.2022", "end": "30.06.2022", "item": "1b737464d3c441f8956315433be02d3b_e41cace1786a488893898632b259ba20"}, // A Game Of Thrones - A Dance With Dragons
+	{"start": "23.06.2022", "end": "30.06.2022", "item": "226306adde104c9092247dcd4bfa1499_57b243a529b7487586bf0c1d604d5568"}, // Car Mechanic Simulator 2018
+
 	{"start": "16.06.2022", "end": "23.06.2022", "item": "ae373893881044d2bf26d6f8363a120e_2eb4a44635c342849d06d2d7e4f95a3d"}, // Supraland
 
 	{"start": "09.06.2022", "end": "16.06.2022", "item": "turtle_d43a176b083c4f92867c2313c6326d26"}, // Maneater
