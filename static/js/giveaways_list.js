@@ -1,5 +1,9 @@
 var giveaways_list = [
 	// 2022
+	{"start": "30.06.2022", "end": "07.07.2022", "item": "308652d49c89470fbf45fe8696b9c1c1_fba054603e61427ba91184f5df0c6d04"}, // Geneforge 1 - Mutagen
+	{"start": "30.06.2022", "end": "07.07.2022", "item": "5a2108f4db804040aaf44d139bd21bd1_4cc2f6113b6949cf96965d3e180929ce"}, // Hood: Outlaws & Legends
+	{"start": "30.06.2022", "end": "07.07.2022", "item": "d250bdf072934b70ab080c6fcee77734_b43d8cc1e62949fc80f976fc81e76273"}, // Iratus: Lord of the Dead
+
 	{"start": "23.06.2022", "end": "30.06.2022", "item": "1b737464d3c441f8956315433be02d3b_e41cace1786a488893898632b259ba20"}, // A Game Of Thrones - A Dance With Dragons
 	{"start": "23.06.2022", "end": "30.06.2022", "item": "226306adde104c9092247dcd4bfa1499_57b243a529b7487586bf0c1d604d5568"}, // Car Mechanic Simulator 2018
 
