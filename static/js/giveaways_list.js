@@ -1,5 +1,8 @@
 var giveaways_list = [
 	// 2022
+	{"start": "07.07.2022", "end": "14.07.2022", "item": "138c9362d8ff4c239076bc556e18cdac_7cdc2dcd372c4f7599cd8b107a244e26"}, // Ancient Enemy
+	{"start": "07.07.2022", "end": "14.07.2022", "item": "affc33b82405457595a032f00284abd2_b51279fe75d841dd9a0dcb1a1b85bf4b"}, // Killing Floor 2
+
 	{"start": "30.06.2022", "end": "07.07.2022", "item": "308652d49c89470fbf45fe8696b9c1c1_fba054603e61427ba91184f5df0c6d04"}, // Geneforge 1 - Mutagen
 	{"start": "30.06.2022", "end": "07.07.2022", "item": "5a2108f4db804040aaf44d139bd21bd1_4cc2f6113b6949cf96965d3e180929ce"}, // Hood: Outlaws & Legends
 	{"start": "30.06.2022", "end": "07.07.2022", "item": "d250bdf072934b70ab080c6fcee77734_b43d8cc1e62949fc80f976fc81e76273"}, // Iratus: Lord of the Dead
