@@ -1,5 +1,7 @@
 var giveaways_list = [
 	// 2022
+	{"start": "28.07.2022", "end": "04.08.2022", "item": "70d9536d99af4c70a55e4c23989f4225_f189478ffa5e45a78e4102ae6f4c139c"}, // Lawn Mowing Simulator
+
 	{"start": "21.07.2022", "end": "28.07.2022", "item": "538de058a6d9490ea151c4cd111cc01b_07a27e25fdce469fa023695acff0cc88"}, // Tannenberg
 
 	{"start": "14.07.2022", "end": "21.07.2022", "item": "7e508f543b05465abe3a935960eb70ac_48353a502e72433298f25827e03dbff0"}, // Idle Champions of the Forgotten Realms
