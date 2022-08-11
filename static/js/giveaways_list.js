@@ -1,5 +1,7 @@
 var giveaways_list = [
 	// 2022
+	{"start": "11.08.2022", "end": "18.08.2022", "item": "b29663f909b94b0b83deb76f147e9e4f_51abd0556f6a42aeb460617436a8f8d5"}, // Cook, Serve, Delicious! 3?!
+
 	{"start": "04.08.2022", "end": "11.08.2022", "item": "5a6d34ba28bc45d081d9311c3885feef_4acdb0d6e5884177bfc75dcdebfb7bab"}, // Unrailed!
 
 	{"start": "28.07.2022", "end": "04.08.2022", "item": "70d9536d99af4c70a55e4c23989f4225_f189478ffa5e45a78e4102ae6f4c139c"}, // Lawn Mowing Simulator
