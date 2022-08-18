@@ -1,5 +1,8 @@
 var giveaways_list = [
 	// 2022
+	{"start": "18.08.2022", "end": "25.08.2022", "item": "0ea70edafcc54b3191e262bbb6971981_886507fcf6b94d98a02a018418fffd1f"}, // DOOM 64
+	{"start": "18.08.2022", "end": "25.08.2022", "item": "0bef9383794a4d779ba0628084b14cba_14a33650f001420fa2abc8e925e6a139"}, // Rumbleverse Boom Pack
+
 	{"start": "11.08.2022", "end": "18.08.2022", "item": "b29663f909b94b0b83deb76f147e9e4f_51abd0556f6a42aeb460617436a8f8d5"}, // Cook, Serve, Delicious! 3?!
 
 	{"start": "04.08.2022", "end": "11.08.2022", "item": "5a6d34ba28bc45d081d9311c3885feef_4acdb0d6e5884177bfc75dcdebfb7bab"}, // Unrailed!
