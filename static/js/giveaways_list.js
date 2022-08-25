@@ -1,5 +1,7 @@
 var giveaways_list = [
 	// 2022
+	{"start": "25.08.2022", "end": "01.09.2022", "item": "b9c7474c6bdf4e9ab8ca5a5da60059d4_0b9d733bfd0f4e0396b6fed8878ded7f"}, // Ring of Pain
+
 	{"start": "18.08.2022", "end": "25.08.2022", "item": "0ea70edafcc54b3191e262bbb6971981_886507fcf6b94d98a02a018418fffd1f"}, // DOOM 64
 	{"start": "18.08.2022", "end": "25.08.2022", "item": "0bef9383794a4d779ba0628084b14cba_14a33650f001420fa2abc8e925e6a139"}, // Rumbleverse Boom Pack
 
