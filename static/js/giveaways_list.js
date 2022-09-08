@@ -1,5 +1,8 @@
 var giveaways_list = [
 	// 2022
+	{"start": "08.09.2022", "end": "15.09.2022", "item": "4d8b727a49144090b103f6b6ba471e71_34a286dc541d42adab99ed45e3d3f7fc"}, // Hundred Days - Winemaking Simulator
+	// also Realm Royale Reforged Epic Launch Bundle, but probably doesn't count as an entry, because is missing even if acquired
+
 	{"start": "01.09.2022", "end": "08.09.2022", "item": "6006c7c9d8534b0ca4605ea3a759f3e1_6b99f221d59542a5aec6f0cef6319011"}, // Submerged: Hidden Depths
 	
 	{"start": "25.08.2022", "end": "01.09.2022", "item": "b9c7474c6bdf4e9ab8ca5a5da60059d4_0b9d733bfd0f4e0396b6fed8878ded7f"}, // Ring of Pain
