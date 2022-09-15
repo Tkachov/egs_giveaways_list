@@ -1,5 +1,8 @@
 var giveaways_list = [
 	// 2022
+	{"start": "15.09.2022", "end": "22.09.2022", "item": "6098a8c7375c43458a22163a637c0c2f_65901b94cb2e45c5b667fef73cc2afce"}, // Spirit of the North
+	{"start": "15.09.2022", "end": "22.09.2022", "item": "301980d060324bb29202677f468c6c44_450d325cc72e4fcbb5999aaf0f672e10"}, // The Captain
+
 	{"start": "08.09.2022", "end": "15.09.2022", "item": "4d8b727a49144090b103f6b6ba471e71_34a286dc541d42adab99ed45e3d3f7fc"}, // Hundred Days - Winemaking Simulator
 	// also Realm Royale Reforged Epic Launch Bundle, but probably doesn't count as an entry, because is missing even if acquired
 
