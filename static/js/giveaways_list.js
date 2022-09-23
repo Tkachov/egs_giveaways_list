@@ -1,5 +1,8 @@
 var giveaways_list = [
 	// 2022
+	{"start": "22.09.2020", "end": "29.09.2020", "item": "ark_743e47ee84ac49a1a49f4781da70e0d0"},							   // Ark: Survival Evolved
+	{"start": "22.09.2022", "end": "29.09.2022", "item": "bc079f73f020432fac896d30c8e2c330_92b43293e6e04a049fda8b797ea3eda9"}, // Gloomhaven
+
 	{"start": "15.09.2022", "end": "22.09.2022", "item": "6098a8c7375c43458a22163a637c0c2f_65901b94cb2e45c5b667fef73cc2afce"}, // Spirit of the North
 	{"start": "15.09.2022", "end": "22.09.2022", "item": "301980d060324bb29202677f468c6c44_450d325cc72e4fcbb5999aaf0f672e10"}, // The Captain
 
