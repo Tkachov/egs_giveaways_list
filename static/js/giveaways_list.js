@@ -1,5 +1,8 @@
 var giveaways_list = [
 	// 2022
+	{"start": "29.09.2022", "end": "06.10.2022", "item": "aa7c3e6b5a2a4ca8962270c15bddb861_7c288902f9ec455c8816a3111fc3a530"}, // Runbow
+	{"start": "29.09.2022", "end": "06.10.2022", "item": "b6aa6a98bb394a53870bd6b026fefd1d_fdd74180985e480799398d63540dc275"}, // The Drone Racing League Simulator
+
 	{"start": "22.09.2022", "end": "29.09.2022", "item": "ark_743e47ee84ac49a1a49f4781da70e0d0"},							   // Ark: Survival Evolved
 	{"start": "22.09.2022", "end": "29.09.2022", "item": "bc079f73f020432fac896d30c8e2c330_92b43293e6e04a049fda8b797ea3eda9"}, // Gloomhaven
 
