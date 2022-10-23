@@ -1,5 +1,14 @@
 var giveaways_list = [
 	// 2022
+	{"start": "20.10.2022", "end": "27.10.2022", "item": "3f7bd21610f743e598fa8e955500f5b7_2be09d16553145aca03d9afa8087ac52"}, // Evoland Legendary Edition
+	{"start": "20.10.2022", "end": "27.10.2022", "item": "fa702d34a37248ba98fb17f680c085e3_b1b4e0b67a044575820cb5e63028dcae"}, // Fallout 3: Game of the Year Edition
+
+	{"start": "13.10.2022", "end": "20.10.2022", "item": "25b5ab5928784a74a502f6a84bb8b49f_bd12aa292a6b401286908fe1fa312f83"}, // Darkwood
+	{"start": "13.10.2022", "end": "20.10.2022", "item": "bd1047eb76fd4fd490fcb8f668e5deda_1989174914bf482ebfd1356e2556725e"}, // ToeJam & Earl: Back in the Groove!
+
+	{"start": "06.10.2022", "end": "13.10.2022", "item": "8d123dcc4b5c4d168f7de7b3e1ed7d47_3a5fc1b9bb9c418092b7bb797ad8f8f7"}, // Rising Hell
+	{"start": "06.10.2022", "end": "13.10.2022", "item": "5a85738bd9e74940ad8409ed8a2c680a_93d152d73bf64b28aea6524b43c989c2"}, // Slain: Back From Hell
+
 	{"start": "29.09.2022", "end": "06.10.2022", "item": "aa7c3e6b5a2a4ca8962270c15bddb861_7c288902f9ec455c8816a3111fc3a530"}, // Runbow
 	{"start": "29.09.2022", "end": "06.10.2022", "item": "b6aa6a98bb394a53870bd6b026fefd1d_fdd74180985e480799398d63540dc275"}, // The Drone Racing League Simulator
 
@@ -173,6 +182,9 @@ var giveaways_list = [
 	{"start": "05.08.2021", "end": "12.08.2021", "item": "71d19da3678943098859baa9c4c39f95_38649a203d904405ab9068e09dc5be91"}, // A Plague Tale: Innocence
 
 	{"start": "29.07.2021", "end": "05.08.2021", "item": "d8d8b399f3d14ac2b9b75870329a68dd_384c9e7b83f0428ebe20571d0fcd272c"}, // Train Sim World 2
+	{"start": "29.07.2021", "end": "05.08.2021", "item": "a64d4c5460384218b17de5bd785085f8_3fde4f4763284f4b9917f9291fdae7ac"}, // Train Sim World 2: Schnellfahrstrecke Köln-Aachen DLC
+	{"start": "29.07.2021", "end": "05.08.2021", "item": "a64d4c5460384218b17de5bd785085f8_df0a30f86b43424696e7c1a50c69be6d"}, // Train Sim World 2: Bakerloo Line
+	{"start": "29.07.2021", "end": "05.08.2021", "item": "a64d4c5460384218b17de5bd785085f8_7a2b089a248942b6814674c0cb531571"}, // Train Sim World 2: Sand Patch Grade
 	{"start": "29.07.2021", "end": "05.08.2021", "item": "7dc02eac2fe347368b5f72a02bb5bc5e_97f646aa2baa42fa9ca17919bd8a8639"}, // Mothergunship
 
 	{"start": "22.07.2021", "end": "29.07.2021", "item": "e4a2a414d46849f49a35c0f80df2903a_799b21a13e764a8488444b4ada9202b7"}, // Verdun
