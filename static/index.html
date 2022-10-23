@@ -32,17 +32,19 @@
 				<div class="column">
 					<h1>Step 1</h1>
 
-					<p>This button will open Epic Games log in form. After logging in, it will take you to the <b>https://www.epicgames.com/id/api/redirect</b> page, where <b>sid</b> value is displayed.</p>
-					<a href="https://www.epicgames.com/id/login?redirectUrl=https://www.epicgames.com/id/api/redirect" target="_blank" class="button">Log in with Epic Games</a>
+					<p>This button will open Epic Games log in form. After logging in, it will take you to the <b>https://www.epicgames.com/id/api/redirect</b> page, where <b>authorizationCode</b> value is displayed.</p>
+					<a href="https://www.epicgames.com/id/login?redirectUrl=https%3A//www.epicgames.com/id/api/redirect%3FclientId%3D34a02cf8f4414e29b15921876da36f9a%26responseType%3Dcode" target="_blank" class="button">Log in with Epic Games</a>
 				
 					<h1>Step 2</h1>
 
-					<p>Copy <b>sid</b> value here and press the button:</p>
-					<input id="sid" type="text" value="" placeholder="sid"/>
-					<span onclick="controller.login_accept_sid();" class="button">Continue</span>
+					<p>Copy <b>authorizationCode</b> value here and press the button:</p>
+					<input id="auth_code" type="text" value="" placeholder="authorizationCode"/>
+					<span onclick="controller.login_accept_code();" class="button">Continue</span>
 				</div>
 
 				<p>You can revoke access at any time by pressing the "Close Other Sessions" button in "Password & Security" section of Epic Games account page.</p>
+
+				<p>This uses the same method as open-source <a href="https://github.com/derrod/legendary">Legendary</a> launcher.</p>
 			</div>
 		</div>
 		<div id="logout" class="content">

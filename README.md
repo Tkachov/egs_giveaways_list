@@ -10,7 +10,7 @@ Originally, the idea was to implement that completely on client side and store *
 That didn't work because of the [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing).
 
 But since it has server side now, via this repo you can check that no data is collected.
-The server side is a single Python file that has 4 API endpoints — basically proxies for actual EGS APIs.
+The server side is a single Python file that has 3 API endpoints — basically proxies for actual EGS APIs.
 Those endpoints implementations are hugely based on [Legendary](https://github.com/derrod/legendary) open-source launcher.
 
 If you have any ideas on how to make this site more useful (for example, show the current week free games or have a link to the games' 

@@ -134,7 +134,7 @@ var controller = {
 				self.save_cache();
 				self.update_library();
 				self.render();
-				if ('exchange_code' in params)
+				if ('exchange_code' in params || 'authorization_code' in params)
 					self.show('all_giveaways');
 				else
 					self.show(self.current_tab);
@@ -381,29 +381,10 @@ var controller = {
 		e.style.display = (id in {"login": 1, "logout": 1} ? "none" : "block");
 	},
 
-	login: function () {
-		window.open("https://www.epicgames.com/id/login?redirectUrl=https://www.epicgames.com/id/api/redirect", "_blank");
-	},
-
-	login_accept_sid: function () {
-		var e = document.getElementById("sid");
-		var sid = e.value.replaceAll("\"", "").replaceAll("'", "").trim().replaceAll(" ", "");
-
-		var self = this;
-		this.requests_post(
-			'api/auth', { sid: sid },
-			function(r) {
-				if ("error" in r) {
-					console.log('Login to EGS API failed with errorCode: ' + r["errorCode"]);
-					return;
-				}
-
-				self._get_access_token({ exchange_code: r.code });
-			},
-			function(e) {
-				console.log("oauth token FAIL", e);
-			}
-		);	
+	login_accept_code: function () {
+		var e = document.getElementById("auth_code");
+		var code = e.value.replaceAll("\"", "").replaceAll("'", "").trim().replaceAll(" ", "");
+		this._get_access_token({ authorization_code: code });
 	},
 
 	logout: function () {

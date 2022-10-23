@@ -11,7 +11,6 @@ app = Flask(__name__)
 _user_agent = 'UELauncher/11.0.1-14907503+++Portal+Release-Live Windows/10.0.19041.1.256.64bit'
 _user_basic = '34a02cf8f4414e29b15921876da36f9a'
 _pw_basic = 'daafbccc737745039dffe53d94fc76cf'
-_egl_version = '11.0.1-14907503+++Portal+Release-Live'
 
 _oauth_host = 'account-public-service-prod03.ol.epicgames.com'
 _catalog_host = 'catalog-public-service-prod06.ol.epicgames.com'
@@ -19,40 +18,6 @@ _library_host = 'library-service.live.use1a.on.epicgames.com'
 
 language_code, country_code = ('en', 'US')
 request_timeout = 10
-
-def egs_auth(request):
-	try:
-		sid = request.form.get("sid", None)
-
-		session = requests.session()
-		session.headers.update({
-			'X-Epic-Event-Action': 'login',
-			'X-Epic-Event-Category': 'login',
-			'X-Epic-Strategy-Flags': '',
-			'X-Requested-With': 'XMLHttpRequest',
-			'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
-						  'AppleWebKit/537.36 (KHTML, like Gecko) '
-						  'EpicGamesLauncher/' + _egl_version + ' '
-						  'UnrealEngine/4.23.0-14907503+++Portal+Release-Live '
-						  'Chrome/84.0.4147.38 Safari/537.36'
-		})
-		session.cookies['EPIC_COUNTRY'] = country_code.upper()
-
-		# get first set of cookies (EPIC_BEARER_TOKEN etc.)
-		_ = session.get('https://www.epicgames.com/id/api/set-sid', params=dict(sid=sid))
-		# get XSRF-TOKEN and EPIC_SESSION_AP cookie
-		_ = session.get('https://www.epicgames.com/id/api/csrf')
-		# finally, get the exchange code
-		r = session.post('https://www.epicgames.com/id/api/exchange/generate',
-				   headers={'X-XSRF-TOKEN': session.cookies['XSRF-TOKEN']})
-
-		if r.status_code == 200:
-			return r.json()
-		
-		return {"error": True, "payload": r.json()}
-
-	except Exception as e:
-		return {"error": True, "message": e.message}
 
 def get_access_token(request):
 	try:
@@ -65,6 +30,12 @@ def get_access_token(request):
 			params = {
 				"grant_type": 'refresh_token',
 				"refresh_token": request.form.get("refresh_token", None),
+				"token_type": 'eg1'
+			}
+		elif request.form.get("authorization_code", None):
+			params = {
+				"grant_type": 'authorization_code',
+				"code": request.form.get("authorization_code", None),
 				"token_type": 'eg1'
 			}
 		else:
@@ -143,10 +114,6 @@ def json_wrap(ret):
 		ret = {"error": True, "message": "unknown error"}
 	json_response = json.dumps(ret)
 	return Response(json_response, 200, {'Content-Type': 'application/json'})
-
-@app.route("/api/auth", methods=["POST"])
-def api_post_auth():
-	return json_wrap(egs_auth(request))
 
 @app.route("/api/access_token", methods=["POST"])
 def api_post_access_token():
