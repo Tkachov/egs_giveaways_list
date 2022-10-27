@@ -1,5 +1,8 @@
 var giveaways_list = [
 	// 2022
+	{"start": "27.10.2022", "end": "03.11.2022", "item": "c749cd78da34408d8434a46271f4bb79_1dd2d2d4d38e4964a2ebcb3e3a9d10e5"}, // Saturnalia
+	{"start": "27.10.2022", "end": "03.11.2022", "item": "144f9e231e2846d1a4381d9bb678f69d_d282f1d11f1443ffbbaddf72c8ced32c"}, // Warhammer 40,000: Mechanicus
+
 	{"start": "20.10.2022", "end": "27.10.2022", "item": "3f7bd21610f743e598fa8e955500f5b7_2be09d16553145aca03d9afa8087ac52"}, // Evoland Legendary Edition
 	{"start": "20.10.2022", "end": "27.10.2022", "item": "fa702d34a37248ba98fb17f680c085e3_b1b4e0b67a044575820cb5e63028dcae"}, // Fallout 3: Game of the Year Edition
 
