@@ -1,5 +1,58 @@
 var giveaways_list = [
+	// 2023
+
+	// {"start": "01.12.2022", "end": "08.12.2022", "item": "58dbbafdb5b04b3e9442506354457e3c_2b8748cc0626405eac89a425374bb659"}, // Fort Triumph
+	// {"start": "01.12.2022", "end": "08.12.2022", "item": "0e76e53e157d416ab598342ed3a9dd5a_e7873d67c5f14949978e44306867cfc8"}, // RPG in a Box
+
 	// 2022
+	
+	// {"start": "31.12.2022", "end": "07.01.2023", "item": ""}, // ?
+	// {"start": "30.12.2022", "end": "30.12.2022", "item": ""}, // ?
+	// {"start": "29.12.2022", "end": "29.12.2022", "item": ""}, // ?
+	{"start": "28.12.2022", "end": "28.12.2022", "item": "ff8c96d781824ba1ae62d18d207fc52e_9b106e9bf35d4a7e8cefa750bd26e759"}, // Mortal Shell
+	/*
+	{"start": "28.12.2022", "end": "28.12.2022", "item": "ff8c96d781824ba1ae62d18d207fc52e_f261a461e9224e09a4f888e19a3b633b"}, // Mortal Shell Tech Beta
+	*/
+	{"start": "27.12.2022", "end": "27.12.2022", "item": "5db7394e65044dd1bb083ee983e2b3a5_1709353a08384d518fe56f25732eb9dd"}, // Severed Steel
+	{"start": "26.12.2022", "end": "26.12.2022", "item": "a7e2a2c51b9149c097b771926ed91877_d712d3b11cab4347b327b65baa4ebb95"}, // F.I.S.T.: Forged In Shadow Torch
+	{"start": "25.12.2022", "end": "25.12.2022", "item": "f4a904fcef2447439c35c4e6457f3027_761fe09295aa422e8199cebaacf51675"}, // Death Stranding
+	/*
+	{"start": "25.12.2022", "end": "25.12.2022", "item": "f4a904fcef2447439c35c4e6457f3027_678578f8abe84265b0d5f81c1997c6da"}, // Death Stranding Content
+	{"start": "25.12.2022", "end": "25.12.2022", "item": "f4a904fcef2447439c35c4e6457f3027_01ced6494f3046e48b9bbb7d2874b703"}, // Death Stranding HD Wallpaper
+	{"start": "25.12.2022", "end": "25.12.2022", "item": "f4a904fcef2447439c35c4e6457f3027_0a19424d974643f6ae6227a3ed66af2b"}, // Death Stranding SELECTIONS OF TITAN ART BOOK
+	{"start": "25.12.2022", "end": "25.12.2022", "item": "f4a904fcef2447439c35c4e6457f3027_c7bad4fcef1e4188b36732ed4bdf8103"}, // Death Stranding DEATH STRANDING DIGITAL SOUNDTRACK
+	*/
+	{"start": "24.12.2022", "end": "24.12.2022", "item": "c5e786eddfd041caa9984213e3f9621d_7147920c1dcd4c82915c2d48a409a26d"}, // Metro: Last Light Redux
+	// {"start": "23.12.2022", "end": "23.12.2022", "item": "?"}, // TODO: Encased
+	{"start": "22.12.2022", "end": "22.12.2022", "item": "2e412cfcbd954e7180930e9784a47e18_ad210330aa424a0f843d501ca26f8488"}, // Fallout
+	{"start": "22.12.2022", "end": "22.12.2022", "item": "aae22da1fb884fa395b25bc30dd61faf_87e1c4c8fcbd47fba99e57a8b52defca"}, // Fallout 2
+	{"start": "22.12.2022", "end": "22.12.2022", "item": "b90be973f6e74975ac1a6ff15dbfd0b3_025bf6c6f8f54e9ba1853e2a81dfd896"}, // Fallout Tactics
+	{"start": "21.12.2022", "end": "21.12.2022", "item": "ea533c2d54754167a9392a2ffa61bb87_4c35cfd4b3c4487386a524867864481c"}, // LEGO Builder's Journey
+	// {"start": "20.12.2022", "end": "20.12.2022", "item": "?"}, // TODO: Wolfenstein: The New Order
+	{"start": "19.12.2022", "end": "19.12.2022", "item": "a567c32599bf4d4fb609e424f3691b39_d74fb2e8ae09432db115612e1bde5655"}, // Them's Fightin' Herds
+	{"start": "18.12.2022", "end": "18.12.2022", "item": "66a0893b7b9a42a695f0a387d64dfcc6_15956355c14a4cd19c6b64abfd6f7425"}, // Sable
+	{"start": "17.12.2022", "end": "17.12.2022", "item": "c660f57e1a164930a7196f1fd27ae45a_ea57c7d9cf304100bf677d18be2fe8e2"}, // Costume Quest 2
+	{"start": "16.12.2022", "end": "16.12.2022", "item": "253d451b16364a22907dd01b7e928fb6_54ff4322184a4c3086ee6da0a2d20f79"}, // Horizon Chase Turbo
+	{"start": "15.12.2022", "end": "15.12.2022", "item": "6a8dfa6e441e4f2f9048a98776c6077d_49c4bf5c6fd24259b87d0bcc96b6009f"}, // Bloons TD 6
+
+	{"start": "08.12.2022", "end": "15.12.2022", "item": "13cba1b288ec417badb9a276cbb6d819_80ce94350bce414293a62d3cef420b4a"}, // Wildcat Gun Machine
+	// {"start": "08.12.2022", "end": "15.12.2022", "item": "?"}, // TODO: Saints Row IV: Re-Elected
+
+	{"start": "01.12.2022", "end": "08.12.2022", "item": "58dbbafdb5b04b3e9442506354457e3c_2b8748cc0626405eac89a425374bb659"}, // Fort Triumph
+	{"start": "01.12.2022", "end": "08.12.2022", "item": "0e76e53e157d416ab598342ed3a9dd5a_e7873d67c5f14949978e44306867cfc8"}, // RPG in a Box
+
+	// {"start": "24.11.2022", "end": "01.12.2022", "item": "?"}, // TODO: Star Wars: Squadrons
+
+	// {"start": "17.11.2022", "end": "24.11.2022", "item": "?"}, // TODO: Rumbleverse Epic Cheerleader Pack
+	{"start": "17.11.2022", "end": "24.11.2022", "item": "be69d6b9214f4bc594c4cb1cd310a553_ed510ff91037484c90ac1fd50152dbae"}, // Dark Deity
+	{"start": "17.11.2022", "end": "24.11.2022", "item": "95e09a8c24c44684bca1a6f25aea920c_4a896599a11348d0925d66f852977059"}, // Evil Dead: The Game
+
+	{"start": "10.11.2022", "end": "17.11.2022", "item": "caf357c955344eaeaaaddb3c8357dbdf_3297b71137cf46e0ac5ad35683787eb6"}, // Alba — A Wildlife Adventure
+	{"start": "10.11.2022", "end": "17.11.2022", "item": "2f215955790d456b80c291bc2feaf7f7_c275c2a3a6564d298db3dd4ca623e1f9"}, // Shadow Tactics: Blades of the Shogun
+
+	{"start": "03.11.2022", "end": "10.11.2022", "item": "89fb09a222a54e53b692e9c36e68d0a1_7a3db2c9ac0646f9af2b35757050f8a4"}, // Filament
+	{"start": "03.11.2022", "end": "10.11.2022", "item": "3542a1df211e492bb2abecb7c734f7f9_a2b9fb9d1c9846fd8a55dda97d113b02"}, // Rising Storm 2: Vietnam
+
 	{"start": "27.10.2022", "end": "03.11.2022", "item": "c749cd78da34408d8434a46271f4bb79_1dd2d2d4d38e4964a2ebcb3e3a9d10e5"}, // Saturnalia
 	{"start": "27.10.2022", "end": "03.11.2022", "item": "144f9e231e2846d1a4381d9bb678f69d_d282f1d11f1443ffbbaddf72c8ced32c"}, // Warhammer 40,000: Mechanicus
 
@@ -275,6 +328,9 @@ var giveaways_list = [
 	{"start": "21.12.2020", "end": "21.12.2020", "item": "df37f065c3f14eadbf011177396e2966_4106b71233fa4b4ba3b04c818fce91d4"}, // Alien Isolation
 	{"start": "20.12.2020", "end": "20.12.2020", "item": "0dabb0f14acf4fef84bd2b2bf3085dfc_51ee5fe4709c473696a36376e90845d2"}, // Defense Grid: The Awakening
 	{"start": "19.12.2020", "end": "19.12.2020", "item": "58dfcd1952ee48c1a1fa31c6ace5fe3d_e86621f47cab4711826e440296572cad"}, // The Long Dark
+	/*
+	{"start": "19.12.2020", "end": "19.12.2020", "item": "58dfcd1952ee48c1a1fa31c6ace5fe3d_f9c1bcff4df545c3a85245d2f09e1cb0"}, // The Long Dark: Wintermute
+	*/
 	{"start": "18.12.2020", "end": "18.12.2020", "item": "56eab841eaab4016b9fedd2350f997b6_caa0ec8977854bc89c012109f000ba5d"}, // Oddworld: New 'n' Tasty
 	{"start": "17.12.2020", "end": "17.12.2020", "item": "6009be9994c2409099588cde6f3a5ed0_ee3c9b2831cf4e8c9a6dc407bcb2890a"}, // Cities: Skylines
 
@@ -340,6 +396,9 @@ var giveaways_list = [
 	{"start": "30.07.2020", "end": "06.08.2020", "item": "4c7117cadb714722950338f02850fd8d_017e3132e017486bbb3a9a641c984b3a"}, // 20XX
 	{"start": "30.07.2020", "end": "06.08.2020", "item": "1109b87f323946e5b7883d724e6a22ba_d2fb14a0fe4946d4b4dffa2750fce03a"}, // Superbrothers: Sword & Sworcery EP
 	{"start": "30.07.2020", "end": "06.08.2020", "item": "b79cdb6e07ea4ce9a82c00a0fb079ca5_1953c554c23a4af1b2f63b3a67f322aa"}, // Barony
+	/*
+	{"start": "30.07.2020", "end": "06.08.2020", "item": "b79cdb6e07ea4ce9a82c00a0fb079ca5_6ebfa3f0c7a3467d93fe33401d3514e0"}, // Barony (Beta)
+	*/
 
 	{"start": "23.07.2020", "end": "30.07.2020", "item": "7563789523404ae7ba52588adc99963a_d4262740659b444e8f19e47a2b28dc48"}, // Next Up Hero
 	{"start": "23.07.2020", "end": "30.07.2020", "item": "675f47ac5d5847f59badceea5b0950cf_433a4f6836b34a05b8371f7a51d31d0a"}, // Tacoma
