@@ -6,9 +6,9 @@ var giveaways_list = [
 
 	// 2022
 	
-	// {"start": "31.12.2022", "end": "07.01.2023", "item": ""}, // ?
-	// {"start": "30.12.2022", "end": "30.12.2022", "item": ""}, // ?
-	// {"start": "29.12.2022", "end": "29.12.2022", "item": ""}, // ?
+	// {"start": "29.12.2022", "end": "05.01.2023", "item": "?"}, // TODO: Dishonored: Definitive Edition
+	{"start": "29.12.2022", "end": "05.01.2023", "item": "1c943de0163f4f0982f34dc0fc37dce9_748e5691a85a4158b3da33faabb37e43"}, // Eximius: Seize the Frontline
+
 	{"start": "28.12.2022", "end": "28.12.2022", "item": "ff8c96d781824ba1ae62d18d207fc52e_9b106e9bf35d4a7e8cefa750bd26e759"}, // Mortal Shell
 	/*
 	{"start": "28.12.2022", "end": "28.12.2022", "item": "ff8c96d781824ba1ae62d18d207fc52e_f261a461e9224e09a4f888e19a3b633b"}, // Mortal Shell Tech Beta
