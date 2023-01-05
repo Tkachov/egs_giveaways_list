@@ -1,8 +1,8 @@
 var giveaways_list = [
 	// 2023
 
-	// {"start": "01.12.2022", "end": "08.12.2022", "item": "58dbbafdb5b04b3e9442506354457e3c_2b8748cc0626405eac89a425374bb659"}, // Fort Triumph
-	// {"start": "01.12.2022", "end": "08.12.2022", "item": "0e76e53e157d416ab598342ed3a9dd5a_e7873d67c5f14949978e44306867cfc8"}, // RPG in a Box
+	{"start": "05.01.2023", "end": "12.01.2023", "item": "ca0530b485754032be50cb6f27be0c2c_84686da593b24598803ffbe7f9b1bb5e"}, // Kerbal Space Program
+	{"start": "05.01.2023", "end": "12.01.2023", "item": "39c6dd5409944922a04cac3f59fbbcd4_1589ce110ea941948380ea6bf73ef749"}, // Shadow Tactics Blades of the Shogun
 
 	// 2022
 	
