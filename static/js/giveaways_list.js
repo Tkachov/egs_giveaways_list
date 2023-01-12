@@ -1,6 +1,10 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "12.01.2023", "end": "19.01.2023", "item": "1200aeb2f87c48349594d96554e2833d_c4111084404c4f13b23f645aef415025"}, // Divine Knockout (DKO)
+	{"start": "12.01.2023", "end": "19.01.2023", "item": "27834480410d4000a987b32801e9abba_41717f3c71d94cf0ac272a8a5e2e6f40"}, // First Class Trouble
+	{"start": "12.01.2023", "end": "19.01.2023", "item": "b8abdf9f9bc64ed6b4128a71fd47607f_0b4e0ef7c827455d89383049caa4a653"}, // Gamedec - Definitive Edition
+
 	{"start": "05.01.2023", "end": "12.01.2023", "item": "ca0530b485754032be50cb6f27be0c2c_84686da593b24598803ffbe7f9b1bb5e"}, // Kerbal Space Program
 	{"start": "05.01.2023", "end": "12.01.2023", "item": "39c6dd5409944922a04cac3f59fbbcd4_1589ce110ea941948380ea6bf73ef749"}, // Shadow Tactics Blades of the Shogun
 
