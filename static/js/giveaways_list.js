@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "19.01.2023", "end": "26.01.2023", "item": "6a6d54e5b4ef4fb0b3dad1d02a320376_ecef3d9725b0482fb8bf6736e89c679e"}, // Epistory - Typing Chronicles
+
 	{"start": "12.01.2023", "end": "19.01.2023", "item": "1200aeb2f87c48349594d96554e2833d_c4111084404c4f13b23f645aef415025"}, // Divine Knockout (DKO)
 	{"start": "12.01.2023", "end": "19.01.2023", "item": "27834480410d4000a987b32801e9abba_41717f3c71d94cf0ac272a8a5e2e6f40"}, // First Class Trouble
 	{"start": "12.01.2023", "end": "19.01.2023", "item": "b8abdf9f9bc64ed6b4128a71fd47607f_0b4e0ef7c827455d89383049caa4a653"}, // Gamedec - Definitive Edition
