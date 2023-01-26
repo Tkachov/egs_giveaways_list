@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "26.01.2023", "end": "02.02.2023", "item": "bd75186521ab40b5840774b78bb287e3_154f624fa2b040c4a5821386060d4632"}, // Hell is Others
+	{"start": "26.01.2023", "end": "02.02.2023", "item": "a3dd9f3da8ec49c7b25dec42cce2ec46_60a9e2610ec141e29e3e2f97f1140958"}, // Adios
+
 	{"start": "19.01.2023", "end": "26.01.2023", "item": "6a6d54e5b4ef4fb0b3dad1d02a320376_ecef3d9725b0482fb8bf6736e89c679e"}, // Epistory - Typing Chronicles
 
 	{"start": "12.01.2023", "end": "19.01.2023", "item": "1200aeb2f87c48349594d96554e2833d_c4111084404c4f13b23f645aef415025"}, // Divine Knockout (DKO)
