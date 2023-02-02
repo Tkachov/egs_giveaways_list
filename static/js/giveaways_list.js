@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "02.02.2023", "end": "09.02.2023", "item": "e33138cc2b964d38a42a812b83b6507e_6b06cffad08e4f47a8200e06e7fe6101"}, // City of Gangsters
+	{"start": "02.02.2023", "end": "09.02.2023", "item": "87c84bc5f43d4fe69ad8f3ccde0594b0_341b8e920c0d401d98be61a26b78b08c"}, // Dishonored: Death of the Outsider
+
 	{"start": "26.01.2023", "end": "02.02.2023", "item": "bd75186521ab40b5840774b78bb287e3_154f624fa2b040c4a5821386060d4632"}, // Hell is Others
 	{"start": "26.01.2023", "end": "02.02.2023", "item": "a3dd9f3da8ec49c7b25dec42cce2ec46_60a9e2610ec141e29e3e2f97f1140958"}, // Adios
 
