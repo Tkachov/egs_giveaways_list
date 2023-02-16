@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "16.02.2023", "end": "23.02.2023", "item": "277788d421e748e580ca0972c339f1a6_8360037803f94fca8bbfcf74ee49571f"}, // Warpips
+
 	{"start": "09.02.2023", "end": "16.02.2023", "item": "615a4dc5c85c4c28a390dda4298acd80_144f7dd94c37467dbfaa47a55855d9e1"}, // Recipe for Disaster
 
 	{"start": "02.02.2023", "end": "09.02.2023", "item": "e33138cc2b964d38a42a812b83b6507e_6b06cffad08e4f47a8200e06e7fe6101"}, // City of Gangsters
