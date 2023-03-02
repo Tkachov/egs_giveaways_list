@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "02.03.2023", "end": "09.03.2023", "item": "9f101e25b1a9427a9e6971d2b21c5f82_cc3ef6c189f64abc8b6930b1fbcdbd5c"}, // Rise of Industry
+
 	{"start": "23.02.2023", "end": "02.03.2023", "item": "f27cd07f948348dfb27165510c56c569_774e33596311466f8e696b2828bea635"}, // Duskers
 
 	{"start": "16.02.2023", "end": "23.02.2023", "item": "277788d421e748e580ca0972c339f1a6_8360037803f94fca8bbfcf74ee49571f"}, // Warpips
