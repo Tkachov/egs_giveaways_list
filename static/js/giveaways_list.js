@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "09.03.2023", "end": "16.03.2023", "item": "5e427319eea1401ab20c6cd78a4163c4_7af64df31e274da5b78adbb056c9ebed"}, // Call of the Sea
+
 	{"start": "02.03.2023", "end": "09.03.2023", "item": "9f101e25b1a9427a9e6971d2b21c5f82_cc3ef6c189f64abc8b6930b1fbcdbd5c"}, // Rise of Industry
 
 	{"start": "23.02.2023", "end": "02.03.2023", "item": "f27cd07f948348dfb27165510c56c569_774e33596311466f8e696b2828bea635"}, // Duskers
