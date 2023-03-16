@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "16.03.2023", "end": "23.03.2023", "item": "0d89655f53884b09b241b60c07e684af_c8e3c334b682458a8489cfa06063d7f6"}, // Warhammer 40,000: Gladius - Relics of War
+
 	{"start": "09.03.2023", "end": "16.03.2023", "item": "5e427319eea1401ab20c6cd78a4163c4_7af64df31e274da5b78adbb056c9ebed"}, // Call of the Sea
 
 	{"start": "02.03.2023", "end": "09.03.2023", "item": "9f101e25b1a9427a9e6971d2b21c5f82_cc3ef6c189f64abc8b6930b1fbcdbd5c"}, // Rise of Industry
