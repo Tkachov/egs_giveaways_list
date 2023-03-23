@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "23.03.2023", "end": "30.03.2023", "item": "0e9ae0e756524ed49a27435c9c3c3e1c_9a84503f4c494b91b565ba67f00c4fb1"}, // Chess Ultra
+
 	{"start": "16.03.2023", "end": "23.03.2023", "item": "0d89655f53884b09b241b60c07e684af_c8e3c334b682458a8489cfa06063d7f6"}, // Warhammer 40,000: Gladius - Relics of War
 
 	{"start": "09.03.2023", "end": "16.03.2023", "item": "5e427319eea1401ab20c6cd78a4163c4_7af64df31e274da5b78adbb056c9ebed"}, // Call of the Sea
