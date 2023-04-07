@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2023
 
+	// {"start": "06.04.2023", "end": "13.04.2023", "item": "?"}, // TODO: Dying Light: Enhanced Edition
+	{"start": "06.04.2023", "end": "13.04.2023", "item": "315e6807f6684c279fc286d0fc36a44f_d9a609c6106046eab55014955f31448b"}, // shapez
+
 	{"start": "30.03.2023", "end": "06.04.2023", "item": "46d340566781448ebdc2cb576f91d3b6_8292ce89bcfe4a6badab60f8269928ab"}, // The Silent Age
 	{"start": "30.03.2023", "end": "06.04.2023", "item": "78683b0edafd4a978a5ab61a7f6b0594_d4220f91bb3046a49c2cedd2a8101243"}, // Tunche
 
