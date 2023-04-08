@@ -1,4 +1,6 @@
-# egsgiveawayslist.com
+# egsgiveawayslist.com [down]
+
+**UPD 04.2023:** site is now disabled, but the list of giveaways (without login logic) still available via [Github Pages](https://tkachov.github.io/egs_giveaways_list/)
 
 This is a small simple site that allows you to check which of the Epic Games Store free games you have or haven't on your account.
 Unfortunately, it requires logging into the account to list the games in the library.  
