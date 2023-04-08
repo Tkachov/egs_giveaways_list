@@ -133,11 +133,11 @@ def api_get_library():
 
 @app.route('/')
 def index():
-	return send_from_directory('static', 'index.html')
+	return send_from_directory('docs', 'index.html')
 
 @app.route('/<path:path>')
 def send_static(path):
-	return send_from_directory('static', path)
+	return send_from_directory('docs', path)
 
 # error handling
 
@@ -151,4 +151,4 @@ def get_file_contents(filename):
 @app.errorhandler(403)
 @app.errorhandler(404)
 def http_error_handler(error):	
-	return get_file_contents('static/%d.html' % error.code), error.code
+	return get_file_contents('docs/%d.html' % error.code), error.code

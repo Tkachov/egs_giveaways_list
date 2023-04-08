@@ -299,8 +299,7 @@ var controller = {
 
 	render: function () {
 		var e = document.getElementById("login_button");
-		if (this.need_to_login) e.classList.remove("hidden");
-		else e.classList.add("hidden");
+		e.classList.add("hidden");
 
 		e = document.getElementById("logged_in_button");
 		if (this.need_to_login) e.classList.add("hidden");
