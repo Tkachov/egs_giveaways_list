@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "13.04.2023", "end": "20.04.2023", "item": "2bda08f9230144a19e98373cc4a6ac2d_52bf29cddef541aeaea4605f5d9f3123"}, // MORDHAU
+
 	// {"start": "06.04.2023", "end": "13.04.2023", "item": "?"}, // TODO: Dying Light: Enhanced Edition
 	{"start": "06.04.2023", "end": "13.04.2023", "item": "315e6807f6684c279fc286d0fc36a44f_d9a609c6106046eab55014955f31448b"}, // shapez
 
