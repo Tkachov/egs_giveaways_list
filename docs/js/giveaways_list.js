@@ -1,7 +1,11 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "20.04.2023", "end": "27.04.2023", "item": "bd9fd28ca1214868922f2ab41d6d3b65_c17465f604fe411a8dca86089cd68898"}, // Beyond Blue
+	{"start": "20.04.2023", "end": "27.04.2023", "item": "b13f6a1e5121469d8a825947b759339d_40c4367909484809909f6c1e82e2023f"}, // Never Alone (Kisima Ingitchuna)
+
 	{"start": "13.04.2023", "end": "20.04.2023", "item": "2bda08f9230144a19e98373cc4a6ac2d_52bf29cddef541aeaea4605f5d9f3123"}, // MORDHAU
+	// {"start": "13.04.2023", "end": "20.04.2023", "item": "?"}, // TODO: Second Extinction
 
 	// {"start": "06.04.2023", "end": "13.04.2023", "item": "?"}, // TODO: Dying Light: Enhanced Edition
 	{"start": "06.04.2023", "end": "13.04.2023", "item": "315e6807f6684c279fc286d0fc36a44f_d9a609c6106046eab55014955f31448b"}, // shapez
