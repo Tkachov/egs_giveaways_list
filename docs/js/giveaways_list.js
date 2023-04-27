@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "27.04.2023", "end": "04.05.2023", "item": "08ae29e4f70a4b62aa055e383381aa82_1addbe9a36af44b2868133287a3673c0"}, // Breathedge
+	{"start": "27.04.2023", "end": "04.05.2023", "item": "a0149619255648e8af0993a17ef4ee8e_a234734beb3344828bd0342fa980f958"}, // Poker Club
+
 	{"start": "20.04.2023", "end": "27.04.2023", "item": "bd9fd28ca1214868922f2ab41d6d3b65_c17465f604fe411a8dca86089cd68898"}, // Beyond Blue
 	{"start": "20.04.2023", "end": "27.04.2023", "item": "b13f6a1e5121469d8a825947b759339d_40c4367909484809909f6c1e82e2023f"}, // Never Alone (Kisima Ingitchuna)
 
