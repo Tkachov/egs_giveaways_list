@@ -1,6 +1,10 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "04.05.2023", "end": "11.05.2023", "item": "676a89b2e8344c9db39a79724150cba6_6b5d6216a086463db74848c8460eb50e"}, // Against All Odds
+	{"start": "04.05.2023", "end": "11.05.2023", "item": "253d451b16364a22907dd01b7e928fb6_54ff4322184a4c3086ee6da0a2d20f79"}, // Horizon Chase Turbo
+	{"start": "04.05.2023", "end": "11.05.2023", "item": "3bbc147c5f134b7cab059cb2b3bb0dd7_06287dfc56f941179aa9b75f26e569b3"}, // Kao the Kangaroo
+
 	{"start": "27.04.2023", "end": "04.05.2023", "item": "08ae29e4f70a4b62aa055e383381aa82_1addbe9a36af44b2868133287a3673c0"}, // Breathedge
 	{"start": "27.04.2023", "end": "04.05.2023", "item": "a0149619255648e8af0993a17ef4ee8e_a234734beb3344828bd0342fa980f958"}, // Poker Club
 
