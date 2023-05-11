@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "11.05.2023", "end": "18.05.2023", "item": "2a14cf8a83b149919a2399504e5686a6_52a1bd5e5a7240269b8514ff94db8f54"}, // The Sims 4
+
 	{"start": "04.05.2023", "end": "11.05.2023", "item": "676a89b2e8344c9db39a79724150cba6_6b5d6216a086463db74848c8460eb50e"}, // Against All Odds
 	{"start": "04.05.2023", "end": "11.05.2023", "item": "253d451b16364a22907dd01b7e928fb6_54ff4322184a4c3086ee6da0a2d20f79"}, // Horizon Chase Turbo
 	{"start": "04.05.2023", "end": "11.05.2023", "item": "3bbc147c5f134b7cab059cb2b3bb0dd7_06287dfc56f941179aa9b75f26e569b3"}, // Kao the Kangaroo
