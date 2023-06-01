@@ -1,6 +1,10 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "01.06.2023", "end": "08.06.2023", "item": "964f58c4c2074404bf9c359483ab1a48_c8ce15a561cc480e9c43c3297e80c90c"}, // Midnight Ghost Hunt
+
+	// {"start": "25.05.2023", "end": "01.06.2023", "item": "?"}, // TODO: Fallout: New Vegas
+
 	{"start": "18.05.2023", "end": "25.05.2023", "item": "f4a904fcef2447439c35c4e6457f3027_761fe09295aa422e8199cebaacf51675"}, // Death Stranding
 
 	{"start": "11.05.2023", "end": "18.05.2023", "item": "2a14cf8a83b149919a2399504e5686a6_52a1bd5e5a7240269b8514ff94db8f54"}, // The Sims 4
