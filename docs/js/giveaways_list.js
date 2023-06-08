@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "08.06.2023", "end": "15.06.2023", "item": "3b661fd6a9724ac7b6ac6d10d0572511_d916a61ddce3414bac1bbf0049ca6f7a"}, // PAYDAY 2
+
 	{"start": "01.06.2023", "end": "08.06.2023", "item": "964f58c4c2074404bf9c359483ab1a48_c8ce15a561cc480e9c43c3297e80c90c"}, // Midnight Ghost Hunt
 
 	// {"start": "25.05.2023", "end": "01.06.2023", "item": "?"}, // TODO: Fallout: New Vegas
