@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "15.06.2023", "end": "22.06.2023", "item": "f5d9b93771214e4cbd60506539d1cfc6_e00cb149a07646d4a02b259a6f295381"}, // Guacamelee! Super Turbo Championship Edition
+	{"start": "15.06.2023", "end": "22.06.2023", "item": "277e364d24ec43069f4ee3c4414d5096_09ad69c2444b4b90a96e811b1e234d24"}, // Guacamelee! 2
+
 	{"start": "08.06.2023", "end": "15.06.2023", "item": "3b661fd6a9724ac7b6ac6d10d0572511_d916a61ddce3414bac1bbf0049ca6f7a"}, // PAYDAY 2
 
 	{"start": "01.06.2023", "end": "08.06.2023", "item": "964f58c4c2074404bf9c359483ab1a48_c8ce15a561cc480e9c43c3297e80c90c"}, // Midnight Ghost Hunt
