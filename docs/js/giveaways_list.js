@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "22.06.2023", "end": "29.06.2023", "item": "7e508f543b05465abe3a935960eb70ac_48353a502e72433298f25827e03dbff0"}, // Idle Champions of the Forgotten Realms
+
 	{"start": "15.06.2023", "end": "22.06.2023", "item": "f5d9b93771214e4cbd60506539d1cfc6_e00cb149a07646d4a02b259a6f295381"}, // Guacamelee! Super Turbo Championship Edition
 	{"start": "15.06.2023", "end": "22.06.2023", "item": "277e364d24ec43069f4ee3c4414d5096_09ad69c2444b4b90a96e811b1e234d24"}, // Guacamelee! 2
 
