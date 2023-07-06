@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "06.07.2023", "end": "13.07.2023", "item": "3bb4afc31dd241c787bad056e9b8dbf9_333b659134e448ac8c8e8fa47eb85dcc"}, // GRIME
+
 	{"start": "29.06.2023", "end": "06.07.2023", "item": "456d95ca54814c8d98db2f52346ff5de_4e76076db8e7438ba1cff559f71bc4be"}, // The Dungeon Of Naheulbeuk: The Amulet Of Chaos
 
 	{"start": "22.06.2023", "end": "29.06.2023", "item": "7e508f543b05465abe3a935960eb70ac_48353a502e72433298f25827e03dbff0"}, // Idle Champions of the Forgotten Realms
