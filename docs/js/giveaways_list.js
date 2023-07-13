@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "13.07.2023", "end": "20.07.2023", "item": "5c59642227a2412fb38f324d1772914e_9fcdf953ddb94212a2ce0496a7e73652"}, // Train Valley 2
+
 	{"start": "06.07.2023", "end": "13.07.2023", "item": "3bb4afc31dd241c787bad056e9b8dbf9_333b659134e448ac8c8e8fa47eb85dcc"}, // GRIME
 
 	{"start": "29.06.2023", "end": "06.07.2023", "item": "456d95ca54814c8d98db2f52346ff5de_4e76076db8e7438ba1cff559f71bc4be"}, // The Dungeon Of Naheulbeuk: The Amulet Of Chaos
