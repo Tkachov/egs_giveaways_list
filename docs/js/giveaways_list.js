@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "20.07.2023", "end": "27.07.2023", "item": "a0c5d9d8a9a940e8a8f63118c7323210_ba2934e0e75a4f9193cac4107d5ea904"}, // Murder by Numbers
+	// {"start": "20.07.2023", "end": "27.07.2023", "item": "?"}, // The Elder Scrolls Online
+
 	{"start": "13.07.2023", "end": "20.07.2023", "item": "5c59642227a2412fb38f324d1772914e_9fcdf953ddb94212a2ce0496a7e73652"}, // Train Valley 2
 
 	{"start": "06.07.2023", "end": "13.07.2023", "item": "3bb4afc31dd241c787bad056e9b8dbf9_333b659134e448ac8c8e8fa47eb85dcc"}, // GRIME
