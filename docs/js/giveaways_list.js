@@ -1,5 +1,8 @@
 var giveaways_list = [
 	// 2023
+	
+	{"start": "27.07.2023", "end": "03.08.2023", "item": "4311a0ee99724086b1a4f261b827d038_79c724d2efc4468db6f23655fde6969c"}, // Homeworld Remastered Collection
+	{"start": "27.07.2023", "end": "03.08.2023", "item": "5db7394e65044dd1bb083ee983e2b3a5_1709353a08384d518fe56f25732eb9dd"}, // Severed Steel
 
 	{"start": "20.07.2023", "end": "27.07.2023", "item": "a0c5d9d8a9a940e8a8f63118c7323210_ba2934e0e75a4f9193cac4107d5ea904"}, // Murder by Numbers
 	// {"start": "20.07.2023", "end": "27.07.2023", "item": "?"}, // The Elder Scrolls Online
