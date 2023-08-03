@@ -1,5 +1,8 @@
 var giveaways_list = [
 	// 2023
+
+	{"start": "03.08.2023", "end": "10.08.2023", "item": "6a8dfa6e441e4f2f9048a98776c6077d_49c4bf5c6fd24259b87d0bcc96b6009f"}, // Bloons TD 6
+	{"start": "03.08.2023", "end": "10.08.2023", "item": "ff50f85ed609454e80ac46d9496da34d_9c7c10e8e1a648f8a9e35f28a1d45900"}, // Loop Hero
 	
 	{"start": "27.07.2023", "end": "03.08.2023", "item": "4311a0ee99724086b1a4f261b827d038_79c724d2efc4468db6f23655fde6969c"}, // Homeworld Remastered Collection
 	{"start": "27.07.2023", "end": "03.08.2023", "item": "5db7394e65044dd1bb083ee983e2b3a5_1709353a08384d518fe56f25732eb9dd"}, // Severed Steel
