@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "10.08.2023", "end": "17.08.2023", "item": "80d3aeb1d7c3434981e0bcbc47700a83_93aba3588eac4dac86a1b578f6e10186"}, // Europa Universalis IV
+	{"start": "10.08.2023", "end": "17.08.2023", "item": "750dfadbde8445f980601e84434359c5_e40af7696fe84488b314137f0f76b7e9"}, // Orwell: Keeping an Eye on You
+
 	{"start": "03.08.2023", "end": "10.08.2023", "item": "6a8dfa6e441e4f2f9048a98776c6077d_49c4bf5c6fd24259b87d0bcc96b6009f"}, // Bloons TD 6
 	{"start": "03.08.2023", "end": "10.08.2023", "item": "ff50f85ed609454e80ac46d9496da34d_9c7c10e8e1a648f8a9e35f28a1d45900"}, // Loop Hero
 	
