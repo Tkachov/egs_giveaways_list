@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "17.08.2023", "end": "24.08.2023", "item": "8211dc6089af4542926b7a8137b9079e_ea08171c6a0144a293d0c77f1996e69c"}, // Black Book
+	// {"start": "17.08.2023", "end": "24.08.2023", "item": "?"}, // Dodo Peak
+
 	{"start": "10.08.2023", "end": "17.08.2023", "item": "80d3aeb1d7c3434981e0bcbc47700a83_93aba3588eac4dac86a1b578f6e10186"}, // Europa Universalis IV
 	{"start": "10.08.2023", "end": "17.08.2023", "item": "750dfadbde8445f980601e84434359c5_e40af7696fe84488b314137f0f76b7e9"}, // Orwell: Keeping an Eye on You
 
