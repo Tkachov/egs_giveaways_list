@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "31.08.2023", "end": "07.09.2023", "item": "78473822f724474d8e436f6bde735623_092e449d98aa49529d618017a336c7d9"}, // Cave Story+
+
 	{"start": "24.08.2023", "end": "31.08.2023", "item": "e209b2d1d5384f639335f64e3e6c4bb8_7f3def68aae042268d0b5ef9a20f1ca4"}, // Homeworld: Deserts of Kharak
 
 	{"start": "17.08.2023", "end": "24.08.2023", "item": "8211dc6089af4542926b7a8137b9079e_ea08171c6a0144a293d0c77f1996e69c"}, // Black Book
