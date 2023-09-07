@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "07.09.2023", "end": "14.09.2023", "item": "14d712e338ee4fe5b5304d959cd75cd2_56e23ceb7e1544f0a8f1f50154403ac2"}, // Spelldrifter
+
 	{"start": "31.08.2023", "end": "07.09.2023", "item": "78473822f724474d8e436f6bde735623_092e449d98aa49529d618017a336c7d9"}, // Cave Story+
 
 	{"start": "24.08.2023", "end": "31.08.2023", "item": "e209b2d1d5384f639335f64e3e6c4bb8_7f3def68aae042268d0b5ef9a20f1ca4"}, // Homeworld: Deserts of Kharak
