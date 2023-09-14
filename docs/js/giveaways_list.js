@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	// {"start": "14.09.2023", "end": "21.09.2023", "item": "?"}, // 911 Operator
+
 	{"start": "07.09.2023", "end": "14.09.2023", "item": "14d712e338ee4fe5b5304d959cd75cd2_56e23ceb7e1544f0a8f1f50154403ac2"}, // Spelldrifter
 
 	{"start": "31.08.2023", "end": "07.09.2023", "item": "78473822f724474d8e436f6bde735623_092e449d98aa49529d618017a336c7d9"}, // Cave Story+
