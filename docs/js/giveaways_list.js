@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "21.09.2023", "end": "28.09.2023", "item": "a3100205e194489088c7625c8c5c1596_bbd8be51c11945dc8690b030d5b37e09"}, // The Forest Quartet
+	{"start": "21.09.2023", "end": "28.09.2023", "item": "0f58cd1c026441f49371d663a710fe83_fd06338c5faa41968d6130b4927e3e17"}, // Out of Line
+
 	// {"start": "14.09.2023", "end": "21.09.2023", "item": "?"}, // 911 Operator
 
 	{"start": "07.09.2023", "end": "14.09.2023", "item": "14d712e338ee4fe5b5304d959cd75cd2_56e23ceb7e1544f0a8f1f50154403ac2"}, // Spelldrifter
