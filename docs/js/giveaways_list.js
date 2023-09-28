@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "28.09.2023", "end": "05.10.2023", "item": "cb8afc06acb14f6a8cf3ab01f4b361ce_055dcd4c95a54ff58edb145ddbec3e3e"}, // Soulstice
+	{"start": "28.09.2023", "end": "05.10.2023", "item": "23499f64e5304139b514c3e674c5c0d6_b3dde22db4e14b4cb644271f02038e25"}, // Model Builder
+
 	{"start": "21.09.2023", "end": "28.09.2023", "item": "a3100205e194489088c7625c8c5c1596_bbd8be51c11945dc8690b030d5b37e09"}, // The Forest Quartet
 	{"start": "21.09.2023", "end": "28.09.2023", "item": "0f58cd1c026441f49371d663a710fe83_fd06338c5faa41968d6130b4927e3e17"}, // Out of Line
 
