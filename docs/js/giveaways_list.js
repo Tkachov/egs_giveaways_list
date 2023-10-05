@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "05.10.2023", "end": "12.10.2023", "item": "beb7e64d3da74ae780405da48cccb581_9692197a533949a8b4449b48fbe7521c"}, // Godlike Burger
+
 	{"start": "28.09.2023", "end": "05.10.2023", "item": "cb8afc06acb14f6a8cf3ab01f4b361ce_055dcd4c95a54ff58edb145ddbec3e3e"}, // Soulstice
 	{"start": "28.09.2023", "end": "05.10.2023", "item": "23499f64e5304139b514c3e674c5c0d6_b3dde22db4e14b4cb644271f02038e25"}, // Model Builder
 
