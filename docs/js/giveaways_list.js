@@ -1,5 +1,12 @@
 var giveaways_list = [
 	// 2023
+	
+	{"start": "12.10.2023", "end": "19.10.2023", "item": "aee7dd76aa6746578f476dc47f8d1d7f_00438c2b22454541a0f70de33364331c"}, // Blazing Sails
+	{"start": "12.10.2023", "end": "19.10.2023", "item": "ad43401ad02840c2b2bee5f1f1a59988_6bb8533f10c84c49946d32727690c3e1"}, // Q.U.B.E. 10th Anniversary
+	{"start": "12.10.2023", "end": "19.10.2023", "item": "4b5f1eb366dc45f0920d397c01b291ba_8c8ee5e50c7c42a7b59a9ee8c31c0330"}, // Q.U.B.E. 2 Soundtrack
+	{"start": "12.10.2023", "end": "19.10.2023", "item": "4b5f1eb366dc45f0920d397c01b291ba_ade772fcce3a41cf97279032c10b0041"}, // Puzzle Pack 1
+	{"start": "12.10.2023", "end": "19.10.2023", "item": "4b5f1eb366dc45f0920d397c01b291ba_b36ab3b81c844ee2a908c7d28451337a"}, // Puzzle Pack 2
+	{"start": "12.10.2023", "end": "19.10.2023", "item": "4b5f1eb366dc45f0920d397c01b291ba_8d644d777e5042c187c03530b965dc17"}, // Glove Skin
 
 	{"start": "05.10.2023", "end": "12.10.2023", "item": "beb7e64d3da74ae780405da48cccb581_9692197a533949a8b4449b48fbe7521c"}, // Godlike Burger
 
