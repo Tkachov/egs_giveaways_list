@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2023
 	
+	{"start": "26.10.2023", "end": "02.11.2023", "item": "d1a3ff292b2f4ee289a83d7a91ae3458_e5c0d43b05a0405b802234841da67fd1"}, // Tandem A Tale of Shadows
+	// {"start": "26.10.2023", "end": "02.11.2023", "item": "?"}, // The Evil Within 2
+
 	{"start": "19.10.2023", "end": "26.10.2023", "item": "35eda4ff87f94a7491dc28175b8f3b4f_17371e07abfe45adbdbd62c651ed6b68"}, // Eternal Threads
 	// {"start": "19.10.2023", "end": "26.10.2023", "item": "?"}, // The Evil Within
 
