@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2023
 	
+	// {"start": "16.11.2023", "end": "23.11.2023", "item": "?"}, // Earthlock
+	{"start": "16.11.2023", "end": "23.11.2023", "item": "95b4d5a753d042678f775d5e1eb5ab25_6dfe148a5d5f4fa9b265dcc3803dc395"}, // Surviving the Aftermath
+
 	{"start": "09.11.2023", "end": "16.11.2023", "item": "ca05bd340e84436ebea4a0c0ca55befa_3ac2d869235f4a2bb93090b95c1dc1c3"}, // Golden Light
 
 	{"start": "02.11.2023", "end": "09.11.2023", "item": "80be39e522204fd0942916d73234d044_e55f0dd5f2444c719ab4f4e37fb81d0b"}, // Turnip Boy Commits Tax Evasion
