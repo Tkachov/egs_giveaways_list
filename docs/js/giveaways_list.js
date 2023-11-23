@@ -1,5 +1,7 @@
 var giveaways_list = [
 	// 2023
+
+	// {"start": "23.11.2023", "end": "30.11.2023", "item": "?"}, // Deliver Us Mars
 	
 	// {"start": "16.11.2023", "end": "23.11.2023", "item": "?"}, // Earthlock
 	{"start": "16.11.2023", "end": "23.11.2023", "item": "95b4d5a753d042678f775d5e1eb5ab25_6dfe148a5d5f4fa9b265dcc3803dc395"}, // Surviving the Aftermath
