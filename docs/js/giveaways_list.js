@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "30.11.2023", "end": "07.12.2023", "item": "651d07f1eee8419e80eb2938f8f44cf0_53b15be31b7a45b1b3f143d8d66687a7"}, // Mighty Fight Federation
+	{"start": "30.11.2023", "end": "07.12.2023", "item": "6ef33a285bf5426d852762aecc95c826_5e2f9d85fe34413788b3f266b924a61b"}, // Jitsu Squad
+
 	// {"start": "23.11.2023", "end": "30.11.2023", "item": "?"}, // Deliver Us Mars
 	
 	// {"start": "16.11.2023", "end": "23.11.2023", "item": "?"}, // Earthlock
