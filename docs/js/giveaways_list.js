@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2023
 
+	{"start": "07.12.2023", "end": "14.12.2023", "item": "16fc138ed83846bc90d923fe0d87ad72_b61305fc1b184d289c6707ef7ee0f72b"}, // GigaBash
+	{"start": "07.12.2023", "end": "14.12.2023", "item": "85f0435aa88347d185dbcb147716609b_2c05ab6afd314e83b5ecc79661365cdf"}, // Predecessor
+
 	{"start": "30.11.2023", "end": "07.12.2023", "item": "651d07f1eee8419e80eb2938f8f44cf0_53b15be31b7a45b1b3f143d8d66687a7"}, // Mighty Fight Federation
 	{"start": "30.11.2023", "end": "07.12.2023", "item": "6ef33a285bf5426d852762aecc95c826_5e2f9d85fe34413788b3f266b924a61b"}, // Jitsu Squad
 
