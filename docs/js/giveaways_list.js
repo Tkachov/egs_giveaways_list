@@ -1,5 +1,28 @@
 var giveaways_list = [
+	// 2024
+
+	{"start": "04.01.2024", "end": "11.01.2024", "item": "2a09fb19b47f46dfb11ebd382f132a8f_b2666e211d334d15a0c29188d0abb6c8"}, // Guardians of the Galaxy
+	{"start": "03.01.2024", "end": "04.01.2024", "item": "71d19da3678943098859baa9c4c39f95_38649a203d904405ab9068e09dc5be91"}, // A Plague Tale: Innocence
+	// {"start": "02.01.2024", "end": "03.01.2024", "item": ""}, // 20 Minutes Till Dawn
+	{"start": "01.01.2024", "end": "02.01.2024", "item": "040baa2d100d465caf428c688cc3cdba_ddcae2cac7f94a5e9f19e8f7a24b4878"}, // Escape Academy
+
 	// 2023
+
+	{"start": "31.12.2023", "end": "01.01.2024", "item": "95d0b9561be1464cb43bd029e94cf526_1044c51716c4423e83da5818d289057e"}, // Ghostrunner
+	// {"start": "30.12.2023", "end": "31.12.2023", "item": ""}, // Saints Row
+	// {"start": "29.12.2023", "end": "30.12.2023", "item": ""}, // Snakebird Complete
+	// {"start": "28.12.2023", "end": "29.12.2023", "item": ""}, // Cat Quest
+	{"start": "27.12.2023", "end": "28.12.2023", "item": "2cdc5a2758a6445d8d4f399ecb469aaf_b8c897b0f6ff46ca857f422dab301832"}, // Cursed to Golf
+	{"start": "26.12.2023", "end": "27.12.2023", "item": "basil_26734c6c01984fd882d72a18e81df681"}, // Human Resource Machine
+	// {"start": "25.12.2023", "end": "26.12.2023", "item": ""}, // The Outer Worlds: Spacer's Choice Edition
+	// {"start": "24.12.2023", "end": "25.12.2023", "item": ""}, // Ghostwire: Tokyo
+	// {"start": "23.12.2023", "end": "24.12.2023", "item": ""}, // Fallout 3
+	// {"start": "22.12.2023", "end": "23.12.2023", "item": ""}, // Art of Rally
+	// {"start": "21.12.2023", "end": "22.12.2023", "item": ""}, // Melvor Idle
+	// {"start": "20.12.2023", "end": "21.12.2023", "item": ""}, // DNF Duel
+
+	// {"start": "14.12.2023", "end": "20.12.2023", "item": ""}, // Destiny 2: Legacy Collection
+	{"start": "14.12.2023", "end": "20.12.2023", "item": "428115def4ca4deea9d69c99c5a5a99e_06bd477f9fbe4259a1421fb3f559aa46"}, // Destiny 2
 
 	{"start": "07.12.2023", "end": "14.12.2023", "item": "16fc138ed83846bc90d923fe0d87ad72_b61305fc1b184d289c6707ef7ee0f72b"}, // GigaBash
 	{"start": "07.12.2023", "end": "14.12.2023", "item": "85f0435aa88347d185dbcb147716609b_2c05ab6afd314e83b5ecc79661365cdf"}, // Predecessor
