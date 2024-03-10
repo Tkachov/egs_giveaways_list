@@ -1,6 +1,24 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "07.03.2024", "end": "14.03.2024", "item": "4a681a809a094e2c8dcc68353c68fed6_59fdf842adb843c1a07d714c410e107d"}, // Astro Duel 2
+
+	{"start": "29.02.2024", "end": "07.03.2024", "item": "2ed7ed64d8604265924b85bbd5670220_c4e7b40a8b064a7a8e88e68b3c1e5da5"}, // Aerial_Knight's Never Yield
+
+	{"start": "22.02.2024", "end": "29.02.2024", "item": "moose_e42eca8e2aeb48da9ccc5d5ecc212b62"}, // Super Meat Boy Forever
+
+	{"start": "15.02.2024", "end": "22.02.2024", "item": "ac98aa34584648f2b71152e509191c1c_fe90738ef51c4da39fb9efc8720b6a5a"}, // Dakar Desert Rally
+
+	{"start": "08.02.2024", "end": "15.02.2024", "item": "1311a5735ed844c0b3c47027cab321f0_f1b123b2f48840b5b2b0322541fcbddb"}, // Doki Doki Literature Club Plus!
+	{"start": "08.02.2024", "end": "15.02.2024", "item": "ab29925a0a9a49598adba45d108ceb3e_3f97c40f183e4673ab85579ef1c3a797"}, // Lost Castle
+
+	{"start": "01.02.2024", "end": "08.02.2024", "item": "88c17fed155e43068c338d33d1bcd481_a4a58a236fc544c6b47bf72706946ef1"}, // Doors - Paradox
+	{"start": "25.01.2024", "end": "01.02.2024", "item": "1260f09c5ab842b9a645e14f085ed5af_96bea94ee49745f8984d6f889fd9c2e9"}, // Infinifactory
+
+	// {"start": "18.01.2024", "end": "25.01.2024", "item": ""}, // LOVE
+
+	{"start": "11.01.2024", "end": "18.01.2024", "item": "d93cf08971eb4920862a95870a051f81_e34731008ad54f77927bd837e5547a40"}, // Sail Forth
+
 	{"start": "04.01.2024", "end": "11.01.2024", "item": "2a09fb19b47f46dfb11ebd382f132a8f_b2666e211d334d15a0c29188d0abb6c8"}, // Guardians of the Galaxy
 	{"start": "03.01.2024", "end": "04.01.2024", "item": "71d19da3678943098859baa9c4c39f95_38649a203d904405ab9068e09dc5be91"}, // A Plague Tale: Innocence
 	// {"start": "02.01.2024", "end": "03.01.2024", "item": ""}, // 20 Minutes Till Dawn
@@ -99,7 +117,13 @@ var giveaways_list = [
 
 	{"start": "01.06.2023", "end": "08.06.2023", "item": "964f58c4c2074404bf9c359483ab1a48_c8ce15a561cc480e9c43c3297e80c90c"}, // Midnight Ghost Hunt
 
-	// {"start": "25.05.2023", "end": "01.06.2023", "item": "?"}, // TODO: Fallout: New Vegas
+	{"start": "25.05.2023", "end": "01.06.2023", "item": "3428aaab2c674c98b3acb789dcfaa548_dabb52e328834da7bbe99691e374cb84"}, // Fallout: New Vegas
+	{"start": "25.05.2023", "end": "01.06.2023", "item": "3428aaab2c674c98b3acb789dcfaa548_e03e450ae07b41049e90ca620a8e054e"}, // Fallout New Vegas: Courier's Stash
+	{"start": "25.05.2023", "end": "01.06.2023", "item": "3428aaab2c674c98b3acb789dcfaa548_a92cc9f6e89f40c28950016d8c8202f3"}, // Fallout New Vegas: Dead Money
+	{"start": "25.05.2023", "end": "01.06.2023", "item": "3428aaab2c674c98b3acb789dcfaa548_45f8c6bb48f443cda04fae360c9d1f05"}, // Fallout New Vegas: Honest Hearts
+	{"start": "25.05.2023", "end": "01.06.2023", "item": "3428aaab2c674c98b3acb789dcfaa548_99319f67f7a146a583ab433db3206fe7"}, // Fallout New Vegas: Old World Blues
+	{"start": "25.05.2023", "end": "01.06.2023", "item": "3428aaab2c674c98b3acb789dcfaa548_9d6e337d893346fa897ba823042718fd"}, // Fallout New Vegas: Lonesome Road
+	{"start": "25.05.2023", "end": "01.06.2023", "item": "3428aaab2c674c98b3acb789dcfaa548_8639c764126147a49fba4e79d4b12e3c"}, // Fallout New Vegas: Gun Runners’ Arsenal
 
 	{"start": "18.05.2023", "end": "25.05.2023", "item": "f4a904fcef2447439c35c4e6457f3027_761fe09295aa422e8199cebaacf51675"}, // Death Stranding
 
@@ -177,7 +201,7 @@ var giveaways_list = [
 	{"start": "22.12.2022", "end": "22.12.2022", "item": "aae22da1fb884fa395b25bc30dd61faf_87e1c4c8fcbd47fba99e57a8b52defca"}, // Fallout 2
 	{"start": "22.12.2022", "end": "22.12.2022", "item": "b90be973f6e74975ac1a6ff15dbfd0b3_025bf6c6f8f54e9ba1853e2a81dfd896"}, // Fallout Tactics
 	{"start": "21.12.2022", "end": "21.12.2022", "item": "ea533c2d54754167a9392a2ffa61bb87_4c35cfd4b3c4487386a524867864481c"}, // LEGO Builder's Journey
-	// {"start": "20.12.2022", "end": "20.12.2022", "item": "?"}, // TODO: Wolfenstein: The New Order
+	{"start": "20.12.2022", "end": "20.12.2022", "item": "0bd3e505924240adb702295fa08c1eff_283080ad58e64fd084d30413888a571c"}, // Wolfenstein: The New Order
 	{"start": "19.12.2022", "end": "19.12.2022", "item": "a567c32599bf4d4fb609e424f3691b39_d74fb2e8ae09432db115612e1bde5655"}, // Them's Fightin' Herds
 	{"start": "18.12.2022", "end": "18.12.2022", "item": "66a0893b7b9a42a695f0a387d64dfcc6_15956355c14a4cd19c6b64abfd6f7425"}, // Sable
 	{"start": "17.12.2022", "end": "17.12.2022", "item": "c660f57e1a164930a7196f1fd27ae45a_ea57c7d9cf304100bf677d18be2fe8e2"}, // Costume Quest 2
@@ -258,7 +282,7 @@ var giveaways_list = [
 
 	{"start": "09.06.2022", "end": "16.06.2022", "item": "turtle_d43a176b083c4f92867c2313c6326d26"}, // Maneater
 
-	// {"start": "02.06.2022", "end": "09.06.2022", "item": "?"}, // TODO: Wolfenstein: The New Order
+	{"start": "02.06.2022", "end": "09.06.2022", "item": "0bd3e505924240adb702295fa08c1eff_283080ad58e64fd084d30413888a571c"}, // Wolfenstein: The New Order
 
 	// {"start": "26.05.2022", "end": "02.06.2022", "item": "?"}, // TODO: Bioshock: The Collection
 
