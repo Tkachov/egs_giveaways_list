@@ -19,7 +19,8 @@ var giveaways_list = [
 
 	{"start": "11.01.2024", "end": "18.01.2024", "item": "d93cf08971eb4920862a95870a051f81_e34731008ad54f77927bd837e5547a40"}, // Sail Forth
 
-	{"start": "04.01.2024", "end": "11.01.2024", "item": "2a09fb19b47f46dfb11ebd382f132a8f_b2666e211d334d15a0c29188d0abb6c8"}, // Guardians of the Galaxy
+	{"start": "04.01.2024", "end": "11.01.2024", "item": "2a09fb19b47f46dfb11ebd382f132a8f_88f4bb0bb06e4962a2042d5e20fb6ace"}, // Guardians of the Galaxy
+	{"start": "04.01.2024", "end": "11.01.2024", "item": "2a09fb19b47f46dfb11ebd382f132a8f_b2666e211d334d15a0c29188d0abb6c8"}, // Guardians of the Galaxy: Social-Lord Outfit
 	{"start": "03.01.2024", "end": "04.01.2024", "item": "71d19da3678943098859baa9c4c39f95_38649a203d904405ab9068e09dc5be91"}, // A Plague Tale: Innocence
 	// {"start": "02.01.2024", "end": "03.01.2024", "item": ""}, // 20 Minutes Till Dawn
 	{"start": "01.01.2024", "end": "02.01.2024", "item": "040baa2d100d465caf428c688cc3cdba_ddcae2cac7f94a5e9f19e8f7a24b4878"}, // Escape Academy
