@@ -1,6 +1,12 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "21.03.2024", "end": "28.03.2024", "item": "b79b8b81ba8c4bf9b4b1154670237131_e35269408cce4631ba6a69b6a2e4d1a0"}, // Invincible Presents: Atom Eve
+	// {"start": "21.03.2024", "end": "28.03.2024", "item": ""}, // Call of the Wild: The Angler
+
+	{"start": "14.03.2024", "end": "21.03.2024", "item": "d5ee752640ef4cee8b7f5364410ba41f_619e04f4d42c4b65b37d17ea3310f218"}, // The Bridge
+	// {"start": "14.03.2024", "end": "21.03.2024", "item": ""}, // Deus Ex: Mankind Divided
+
 	{"start": "07.03.2024", "end": "14.03.2024", "item": "4a681a809a094e2c8dcc68353c68fed6_59fdf842adb843c1a07d714c410e107d"}, // Astro Duel 2
 
 	{"start": "29.02.2024", "end": "07.03.2024", "item": "2ed7ed64d8604265924b85bbd5670220_c4e7b40a8b064a7a8e88e68b3c1e5da5"}, // Aerial_Knight's Never Yield
