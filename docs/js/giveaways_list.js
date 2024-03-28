@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "28.03.2024", "end": "04.04.2024", "item": "cecc5a53aa534e15881fdbd67a1e83b7_022a57293bf040cb9ad97b84861b8846"}, // Islets
+
 	{"start": "21.03.2024", "end": "28.03.2024", "item": "b79b8b81ba8c4bf9b4b1154670237131_e35269408cce4631ba6a69b6a2e4d1a0"}, // Invincible Presents: Atom Eve
 	// {"start": "21.03.2024", "end": "28.03.2024", "item": ""}, // Call of the Wild: The Angler
 
