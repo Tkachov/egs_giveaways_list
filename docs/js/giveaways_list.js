@@ -1,6 +1,11 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "11.04.2024", "end": "18.04.2024", "item": "95d0b9561be1464cb43bd029e94cf526_1044c51716c4423e83da5818d289057e"}, // Ghostrunner
+
+	// {"start": "04.04.2024", "end": "11.04.2024", "item": ""}, // The Outer Worlds: Spacer's Choice Edition
+	// {"start": "04.04.2024", "end": "11.04.2024", "item": ""}, // Thief
+
 	{"start": "28.03.2024", "end": "04.04.2024", "item": "cecc5a53aa534e15881fdbd67a1e83b7_022a57293bf040cb9ad97b84861b8846"}, // Islets
 
 	{"start": "21.03.2024", "end": "28.03.2024", "item": "b79b8b81ba8c4bf9b4b1154670237131_e35269408cce4631ba6a69b6a2e4d1a0"}, // Invincible Presents: Atom Eve
