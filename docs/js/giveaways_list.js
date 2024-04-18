@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "18.04.2024", "end": "25.04.2024", "item": "a1f2a672b08f45d28bb6b65eef6ffe41_8b82a5255a63451aade45964ccb040f4"}, // The Big Con
+	{"start": "18.04.2024", "end": "25.04.2024", "item": "ab9f1f7354a8418388b43132d420524a_bf81790c99634630b7389c5d261f3a11"}, // Town of Salem 2
+
 	{"start": "11.04.2024", "end": "18.04.2024", "item": "95d0b9561be1464cb43bd029e94cf526_1044c51716c4423e83da5818d289057e"}, // Ghostrunner
 
 	// {"start": "04.04.2024", "end": "11.04.2024", "item": ""}, // The Outer Worlds: Spacer's Choice Edition
