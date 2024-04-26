@@ -1,6 +1,10 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "25.04.2024", "end": "02.05.2024", "item": "51b1503392e04abab64364092cbfca2b_6b5b887a83ea49ba9d228410ee90b8e9"}, // INDUSTRIA
+	{"start": "25.04.2024", "end": "02.05.2024", "item": "2052c58b9f64498386cbbbc85df90bbf_98fccaa4f62145f295203ee8389af8c5"}, // LISA: The Painful - Definitive Edition
+	{"start": "25.04.2024", "end": "02.05.2024", "item": "87de7c0aad7944899fb6d2b05e13b108_4423ec07f6cc4facade298799967f1e8"}, // LISA: The Joyful - Definitive Edition
+
 	{"start": "18.04.2024", "end": "25.04.2024", "item": "a1f2a672b08f45d28bb6b65eef6ffe41_8b82a5255a63451aade45964ccb040f4"}, // The Big Con
 	{"start": "18.04.2024", "end": "25.04.2024", "item": "ab9f1f7354a8418388b43132d420524a_bf81790c99634630b7389c5d261f3a11"}, // Town of Salem 2
 
