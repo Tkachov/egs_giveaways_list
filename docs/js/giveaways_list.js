@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "02.05.2024", "end": "09.05.2024", "item": "a1a52b1a570e4ee3ab3b2a8ca930753e_d1e09eb6c1e447f98d5792f73f33d88c"}, // Orcs Must Die! 3
+
 	{"start": "25.04.2024", "end": "02.05.2024", "item": "51b1503392e04abab64364092cbfca2b_6b5b887a83ea49ba9d228410ee90b8e9"}, // INDUSTRIA
 	{"start": "25.04.2024", "end": "02.05.2024", "item": "2052c58b9f64498386cbbbc85df90bbf_98fccaa4f62145f295203ee8389af8c5"}, // LISA: The Painful - Definitive Edition
 	{"start": "25.04.2024", "end": "02.05.2024", "item": "87de7c0aad7944899fb6d2b05e13b108_4423ec07f6cc4facade298799967f1e8"}, // LISA: The Joyful - Definitive Edition
