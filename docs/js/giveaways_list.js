@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "09.05.2024", "end": "16.05.2024", "item": "bda8d2133655435982b9118972792328_e0aa26672dcb40c3a137ced30ed1f160"}, // Firestone Online Idle RPG
+	{"start": "09.05.2024", "end": "16.05.2024", "item": "396a808f269241aba0fe2ad322ebd6d5_3324006765f34f57a408996ad2e592b5"}, // Circus Electrique
+
 	{"start": "02.05.2024", "end": "09.05.2024", "item": "a1a52b1a570e4ee3ab3b2a8ca930753e_d1e09eb6c1e447f98d5792f73f33d88c"}, // Orcs Must Die! 3
 
 	{"start": "25.04.2024", "end": "02.05.2024", "item": "51b1503392e04abab64364092cbfca2b_6b5b887a83ea49ba9d228410ee90b8e9"}, // INDUSTRIA
