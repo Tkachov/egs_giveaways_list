@@ -1,6 +1,10 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "23.05.2024", "end": "30.05.2024", "item": "308cbcb523ad4937a8c509d10e9b688a_5072135b902d472891107c66d12116b0"}, // Farming Simulator 22
+
+	// {"start": "16.05.2024", "end": "23.05.2024", "item": ""}, // Dragon Age: Inquisition
+
 	{"start": "09.05.2024", "end": "16.05.2024", "item": "bda8d2133655435982b9118972792328_e0aa26672dcb40c3a137ced30ed1f160"}, // Firestone Online Idle RPG
 	{"start": "09.05.2024", "end": "16.05.2024", "item": "396a808f269241aba0fe2ad322ebd6d5_3324006765f34f57a408996ad2e592b5"}, // Circus Electrique
 
