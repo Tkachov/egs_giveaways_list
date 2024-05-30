@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "30.05.2024", "end": "06.06.2024", "item": "bd46d4ce259349e5bd8b3ded20274737_2ebf02003ebc4df0b8b0034e9df0aac4"}, // Chivalry 2 - Public Testing
+	{"start": "30.05.2024", "end": "06.06.2024", "item": "bd46d4ce259349e5bd8b3ded20274737_4c4a6c0767304c9d830f3f36f2b29018"}, // Chivalry 2
+
 	{"start": "23.05.2024", "end": "30.05.2024", "item": "308cbcb523ad4937a8c509d10e9b688a_5072135b902d472891107c66d12116b0"}, // Farming Simulator 22
 
 	// {"start": "16.05.2024", "end": "23.05.2024", "item": ""}, // Dragon Age: Inquisition
