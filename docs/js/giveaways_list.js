@@ -1,6 +1,11 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "13.06.2024", "end": "20.06.2024", "item": "05ae696a3c5f49af91a7433547460c21_74447f48d95a4cdbbf77ef4f248ff19c"}, // Redout 2
+	{"start": "13.06.2024", "end": "20.06.2024", "item": "7e508f543b05465abe3a935960eb70ac_48353a502e72433298f25827e03dbff0"}, // Idle Champions of the Forgotten Realms
+
+	// {"start": "06.06.2024", "end": "13.06.2024", "item": ""}, // Marvel's Midnight Suns
+
 	{"start": "30.05.2024", "end": "06.06.2024", "item": "bd46d4ce259349e5bd8b3ded20274737_2ebf02003ebc4df0b8b0034e9df0aac4"}, // Chivalry 2 - Public Testing
 	{"start": "30.05.2024", "end": "06.06.2024", "item": "bd46d4ce259349e5bd8b3ded20274737_4c4a6c0767304c9d830f3f36f2b29018"}, // Chivalry 2
 
