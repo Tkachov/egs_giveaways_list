@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "27.06.2024", "end": "04.07.2024", "item": "3f6f54e0f8164224b817d23075cbb2a8_6b74182c39e34bccb214741b5d6b54df"}, // Sunless Skies: Sovereign Edition
+
 	{"start": "20.06.2024", "end": "27.06.2024", "item": "013ef1cdbe5a4408919025207ddb9c99_c1b3517c568940c1a1aa794030dc65e5"}, // Freshly Frosted
 
 	{"start": "13.06.2024", "end": "20.06.2024", "item": "05ae696a3c5f49af91a7433547460c21_74447f48d95a4cdbbf77ef4f248ff19c"}, // Redout 2
