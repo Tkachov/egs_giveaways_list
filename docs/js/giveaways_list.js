@@ -1,6 +1,13 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "18.07.2024", "end": "25.07.2024", "item": "89b9c510e8d74b9da34c447915b1ffb1_a69da8b6bd194d73af049579b4932f0b"}, // Arcade Paradise
+	{"start": "18.07.2024", "end": "25.07.2024", "item": "89a30c2a3fdb4281b5df57350e797ca9_12a46af639454dbfb162908aed866b61"}, // Maid of Sker
+
+	// {"start": "11.07.2024", "end": "18.07.2024", "item": ""}, // Floppy Knights
+
+	// {"start": "04.07.2024", "end": "11.07.2024", "item": ""}, // The Falconeer
+
 	{"start": "27.06.2024", "end": "04.07.2024", "item": "3f6f54e0f8164224b817d23075cbb2a8_6b74182c39e34bccb214741b5d6b54df"}, // Sunless Skies: Sovereign Edition
 
 	{"start": "20.06.2024", "end": "27.06.2024", "item": "013ef1cdbe5a4408919025207ddb9c99_c1b3517c568940c1a1aa794030dc65e5"}, // Freshly Frosted
@@ -116,6 +123,16 @@ var giveaways_list = [
 
 	{"start": "28.09.2023", "end": "05.10.2023", "item": "cb8afc06acb14f6a8cf3ab01f4b361ce_055dcd4c95a54ff58edb145ddbec3e3e"}, // Soulstice
 	{"start": "28.09.2023", "end": "05.10.2023", "item": "23499f64e5304139b514c3e674c5c0d6_b3dde22db4e14b4cb644271f02038e25"}, // Model Builder
+	{"start": "28.09.2023", "end": "05.10.2023", "item": "23499f64e5304139b514c3e674c5c0d6_baa5252ae48e48aea6a649cfc5253012"}, // Model Builder: Military Pack DLC
+	{"start": "28.09.2023", "end": "05.10.2023", "item": "23499f64e5304139b514c3e674c5c0d6_1505d7fab80143bfb3458228e9a8d17e"}, // Model Builder: Titan-Forge DLC no.1
+	{"start": "28.09.2023", "end": "05.10.2023", "item": "23499f64e5304139b514c3e674c5c0d6_c5d553e831a548ccacd7334998cd2e17"}, // Model Builder: Aether DLC
+	{"start": "28.09.2023", "end": "05.10.2023", "item": "23499f64e5304139b514c3e674c5c0d6_b317c844b85b4ef087f4f7b92cdcaad5"}, // Model Builder: Into The Stars DLC
+	{"start": "28.09.2023", "end": "05.10.2023", "item": "23499f64e5304139b514c3e674c5c0d6_aeffbc8710e4472a867a6bba6ad5b687"}, // Model Builder: Frostpunk DLC
+	{"start": "28.09.2023", "end": "05.10.2023", "item": "23499f64e5304139b514c3e674c5c0d6_5e51bb450ffa442483a686f4a9b3a8f4"}, // Model Builder: Cars Pack DLC
+	{"start": "28.09.2023", "end": "05.10.2023", "item": "23499f64e5304139b514c3e674c5c0d6_a004546d145b4173b9da5ce8594eef05"}, // Model Builder: Alaskan Road Truckers DLC
+	{"start": "28.09.2023", "end": "05.10.2023", "item": "23499f64e5304139b514c3e674c5c0d6_1f3ac7f08a3845c18ffd16bc20f5649f"}, // Model Builder: The Invincible Helmet
+	{"start": "28.09.2023", "end": "05.10.2023", "item": "23499f64e5304139b514c3e674c5c0d6_fe35d875265c4698ad5ef1efd66183d1"}, // Model Builder: Expansion Pack no.1
+	{"start": "28.09.2023", "end": "05.10.2023", "item": "23499f64e5304139b514c3e674c5c0d6_91cdc33a1d944e3983693e6d3af16d96"}, // Model Builder: Titan-Forge DLC no.2
 
 	{"start": "21.09.2023", "end": "28.09.2023", "item": "a3100205e194489088c7625c8c5c1596_bbd8be51c11945dc8690b030d5b37e09"}, // The Forest Quartet
 	{"start": "21.09.2023", "end": "28.09.2023", "item": "0f58cd1c026441f49371d663a710fe83_fd06338c5faa41968d6130b4927e3e17"}, // Out of Line
