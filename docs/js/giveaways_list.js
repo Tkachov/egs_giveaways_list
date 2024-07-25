@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "25.07.2024", "end": "01.08.2024", "item": "a7e2a2c51b9149c097b771926ed91877_d712d3b11cab4347b327b65baa4ebb95"}, // F.I.S.T.: Forged In Shadow Torch
+	// {"start": "25.07.2024", "end": "01.08.2024", "item": ""}, // Olympics Go! Paris 2024
+
 	{"start": "18.07.2024", "end": "25.07.2024", "item": "89b9c510e8d74b9da34c447915b1ffb1_a69da8b6bd194d73af049579b4932f0b"}, // Arcade Paradise
 	{"start": "18.07.2024", "end": "25.07.2024", "item": "89a30c2a3fdb4281b5df57350e797ca9_12a46af639454dbfb162908aed866b61"}, // Maid of Sker
 
