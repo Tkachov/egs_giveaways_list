@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "01.08.2024", "end": "08.08.2024", "item": "b112cc17de8c4b43a2372993b5916fec_c94754a1de0c4bd4b7749dbb2e1d82bc"}, // LumbearJack
+
 	{"start": "25.07.2024", "end": "01.08.2024", "item": "a7e2a2c51b9149c097b771926ed91877_d712d3b11cab4347b327b65baa4ebb95"}, // F.I.S.T.: Forged In Shadow Torch
 	// {"start": "25.07.2024", "end": "01.08.2024", "item": ""}, // Olympics Go! Paris 2024
 
