@@ -1,6 +1,16 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "22.08.2024", "end": "29.08.2024", "item": "ba2eb1ee9bfc434b8c06d33f9df7d15a_b3303e3e422448b8bbcee71138f63a01"}, // Gigantic: Rampage Edition
+	// {"start": "22.08.2024", "end": "29.08.2024", "item": ""}, // The Callisto Protocol
+
+	// {"start": "15.08.2024", "end": "22.08.2024", "item": ""}, // Death's Gambit: Afterlife
+	// {"start": "15.08.2024", "end": "22.08.2024", "item": ""}, // World of Warships pack
+
+	// {"start": "08.08.2024", "end": "15.08.2024", "item": ""}, // CYGNI - All Guns Blazing
+	// {"start": "08.08.2024", "end": "15.08.2024", "item": ""}, // DNF DUEL
+	// {"start": "08.08.2024", "end": "15.08.2024", "item": ""}, // Apex Legends pack
+
 	{"start": "01.08.2024", "end": "08.08.2024", "item": "b112cc17de8c4b43a2372993b5916fec_c94754a1de0c4bd4b7749dbb2e1d82bc"}, // LumbearJack
 
 	{"start": "25.07.2024", "end": "01.08.2024", "item": "a7e2a2c51b9149c097b771926ed91877_d712d3b11cab4347b327b65baa4ebb95"}, // F.I.S.T.: Forged In Shadow Torch
