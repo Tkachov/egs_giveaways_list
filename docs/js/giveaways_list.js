@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2024
 
+	// {"start": "29.08.2024", "end": "05.09.2024", "item": ""}, // Fallout Classic Collection
+	{"start": "29.08.2024", "end": "05.09.2024", "item": "3072dbe471f84dac8b2e9ba8af253ee2_ead90ef7726d403cb8df00b7cd767c63"}, // Wild Card Football
+
 	{"start": "22.08.2024", "end": "29.08.2024", "item": "ba2eb1ee9bfc434b8c06d33f9df7d15a_b3303e3e422448b8bbcee71138f63a01"}, // Gigantic: Rampage Edition
 	// {"start": "22.08.2024", "end": "29.08.2024", "item": ""}, // The Callisto Protocol
 
