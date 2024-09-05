@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2024
 
+	// {"start": "05.09.2024", "end": "12.09.2024", "item": ""}, // Football Manager 2024
+	{"start": "05.09.2024", "end": "12.09.2024", "item": "3196925cb7ea45c3a9c47118e52a820e_f554c33320e4489880f9c640f487395f"}, // Sniper Ghost Warrior Contracts
+
 	// {"start": "29.08.2024", "end": "05.09.2024", "item": ""}, // Fallout Classic Collection
 	{"start": "29.08.2024", "end": "05.09.2024", "item": "3072dbe471f84dac8b2e9ba8af253ee2_ead90ef7726d403cb8df00b7cd767c63"}, // Wild Card Football
 
