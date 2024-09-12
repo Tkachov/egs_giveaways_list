@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "12.09.2024", "end": "19.09.2024", "item": "c20d98862be8473b896df438004868c5_565d6ab483f14997b7ab4b4213c84c96"}, // Rugrats: Adventures in Gameland
+	// {"start": "12.09.2024", "end": "19.09.2024", "item": ""}, // SUPER CRAZY RHYTHM CASTLE
+
 	// {"start": "05.09.2024", "end": "12.09.2024", "item": ""}, // Football Manager 2024
 	{"start": "05.09.2024", "end": "12.09.2024", "item": "3196925cb7ea45c3a9c47118e52a820e_f554c33320e4489880f9c640f487395f"}, // Sniper Ghost Warrior Contracts
 
