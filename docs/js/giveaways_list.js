@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "19.09.2024", "end": "26.09.2024", "item": "0ef87626cd724281b9f8f74c83c54b93_75d762a36e4646a98eef0e3930c097be"}, // TOEM
+	{"start": "19.09.2024", "end": "26.09.2024", "item": "8d296e80f3ec42a79881f0693f3bded0_e3c33844fdea4946ac563c9902bfc667"}, // The Last Stand: Aftermath
+
 	{"start": "12.09.2024", "end": "19.09.2024", "item": "c20d98862be8473b896df438004868c5_565d6ab483f14997b7ab4b4213c84c96"}, // Rugrats: Adventures in Gameland
 	// {"start": "12.09.2024", "end": "19.09.2024", "item": ""}, // SUPER CRAZY RHYTHM CASTLE
 
