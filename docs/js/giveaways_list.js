@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "26.09.2024", "end": "03.10.2024", "item": "300ee26a2d6746cdb7dd515ae819f5d4_6675018d71f84b599a59c5bd7bb439ff"}, // The Spirit and the Mouse
+
 	{"start": "19.09.2024", "end": "26.09.2024", "item": "0ef87626cd724281b9f8f74c83c54b93_75d762a36e4646a98eef0e3930c097be"}, // TOEM
 	{"start": "19.09.2024", "end": "26.09.2024", "item": "8d296e80f3ec42a79881f0693f3bded0_e3c33844fdea4946ac563c9902bfc667"}, // The Last Stand: Aftermath
 
