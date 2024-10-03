@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "03.10.2024", "end": "10.10.2024", "item": "6c3a09646a954c04b5ab774e5b8c861d_9a26128dfe1f480e97c16015736b20f7"}, // Bear and Breakfast
+
 	{"start": "26.09.2024", "end": "03.10.2024", "item": "300ee26a2d6746cdb7dd515ae819f5d4_6675018d71f84b599a59c5bd7bb439ff"}, // The Spirit and the Mouse
 
 	{"start": "19.09.2024", "end": "26.09.2024", "item": "0ef87626cd724281b9f8f74c83c54b93_75d762a36e4646a98eef0e3930c097be"}, // TOEM
