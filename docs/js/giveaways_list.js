@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "10.10.2024", "end": "17.10.2024", "item": "edd938a6d7ec4a55ab82bba8f8dd5b22_2b524cdfced84a39b4d2110249ad7d84"}, // Empyrion - Galactic Survival
+	{"start": "10.10.2024", "end": "17.10.2024", "item": "13e30807efce43ea9e04ac1c45668d8e_2036f1c3d4074be6b5adb31a3713918a"}, // Outliver: Tribulation
+
 	{"start": "03.10.2024", "end": "10.10.2024", "item": "6c3a09646a954c04b5ab774e5b8c861d_9a26128dfe1f480e97c16015736b20f7"}, // Bear and Breakfast
 
 	{"start": "26.09.2024", "end": "03.10.2024", "item": "300ee26a2d6746cdb7dd515ae819f5d4_6675018d71f84b599a59c5bd7bb439ff"}, // The Spirit and the Mouse
