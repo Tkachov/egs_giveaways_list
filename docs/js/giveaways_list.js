@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "17.10.2024", "end": "24.10.2024", "item": "b79b8b81ba8c4bf9b4b1154670237131_e35269408cce4631ba6a69b6a2e4d1a0"}, // Invincible Presents: Atom Eve
+	{"start": "17.10.2024", "end": "24.10.2024", "item": "22a9bc193ad94ab78155b5c2f9541e6b_2014cc67b96947ec956fc178a52fa097"}, // Kardboard Kings
+
 	{"start": "10.10.2024", "end": "17.10.2024", "item": "edd938a6d7ec4a55ab82bba8f8dd5b22_2b524cdfced84a39b4d2110249ad7d84"}, // Empyrion - Galactic Survival
 	{"start": "10.10.2024", "end": "17.10.2024", "item": "13e30807efce43ea9e04ac1c45668d8e_2036f1c3d4074be6b5adb31a3713918a"}, // Outliver: Tribulation
 
