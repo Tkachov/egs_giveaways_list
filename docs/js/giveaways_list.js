@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "24.10.2024", "end": "31.10.2024", "item": "f919a1262081444fb28f0fdef68d6b14_ad66ba38abed4035917aab1b1a3a3607"}, // Moving Out
+
 	{"start": "17.10.2024", "end": "24.10.2024", "item": "b79b8b81ba8c4bf9b4b1154670237131_e35269408cce4631ba6a69b6a2e4d1a0"}, // Invincible Presents: Atom Eve
 	{"start": "17.10.2024", "end": "24.10.2024", "item": "22a9bc193ad94ab78155b5c2f9541e6b_2014cc67b96947ec956fc178a52fa097"}, // Kardboard Kings
 
