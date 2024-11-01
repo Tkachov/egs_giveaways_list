@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "31.10.2024", "end": "07.11.2024", "item": "b9e6e3d5a4474a8ead248c62bfdf08b7_a01d846767aa43d0bbb285548d59817d"}, // Witch It
+	// {"start": "31.10.2024", "end": "07.11.2024", "item": ""}, // Ghostwire: Tokyo
+
 	{"start": "24.10.2024", "end": "31.10.2024", "item": "f919a1262081444fb28f0fdef68d6b14_ad66ba38abed4035917aab1b1a3a3607"}, // Moving Out
 
 	{"start": "17.10.2024", "end": "24.10.2024", "item": "b79b8b81ba8c4bf9b4b1154670237131_e35269408cce4631ba6a69b6a2e4d1a0"}, // Invincible Presents: Atom Eve
