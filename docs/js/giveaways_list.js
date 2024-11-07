@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "07.11.2024", "end": "14.11.2024", "item": "eca9a86adffa4605b8250d383fc01098_9ee12f049a214208afb3236018bcc168"}, // Deceive Inc
+	// {"start": "07.11.2024", "end": "14.11.2024", "item": ""}, // Apex Legends pack
+
 	{"start": "31.10.2024", "end": "07.11.2024", "item": "b9e6e3d5a4474a8ead248c62bfdf08b7_a01d846767aa43d0bbb285548d59817d"}, // Witch It
 	// {"start": "31.10.2024", "end": "07.11.2024", "item": ""}, // Ghostwire: Tokyo
 
