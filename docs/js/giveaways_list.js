@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2024
 
+	// {"start": "14.11.2024", "end": "21.11.2024", "item": ""}, // Castlevania Anniversary Collection
+	// {"start": "14.11.2024", "end": "21.11.2024", "item": ""}, // Snakebird Complete
+
 	{"start": "07.11.2024", "end": "14.11.2024", "item": "eca9a86adffa4605b8250d383fc01098_9ee12f049a214208afb3236018bcc168"}, // Deceive Inc
 	// {"start": "07.11.2024", "end": "14.11.2024", "item": ""}, // Apex Legends pack
 
