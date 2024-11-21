@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "21.11.2024", "end": "28.11.2024", "item": "7109c2e220544434ad355bce3cf69120_a14e80eeef704aa1894b1bf14547e069"}, // Beholder
+
 	// {"start": "14.11.2024", "end": "21.11.2024", "item": ""}, // Castlevania Anniversary Collection
 	// {"start": "14.11.2024", "end": "21.11.2024", "item": ""}, // Snakebird Complete
 
