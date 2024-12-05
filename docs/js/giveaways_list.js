@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "05.12.2024", "end": "12.12.2024", "item": "2b09519576cb4276bfd8df52f5288e4a_5fee571eae9d43e798ea022d632232fa"}, // Bus Simulator 21 Next Stop
+	// {"start": "05.12.2024", "end": "12.12.2024", "item": ""}, // LEGO: Star Wars: The Skywalker Saga
+
 	// {"start": "28.11.2024", "end": "05.12.2024", "item": ""}, // Brotato
 
 	{"start": "21.11.2024", "end": "28.11.2024", "item": "7109c2e220544434ad355bce3cf69120_a14e80eeef704aa1894b1bf14547e069"}, // Beholder
