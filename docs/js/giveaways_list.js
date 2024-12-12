@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "12.12.2024", "end": "19.12.2024", "item": "1d6b5762a1d643a4830481c44d59abfb_b55e326929b44a7b913693ea8ae79d00"}, // The Lord of The Rings Return to Moria
+
 	{"start": "05.12.2024", "end": "12.12.2024", "item": "2b09519576cb4276bfd8df52f5288e4a_5fee571eae9d43e798ea022d632232fa"}, // Bus Simulator 21 Next Stop
 	// {"start": "05.12.2024", "end": "12.12.2024", "item": ""}, // LEGO: Star Wars: The Skywalker Saga
 
