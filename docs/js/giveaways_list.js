@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "22.12.2024", "end": "22.12.2024", "item": "194cda74f9024d67860202683a3dab18_24cb36289be34527b528cda87cdc925c"}, // Wizard of Legend
+	// {"start": "21.12.2024", "end": "21.12.2024", "item": ""}, // TerraTech
 	{"start": "20.12.2024", "end": "20.12.2024", "item": "a940fa38f001486a9884640924119576_f3ac42b603f546ccbd0f0240ba120143"}, // Astrea Six Sided Oracles
 	{"start": "19.12.2024", "end": "19.12.2024", "item": "a4e77bc04aa440a096962c14b63a41e8_9cc0c39d76354bd79d78f405e09cdb51"}, // Vampire Survivors
 
