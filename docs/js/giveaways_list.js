@@ -1,6 +1,7 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "23.12.2024", "end": "23.12.2024", "item": "91b15e9ef6c94b1694d87639beb8cbad_94e1585836694fd8ba7be97b03f1d9b3"}, // Dark and Darker: Legendary Status
 	{"start": "22.12.2024", "end": "22.12.2024", "item": "194cda74f9024d67860202683a3dab18_24cb36289be34527b528cda87cdc925c"}, // Wizard of Legend
 	// {"start": "21.12.2024", "end": "21.12.2024", "item": ""}, // TerraTech
 	{"start": "20.12.2024", "end": "20.12.2024", "item": "a940fa38f001486a9884640924119576_f3ac42b603f546ccbd0f0240ba120143"}, // Astrea Six Sided Oracles
