@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "25.12.2024", "end": "25.12.2024", "item": "calluna_9afb582e90b74bdd9e2146fb79c78589"},						   // Control
+	// {"start": "24.12.2024", "end": "24.12.2024", "item": ""}, // DREDGE
 	{"start": "23.12.2024", "end": "23.12.2024", "item": "91b15e9ef6c94b1694d87639beb8cbad_94e1585836694fd8ba7be97b03f1d9b3"}, // Dark and Darker: Legendary Status
 	{"start": "22.12.2024", "end": "22.12.2024", "item": "194cda74f9024d67860202683a3dab18_24cb36289be34527b528cda87cdc925c"}, // Wizard of Legend
 	// {"start": "21.12.2024", "end": "21.12.2024", "item": ""}, // TerraTech
