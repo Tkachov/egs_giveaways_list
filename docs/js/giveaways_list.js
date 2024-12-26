@@ -1,6 +1,7 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "26.12.2024", "end": "26.12.2024", "item": "708f57aaa04b42ef885be16c8288f0ac_d303a92b6c4d4e25808a92a0a9ca3950"}, // Ghostrunner 2
 	{"start": "25.12.2024", "end": "25.12.2024", "item": "calluna_9afb582e90b74bdd9e2146fb79c78589"},						   // Control
 	// {"start": "24.12.2024", "end": "24.12.2024", "item": ""}, // DREDGE
 	{"start": "23.12.2024", "end": "23.12.2024", "item": "91b15e9ef6c94b1694d87639beb8cbad_94e1585836694fd8ba7be97b03f1d9b3"}, // Dark and Darker: Legendary Status
