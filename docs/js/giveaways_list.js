@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2024
 
+	{"start": "28.12.2024", "end": "28.12.2024", "item": "db6d869788bd4aa59f9ccb26c91a0153_7ae00498170d40a18952e3542b7cdd08"}, // KILL KNIGHT
+	// {"start": "27.12.2024", "end": "27.12.2024", "item": ""}, // HOT WHEELS UNLEASHED
 	{"start": "26.12.2024", "end": "26.12.2024", "item": "708f57aaa04b42ef885be16c8288f0ac_d303a92b6c4d4e25808a92a0a9ca3950"}, // Ghostrunner 2
 	{"start": "25.12.2024", "end": "25.12.2024", "item": "calluna_9afb582e90b74bdd9e2146fb79c78589"},						   // Control
 	// {"start": "24.12.2024", "end": "24.12.2024", "item": ""}, // DREDGE
