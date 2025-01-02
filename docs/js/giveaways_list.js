@@ -1,6 +1,13 @@
 var giveaways_list = [
+	// 2025
+
+	{"start": "02.01.2025", "end": "09.01.2025", "item": "6430e58041234e41b8f81f68f01450ed_581c8d4fd9574884bff66cbdbaa42def"}, // Hell Let Loose
+	{"start": "01.01.2025", "end": "01.01.2025", "item": "ca4058f18b0a4a9e9e2ccc28f7f33000_8f328dced20e41d29b6f1fceed8f2164"}, // Kingdom Come: Deliverance
+
 	// 2024
 
+	{"start": "31.12.2024", "end": "31.12.2024", "item": "b7b42e2078524ab386a8b2a9856ef557_c80a76de890145edbe0d41679dbccc66"}, // Sifu
+	{"start": "30.12.2024", "end": "30.12.2024", "item": "04e4108a1fec4845bd2744e8d554c9a6_66f8c4bf50d1416c8ddf1d48cc95e4b2"}, // [REDACTED]
 	{"start": "29.12.2024", "end": "29.12.2024", "item": "a1a52b1a570e4ee3ab3b2a8ca930753e_d1e09eb6c1e447f98d5792f73f33d88c"}, // Orcs Must Die! 3
 	{"start": "28.12.2024", "end": "28.12.2024", "item": "db6d869788bd4aa59f9ccb26c91a0153_7ae00498170d40a18952e3542b7cdd08"}, // KILL KNIGHT
 	// {"start": "27.12.2024", "end": "27.12.2024", "item": ""}, // HOT WHEELS UNLEASHED
@@ -16,20 +23,21 @@ var giveaways_list = [
 	{"start": "12.12.2024", "end": "19.12.2024", "item": "1d6b5762a1d643a4830481c44d59abfb_b55e326929b44a7b913693ea8ae79d00"}, // The Lord of The Rings Return to Moria
 
 	{"start": "05.12.2024", "end": "12.12.2024", "item": "2b09519576cb4276bfd8df52f5288e4a_5fee571eae9d43e798ea022d632232fa"}, // Bus Simulator 21 Next Stop
-	// {"start": "05.12.2024", "end": "12.12.2024", "item": ""}, // LEGO: Star Wars: The Skywalker Saga
+	{"start": "05.12.2024", "end": "12.12.2024", "item": "9c59efaabb6a48f19b3485d5d9416032_709536796ff5489a97c4574b9d6bda24"}, // LEGO: Star Wars: The Skywalker Saga
+	{"start": "05.12.2024", "end": "12.12.2024", "item": "9c59efaabb6a48f19b3485d5d9416032_e8c72d870a3645fcbc5534271210c8a5"}, // LEGO: Star Wars: Classic Obi-Wan
 
 	// {"start": "28.11.2024", "end": "05.12.2024", "item": ""}, // Brotato
 
 	{"start": "21.11.2024", "end": "28.11.2024", "item": "7109c2e220544434ad355bce3cf69120_a14e80eeef704aa1894b1bf14547e069"}, // Beholder
 
-	// {"start": "14.11.2024", "end": "21.11.2024", "item": ""}, // Castlevania Anniversary Collection
-	// {"start": "14.11.2024", "end": "21.11.2024", "item": ""}, // Snakebird Complete
+	{"start": "14.11.2024", "end": "21.11.2024", "item": "247d4d4b4e424afd9b474334fe450a43_62da4c1440ae445093f1d650c3a5cc8c"}, // Castlevania Anniversary Collection
+	{"start": "14.11.2024", "end": "21.11.2024", "item": "efc30c2078a2499ab979d198255e2e4b_1cb5e018771c43ee96aa553b450e9f95"}, // Snakebird Complete
 
 	{"start": "07.11.2024", "end": "14.11.2024", "item": "eca9a86adffa4605b8250d383fc01098_9ee12f049a214208afb3236018bcc168"}, // Deceive Inc
 	// {"start": "07.11.2024", "end": "14.11.2024", "item": ""}, // Apex Legends pack
 
 	{"start": "31.10.2024", "end": "07.11.2024", "item": "b9e6e3d5a4474a8ead248c62bfdf08b7_a01d846767aa43d0bbb285548d59817d"}, // Witch It
-	// {"start": "31.10.2024", "end": "07.11.2024", "item": ""}, // Ghostwire: Tokyo
+	{"start": "31.10.2024", "end": "07.11.2024", "item": "a93cd6111251461c953776a0c4ea4d80_d0083c0713b140709d92ac02b179cbf2"}, // Ghostwire: Tokyo
 
 	{"start": "24.10.2024", "end": "31.10.2024", "item": "f919a1262081444fb28f0fdef68d6b14_ad66ba38abed4035917aab1b1a3a3607"}, // Moving Out
 
@@ -47,22 +55,24 @@ var giveaways_list = [
 	{"start": "19.09.2024", "end": "26.09.2024", "item": "8d296e80f3ec42a79881f0693f3bded0_e3c33844fdea4946ac563c9902bfc667"}, // The Last Stand: Aftermath
 
 	{"start": "12.09.2024", "end": "19.09.2024", "item": "c20d98862be8473b896df438004868c5_565d6ab483f14997b7ab4b4213c84c96"}, // Rugrats: Adventures in Gameland
-	// {"start": "12.09.2024", "end": "19.09.2024", "item": ""}, // SUPER CRAZY RHYTHM CASTLE
+	{"start": "12.09.2024", "end": "19.09.2024", "item": "048550a9623d4824894430a2c2823e02_3e165bcb3f2a4924b58c75350c6e0987"}, // SUPER CRAZY RHYTHM CASTLE
 
-	// {"start": "05.09.2024", "end": "12.09.2024", "item": ""}, // Football Manager 2024
+	{"start": "05.09.2024", "end": "12.09.2024", "item": "610a546d4e204215a0b9a1c8a382bacb_594b8acf31114b8f92430e150610e8db"}, // Football Manager 2024
+	{"start": "05.09.2024", "end": "12.09.2024", "item": "610a546d4e204215a0b9a1c8a382bacb_16e3d5114c314457b1bdd1659e70bb7c"}, // Football Manager 2024 Pre-game editor
+	{"start": "05.09.2024", "end": "12.09.2024", "item": "610a546d4e204215a0b9a1c8a382bacb_a3575fda30c34f1fba24f5f6c7ddb2e1"}, // Football Manager 2024 Resource archiver
 	{"start": "05.09.2024", "end": "12.09.2024", "item": "3196925cb7ea45c3a9c47118e52a820e_f554c33320e4489880f9c640f487395f"}, // Sniper Ghost Warrior Contracts
 
 	// {"start": "29.08.2024", "end": "05.09.2024", "item": ""}, // Fallout Classic Collection
 	{"start": "29.08.2024", "end": "05.09.2024", "item": "3072dbe471f84dac8b2e9ba8af253ee2_ead90ef7726d403cb8df00b7cd767c63"}, // Wild Card Football
 
 	{"start": "22.08.2024", "end": "29.08.2024", "item": "ba2eb1ee9bfc434b8c06d33f9df7d15a_b3303e3e422448b8bbcee71138f63a01"}, // Gigantic: Rampage Edition
-	// {"start": "22.08.2024", "end": "29.08.2024", "item": ""}, // The Callisto Protocol
+	{"start": "22.08.2024", "end": "29.08.2024", "item": "6b0541b5d9aa476cbf407643ab3b1d7d_96571224db9a4dae8414e06050230e51"}, // The Callisto Protocol
 
-	// {"start": "15.08.2024", "end": "22.08.2024", "item": ""}, // Death's Gambit: Afterlife
+	{"start": "15.08.2024", "end": "22.08.2024", "item": "7b9cdaaca4f5424e8d6bd7dabe559010_cc82af51ae724ec6bcf291fa940be8fc"}, // Death's Gambit: Afterlife
 	// {"start": "15.08.2024", "end": "22.08.2024", "item": ""}, // World of Warships pack
 
-	// {"start": "08.08.2024", "end": "15.08.2024", "item": ""}, // CYGNI - All Guns Blazing
-	// {"start": "08.08.2024", "end": "15.08.2024", "item": ""}, // DNF DUEL
+	{"start": "08.08.2024", "end": "15.08.2024", "item": "5d9f109e44ec4c8bbc5495f43b601f25_7dbf6df45b47438197d789e095d7e8c1"}, // CYGNI - All Guns Blazing
+	{"start": "08.08.2024", "end": "15.08.2024", "item": "3eb832eb6d9f4496818a0b0d667420c0_90f6c1b0452f4f839a34c55e09f326d0"}, // DNF DUEL
 	// {"start": "08.08.2024", "end": "15.08.2024", "item": ""}, // Apex Legends pack
 
 	{"start": "01.08.2024", "end": "08.08.2024", "item": "b112cc17de8c4b43a2372993b5916fec_c94754a1de0c4bd4b7749dbb2e1d82bc"}, // LumbearJack
@@ -84,7 +94,7 @@ var giveaways_list = [
 	{"start": "13.06.2024", "end": "20.06.2024", "item": "05ae696a3c5f49af91a7433547460c21_74447f48d95a4cdbbf77ef4f248ff19c"}, // Redout 2
 	{"start": "13.06.2024", "end": "20.06.2024", "item": "7e508f543b05465abe3a935960eb70ac_48353a502e72433298f25827e03dbff0"}, // Idle Champions of the Forgotten Realms
 
-	// {"start": "06.06.2024", "end": "13.06.2024", "item": ""}, // Marvel's Midnight Suns
+	{"start": "06.06.2024", "end": "13.06.2024", "item": "ea73c08ac633414584e281f838b3a78c_c7397d2fcea94f0babca92475f52bbe3"}, // Marvel's Midnight Suns
 
 	{"start": "30.05.2024", "end": "06.06.2024", "item": "bd46d4ce259349e5bd8b3ded20274737_2ebf02003ebc4df0b8b0034e9df0aac4"}, // Chivalry 2 - Public Testing
 	{"start": "30.05.2024", "end": "06.06.2024", "item": "bd46d4ce259349e5bd8b3ded20274737_4c4a6c0767304c9d830f3f36f2b29018"}, // Chivalry 2
@@ -107,13 +117,13 @@ var giveaways_list = [
 
 	{"start": "11.04.2024", "end": "18.04.2024", "item": "95d0b9561be1464cb43bd029e94cf526_1044c51716c4423e83da5818d289057e"}, // Ghostrunner
 
-	// {"start": "04.04.2024", "end": "11.04.2024", "item": ""}, // The Outer Worlds: Spacer's Choice Edition
-	// {"start": "04.04.2024", "end": "11.04.2024", "item": ""}, // Thief
+	{"start": "04.04.2024", "end": "11.04.2024", "item": "dc61166eea95474e912953b163791d42_d5726dbbf0e44081bb2b439b1d0dfca0"}, // The Outer Worlds: Spacer's Choice Edition
+	{"start": "04.04.2024", "end": "11.04.2024", "item": "3319fe5042ab4392a2b11c6938c0cda1_2bc4445cab514d02a6cd0cc1ebfa5a4c"}, // Thief
 
 	{"start": "28.03.2024", "end": "04.04.2024", "item": "cecc5a53aa534e15881fdbd67a1e83b7_022a57293bf040cb9ad97b84861b8846"}, // Islets
 
 	{"start": "21.03.2024", "end": "28.03.2024", "item": "b79b8b81ba8c4bf9b4b1154670237131_e35269408cce4631ba6a69b6a2e4d1a0"}, // Invincible Presents: Atom Eve
-	// {"start": "21.03.2024", "end": "28.03.2024", "item": ""}, // Call of the Wild: The Angler
+	{"start": "21.03.2024", "end": "28.03.2024", "item": "75d74aeb36024d95b8a30bad40dc19c3_f39049d62f8e4db5ab307453983213d0"}, // Call of the Wild: The Angler
 
 	{"start": "14.03.2024", "end": "21.03.2024", "item": "d5ee752640ef4cee8b7f5364410ba41f_619e04f4d42c4b65b37d17ea3310f218"}, // The Bridge
 	// {"start": "14.03.2024", "end": "21.03.2024", "item": ""}, // Deus Ex: Mankind Divided
@@ -150,7 +160,7 @@ var giveaways_list = [
 	// {"start": "28.12.2023", "end": "29.12.2023", "item": ""}, // Cat Quest
 	{"start": "27.12.2023", "end": "28.12.2023", "item": "2cdc5a2758a6445d8d4f399ecb469aaf_b8c897b0f6ff46ca857f422dab301832"}, // Cursed to Golf
 	{"start": "26.12.2023", "end": "27.12.2023", "item": "basil_26734c6c01984fd882d72a18e81df681"}, // Human Resource Machine
-	// {"start": "25.12.2023", "end": "26.12.2023", "item": ""}, // The Outer Worlds: Spacer's Choice Edition
+	{"start": "25.12.2023", "end": "26.12.2023", "item": "dc61166eea95474e912953b163791d42_d5726dbbf0e44081bb2b439b1d0dfca0"}, // The Outer Worlds: Spacer's Choice Edition
 	// {"start": "24.12.2023", "end": "25.12.2023", "item": ""}, // Ghostwire: Tokyo
 	// {"start": "23.12.2023", "end": "24.12.2023", "item": ""}, // Fallout 3
 	// {"start": "22.12.2023", "end": "23.12.2023", "item": ""}, // Art of Rally
