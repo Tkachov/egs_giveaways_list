@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "09.01.2025", "end": "16.01.2025", "item": "85c72a063b884d249a554fee9f71125d_26047d36df5e48aeaa570d1577f44b95"}, // Turmoil
+
 	{"start": "02.01.2025", "end": "09.01.2025", "item": "6430e58041234e41b8f81f68f01450ed_581c8d4fd9574884bff66cbdbaa42def"}, // Hell Let Loose
 	{"start": "01.01.2025", "end": "01.01.2025", "item": "ca4058f18b0a4a9e9e2ccc28f7f33000_8f328dced20e41d29b6f1fceed8f2164"}, // Kingdom Come: Deliverance
 
