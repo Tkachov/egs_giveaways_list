@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "16.01.2025", "end": "23.01.2025", "item": "040baa2d100d465caf428c688cc3cdba_ddcae2cac7f94a5e9f19e8f7a24b4878"}, // Escape Academy
+
 	{"start": "09.01.2025", "end": "16.01.2025", "item": "85c72a063b884d249a554fee9f71125d_26047d36df5e48aeaa570d1577f44b95"}, // Turmoil
 
 	{"start": "02.01.2025", "end": "09.01.2025", "item": "6430e58041234e41b8f81f68f01450ed_581c8d4fd9574884bff66cbdbaa42def"}, // Hell Let Loose
