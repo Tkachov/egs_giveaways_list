@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "30.01.2025", "end": "06.02.2025", "item": "487df1dfd24b44c381a2a376fbf78946_034973e5bc3b4aa8af5247eba80c6f46"}, // Undying
+
 	{"start": "23.01.2025", "end": "30.01.2025", "item": "5fb8093984924ff5bfad61ae28730818_b18e1911942c4dbebcb4d23676e299f0"}, // Behind the Frame: The Finest Scenery
 
 	{"start": "16.01.2025", "end": "23.01.2025", "item": "040baa2d100d465caf428c688cc3cdba_ddcae2cac7f94a5e9f19e8f7a24b4878"}, // Escape Academy
