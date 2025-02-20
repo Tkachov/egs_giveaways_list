@@ -1,6 +1,15 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "20.02.2025", "end": "27.02.2025", "item": "0f3f352865294c3ea5e10454f24fde85_6538249d5bc84eb69715c5ab78ca712d"}, // Garden Story
+	{"start": "20.02.2025", "end": "27.02.2025", "item": "wombat_ec6ed5344a904ea78729113d80818d18"},						   // World War Z Aftermath
+
+	// {"start": "13.02.2025", "end": "20.02.2025", "item": ""}, // Apex Legends Loba Free Unlock Bundle
+	// {"start": "13.02.2025", "end": "20.02.2025", "item": ""}, // F1 Manager 2024
+
+	// {"start": "06.02.2025", "end": "13.02.2025", "item": ""}, // Beyond Blue
+	// {"start": "06.02.2025", "end": "13.02.2025", "item": ""}, // HUMANKIND Standard Edition
+
 	{"start": "30.01.2025", "end": "06.02.2025", "item": "487df1dfd24b44c381a2a376fbf78946_034973e5bc3b4aa8af5247eba80c6f46"}, // Undying
 
 	{"start": "23.01.2025", "end": "30.01.2025", "item": "5fb8093984924ff5bfad61ae28730818_b18e1911942c4dbebcb4d23676e299f0"}, // Behind the Frame: The Finest Scenery
