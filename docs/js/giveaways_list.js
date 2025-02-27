@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "27.02.2025", "end": "06.03.2025", "item": "bd12fd574df14846ad24703ca7b1a12b_358264a79a7f4723b8226cc8fae4c0a7"}, // Mages of Mystralia
+
 	{"start": "20.02.2025", "end": "27.02.2025", "item": "0f3f352865294c3ea5e10454f24fde85_6538249d5bc84eb69715c5ab78ca712d"}, // Garden Story
 	{"start": "20.02.2025", "end": "27.02.2025", "item": "wombat_ec6ed5344a904ea78729113d80818d18"},						   // World War Z Aftermath
 
