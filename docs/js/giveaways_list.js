@@ -1,7 +1,10 @@
 var giveaways_list = [
 	// 2025
 
-	{"start": "06.03.2022", "end": "13.03.2022", "item": "a567c32599bf4d4fb609e424f3691b39_d74fb2e8ae09432db115612e1bde5655"}, // Them's Fightin' Herds
+	{"start": "13.03.2025", "end": "20.03.2025", "item": "ff8c96d781824ba1ae62d18d207fc52e_9b106e9bf35d4a7e8cefa750bd26e759"}, // Mortal Shell
+	// {"start": "13.03.2025", "end": "20.03.2025", "item": ""}, // World of Warships - Anniversary Party Favor
+
+	{"start": "06.03.2025", "end": "13.03.2025", "item": "a567c32599bf4d4fb609e424f3691b39_d74fb2e8ae09432db115612e1bde5655"}, // Them's Fightin' Herds
 
 	{"start": "27.02.2025", "end": "06.03.2025", "item": "bd12fd574df14846ad24703ca7b1a12b_358264a79a7f4723b8226cc8fae4c0a7"}, // Mages of Mystralia
 
