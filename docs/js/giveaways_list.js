@@ -1,6 +1,11 @@
 var giveaways_list = [
 	// 2025
 
+	// {"start": "27.03.2025", "end": "03.04.2025", "item": ""}, // Cat Quest
+	{"start": "27.03.2025", "end": "03.04.2025", "item": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68_cf7b858799184d94a2920426e728b2ed"}, // Neko Ghost, Jump!
+
+	// {"start": "20.03.2025", "end": "27.03.2025", "item": ""}, // Jurassic World Evolution 2
+
 	{"start": "13.03.2025", "end": "20.03.2025", "item": "ff8c96d781824ba1ae62d18d207fc52e_9b106e9bf35d4a7e8cefa750bd26e759"}, // Mortal Shell
 	// {"start": "13.03.2025", "end": "20.03.2025", "item": ""}, // World of Warships - Anniversary Party Favor
 
@@ -550,6 +555,7 @@ var giveaways_list = [
 	{"start": "07.10.2021", "end": "14.10.2021", "item": "8f5f5eff22f3468fa5551771406fc868_63e4593b6a4949e78ff5fa2a2aa2bf47"}, // PC Building Simulator
 
 	{"start": "30.09.2021", "end": "07.10.2021", "item": "80d3aeb1d7c3434981e0bcbc47700a83_93aba3588eac4dac86a1b578f6e10186"}, // Europa Universalis IV
+	{"start": "30.09.2021", "end": "07.10.2021", "item": "80d3aeb1d7c3434981e0bcbc47700a83_bd4fa2bd2a9948608379512b12d1738c"}, // Europa Universalis IV: Common Sense Expansion Pack
 
 	{"start": "23.09.2021", "end": "30.09.2021", "item": "61bc780f42f84fe29e6dfee957ab82de_6e7e8e5c9bcc4352bec6bb2fa5134ad2"}, // The Escapists
 
@@ -765,6 +771,7 @@ var giveaways_list = [
 	{"start": "21.05.2020", "end": "28.05.2020", "item": "cd14dcaa4f3443f19f7169a980559c62_cd9e44a9d1b14b8d84923bb985bc1636"}, // Civilization VI : Aztec DLC
 
 	{"start": "14.05.2020", "end": "21.05.2020", "item": "0584d2013f0149a791e7b9bad0eec102_6e563a2c0f5f46e3b4e88b5f4ed50cca"}, // Grand Theft Auto V
+	{"start": "14.05.2020", "end": "21.05.2020", "item": "b0cd075465c44f87be3b505ac04a2e46_122e5e90b7b8424d930be8bc1a7e05fb"}, // Grand Theft Auto V Enhanced
 
 	{"start": "07.05.2020", "end": "14.05.2020", "item": "58c35a214bbb4656a536126ad1552d42_8157061d517946f3854f55a7575108e7"}, // Death Coming
 
