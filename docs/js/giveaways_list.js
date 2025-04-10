@@ -1,6 +1,12 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "10.04.2025", "end": "17.04.2025", "item": "043ffc92cbd64a9fbc350ea68f415937_53d899266198493ba6c65765f81e25a1"}, // Arcadegeddon
+	{"start": "10.04.2025", "end": "17.04.2025", "item": "7e508f543b05465abe3a935960eb70ac_48353a502e72433298f25827e03dbff0"}, // Idle Champions of the Forgotten Realms
+	// {"start": "10.04.2025", "end": "17.04.2025", "item": ""}, // River City Girls
+
+	// {"start": "03.04.2025", "end": "10.04.2025", "item": ""}, // Cat Quest II
+
 	// {"start": "27.03.2025", "end": "03.04.2025", "item": ""}, // Cat Quest
 	{"start": "27.03.2025", "end": "03.04.2025", "item": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68_cf7b858799184d94a2920426e728b2ed"}, // Neko Ghost, Jump!
 
