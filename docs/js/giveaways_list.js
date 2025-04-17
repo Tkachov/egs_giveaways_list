@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "17.04.2025", "end": "24.04.2025", "item": "5c7501617f3449c5a6eed7590392f9fa_b032c78e9063452c8ff638e7158c1567"}, // Botanicula
+	{"start": "17.04.2025", "end": "24.04.2025", "item": "bda8d2133655435982b9118972792328_e0aa26672dcb40c3a137ced30ed1f160"}, // Firestone Online Idle RPG
+
 	{"start": "10.04.2025", "end": "17.04.2025", "item": "043ffc92cbd64a9fbc350ea68f415937_53d899266198493ba6c65765f81e25a1"}, // Arcadegeddon
 	{"start": "10.04.2025", "end": "17.04.2025", "item": "7e508f543b05465abe3a935960eb70ac_48353a502e72433298f25827e03dbff0"}, // Idle Champions of the Forgotten Realms
 	// {"start": "10.04.2025", "end": "17.04.2025", "item": ""}, // River City Girls
