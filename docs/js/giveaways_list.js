@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "24.04.2025", "end": "01.05.2025", "item": "092bbf0d7e2449c08271cae2fb791cf2_fa6f1795f811428b9d57d8ca000bd1fe"}, // CHUCHEL
+
 	{"start": "17.04.2025", "end": "24.04.2025", "item": "5c7501617f3449c5a6eed7590392f9fa_b032c78e9063452c8ff638e7158c1567"}, // Botanicula
 	{"start": "17.04.2025", "end": "24.04.2025", "item": "bda8d2133655435982b9118972792328_e0aa26672dcb40c3a137ced30ed1f160"}, // Firestone Online Idle RPG
 
