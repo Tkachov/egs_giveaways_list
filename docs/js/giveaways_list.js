@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "01.05.2025", "end": "08.05.2025", "item": "5d6924bd68114aab9e48f1ed17ce1883_98c1c9199d2f4df4ba4ac1b549da7802"}, // Super Space Club
+
 	{"start": "24.04.2025", "end": "01.05.2025", "item": "092bbf0d7e2449c08271cae2fb791cf2_fa6f1795f811428b9d57d8ca000bd1fe"}, // CHUCHEL
 
 	{"start": "17.04.2025", "end": "24.04.2025", "item": "5c7501617f3449c5a6eed7590392f9fa_b032c78e9063452c8ff638e7158c1567"}, // Botanicula
