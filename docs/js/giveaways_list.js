@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2025
 
+	// {"start": "15.05.2025", "end": "22.05.2025", "item": ""}, // Dead Island 2
+	{"start": "15.05.2025", "end": "22.05.2025", "item": "0024d18025a544fd99b2ee8dee87baaf_6a9f4b3a49534f07b86dc4b0e0451e93"}, // Happy Game
+
 	{"start": "08.05.2025", "end": "15.05.2025", "item": "7029f6353d7f468eb6940bbe6041474e_fbca48e4e06c4676bef9a9ad66e4ea99"}, // Touch Type Tale
 	{"start": "08.05.2025", "end": "15.05.2025", "item": "bd93f0ee6bcb47f9abc3ef018cb97a0d_ef9ca65efc4f4598921cf13b5e442409"}, // Deadtime Defenders
 
