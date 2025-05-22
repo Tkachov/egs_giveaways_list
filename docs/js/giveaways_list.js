@@ -1,6 +1,10 @@
 var giveaways_list = [
 	// 2025
 
+	// {"start": "22.05.2025", "end": "29.05.2025", "item": ""}, // Deliver At All Costs
+	{"start": "22.05.2025", "end": "29.05.2025", "item": "09f00180b25347bdb65ac0b7378756b7_22f9ae4d7e9844ed82ace6d125e1ccf9"}, // Gigapocalypse
+	{"start": "22.05.2025", "end": "29.05.2025", "item": "b7b42e2078524ab386a8b2a9856ef557_c80a76de890145edbe0d41679dbccc66"}, // Sifu
+
 	// {"start": "15.05.2025", "end": "22.05.2025", "item": ""}, // Dead Island 2
 	{"start": "15.05.2025", "end": "22.05.2025", "item": "0024d18025a544fd99b2ee8dee87baaf_6a9f4b3a49534f07b86dc4b0e0451e93"}, // Happy Game
 
