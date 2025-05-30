@@ -473,13 +473,16 @@ var giveaways_list = [
 
 	{"start": "16.06.2022", "end": "23.06.2022", "item": "ae373893881044d2bf26d6f8363a120e_2eb4a44635c342849d06d2d7e4f95a3d"}, // Supraland
 
-	{"start": "09.06.2022", "end": "16.06.2022", "item": "turtle_d43a176b083c4f92867c2313c6326d26"}, // Maneater
+	{"start": "09.06.2022", "end": "16.06.2022", "item": "turtle_d43a176b083c4f92867c2313c6326d26"}, 						   // Maneater
 
 	{"start": "02.06.2022", "end": "09.06.2022", "item": "0bd3e505924240adb702295fa08c1eff_283080ad58e64fd084d30413888a571c"}, // Wolfenstein: The New Order
 
-	// {"start": "26.05.2022", "end": "02.06.2022", "item": "?"}, // TODO: Bioshock: The Collection
+	// Bioshock: The Collection
+	{"start": "26.05.2022", "end": "02.06.2022", "item": "e9e3ee13329f434f94105e6ec63435e0_c7934d31d2ed473cb4b000c24e049927"}, // BioShock Remastered
+	{"start": "26.05.2022", "end": "02.06.2022", "item": "304724b675974566b1d7e23af80a1f52_84e94f1900874df4a9281e6b5793653e"}, // BioShock 2 Remastered
+	{"start": "26.05.2022", "end": "02.06.2022", "item": "df2da503f2074f078f8090da3c27ec47_e13c3bbb1bcb4d58b70013c2f9996285"}, // BioShock Infinite: Complete Edition
 
-	// {"start": "19.05.2022", "end": "26.05.2022", "item": "?"}, // TODO: Borderlands 3
+	{"start": "19.05.2022", "end": "26.05.2022", "item": "catnip_5cf86732e2744fec98a1c8a077d9f3a8"}, 						   // Borderlands 3
 
 	{"start": "12.05.2022", "end": "19.05.2022", "item": "6ea398b9c2244250a9177c0b8a69b5cd_ebaf29e138a446d3a2d523668ab05ddc"}, // Prey
 	{"start": "12.05.2022", "end": "19.05.2022", "item": "93ea0d593cb04e62afb0741bbf894173_058dbac3ef2e41a09901a6ad504e22c5"}, // Redout Enhanced Edition
