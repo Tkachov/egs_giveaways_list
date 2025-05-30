@@ -2,7 +2,7 @@ var giveaways_list = [
 	// 2025
 
 	{"start": "29.05.2025", "end": "05.06.2025", "item": "92053006068e4aa9b1ad413f72090f5e_9354cd92a21f42a186b73c984290c942"}, // Limbo
-	// {"start": "29.05.2025", "end": "05.06.2025", "item": ""}, // Tiny Tina's Wonderlands
+	{"start": "29.05.2025", "end": "05.06.2025", "item": "c37115918ccc4969a57b6b1bdc28af4a_4742cc98b91541499570c72f3825b893"}, // Tiny Tina's Wonderlands
 
 	// {"start": "22.05.2025", "end": "29.05.2025", "item": ""}, // Deliver At All Costs
 	{"start": "22.05.2025", "end": "29.05.2025", "item": "09f00180b25347bdb65ac0b7378756b7_22f9ae4d7e9844ed82ace6d125e1ccf9"}, // Gigapocalypse
