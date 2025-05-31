@@ -210,20 +210,20 @@ var giveaways_list = [
 	// 2023
 
 	{"start": "31.12.2023", "end": "01.01.2024", "item": "95d0b9561be1464cb43bd029e94cf526_1044c51716c4423e83da5818d289057e"}, // Ghostrunner
-	// {"start": "30.12.2023", "end": "31.12.2023", "item": ""}, // Saints Row
-	// {"start": "29.12.2023", "end": "30.12.2023", "item": ""}, // Snakebird Complete
-	// {"start": "28.12.2023", "end": "29.12.2023", "item": ""}, // Cat Quest
+	{"start": "30.12.2023", "end": "31.12.2023", "item": "0d23bb77ee2f45b7a571bde68caddb09_d5326cb42d704158bab2dc1629295838"}, // Saints Row
+	{"start": "29.12.2023", "end": "30.12.2023", "item": "efc30c2078a2499ab979d198255e2e4b_1cb5e018771c43ee96aa553b450e9f95"}, // Snakebird Complete
+	{"start": "28.12.2023", "end": "29.12.2023", "item": "c986e75258a146fba03a920dba852ca9_18d3c0e34d85461e90474b3a69afea1e"}, // Cat Quest
 	{"start": "27.12.2023", "end": "28.12.2023", "item": "2cdc5a2758a6445d8d4f399ecb469aaf_b8c897b0f6ff46ca857f422dab301832"}, // Cursed to Golf
-	{"start": "26.12.2023", "end": "27.12.2023", "item": "basil_26734c6c01984fd882d72a18e81df681"}, // Human Resource Machine
+	{"start": "26.12.2023", "end": "27.12.2023", "item": "basil_26734c6c01984fd882d72a18e81df681"}, 						   // Human Resource Machine
 	{"start": "25.12.2023", "end": "26.12.2023", "item": "dc61166eea95474e912953b163791d42_d5726dbbf0e44081bb2b439b1d0dfca0"}, // The Outer Worlds: Spacer's Choice Edition
-	// {"start": "24.12.2023", "end": "25.12.2023", "item": ""}, // Ghostwire: Tokyo
-	// {"start": "23.12.2023", "end": "24.12.2023", "item": ""}, // Fallout 3
-	// {"start": "22.12.2023", "end": "23.12.2023", "item": ""}, // Art of Rally
-	// {"start": "21.12.2023", "end": "22.12.2023", "item": ""}, // Melvor Idle
-	// {"start": "20.12.2023", "end": "21.12.2023", "item": ""}, // DNF Duel
+	{"start": "24.12.2023", "end": "25.12.2023", "item": "a93cd6111251461c953776a0c4ea4d80_d0083c0713b140709d92ac02b179cbf2"}, // Ghostwire Tokyo
+	{"start": "23.12.2023", "end": "24.12.2023", "item": "fa702d34a37248ba98fb17f680c085e3_b1b4e0b67a044575820cb5e63028dcae"}, // Fallout 3: Game of the Year Edition
+	{"start": "22.12.2023", "end": "23.12.2023", "item": "4751c4f6a96547209a33831d847d2810_cd21bde3fd004e28a17b49332d82bbee"}, // Art of Rally
+	{"start": "21.12.2023", "end": "22.12.2023", "item": "207c42b0325d40ebb0414041dac29b19_446c4af29db54979a6d0c39f0c068d58"}, // Melvor Idle
+	{"start": "20.12.2023", "end": "21.12.2023", "item": "3eb832eb6d9f4496818a0b0d667420c0_90f6c1b0452f4f839a34c55e09f326d0"}, // DNF Duel
 
-	// {"start": "14.12.2023", "end": "20.12.2023", "item": ""}, // Destiny 2: Legacy Collection
 	{"start": "14.12.2023", "end": "20.12.2023", "item": "428115def4ca4deea9d69c99c5a5a99e_06bd477f9fbe4259a1421fb3f559aa46"}, // Destiny 2
+	// also Destiny 2: Legacy Collection
 
 	{"start": "07.12.2023", "end": "14.12.2023", "item": "16fc138ed83846bc90d923fe0d87ad72_b61305fc1b184d289c6707ef7ee0f72b"}, // GigaBash
 	{"start": "07.12.2023", "end": "14.12.2023", "item": "85f0435aa88347d185dbcb147716609b_2c05ab6afd314e83b5ecc79661365cdf"}, // Predecessor
@@ -231,9 +231,9 @@ var giveaways_list = [
 	{"start": "30.11.2023", "end": "07.12.2023", "item": "651d07f1eee8419e80eb2938f8f44cf0_53b15be31b7a45b1b3f143d8d66687a7"}, // Mighty Fight Federation
 	{"start": "30.11.2023", "end": "07.12.2023", "item": "6ef33a285bf5426d852762aecc95c826_5e2f9d85fe34413788b3f266b924a61b"}, // Jitsu Squad
 
-	// {"start": "23.11.2023", "end": "30.11.2023", "item": "?"}, // Deliver Us Mars
+	{"start": "23.11.2023", "end": "30.11.2023", "item": "53ec6d9f552241549c4d8aa1a42bcb3b_0f3db9f169954c40b9899eea64ee1b49"}, // Deliver Us Mars
 	
-	// {"start": "16.11.2023", "end": "23.11.2023", "item": "?"}, // Earthlock
+	{"start": "16.11.2023", "end": "23.11.2023", "item": "5c82c05d2978489090d30c05e17e6e12_7cadfcd8bc9845e7a5016d71ffa843e3"}, // EARTHLOCK
 	{"start": "16.11.2023", "end": "23.11.2023", "item": "95b4d5a753d042678f775d5e1eb5ab25_6dfe148a5d5f4fa9b265dcc3803dc395"}, // Surviving the Aftermath
 
 	{"start": "09.11.2023", "end": "16.11.2023", "item": "ca05bd340e84436ebea4a0c0ca55befa_3ac2d869235f4a2bb93090b95c1dc1c3"}, // Golden Light
@@ -241,10 +241,10 @@ var giveaways_list = [
 	{"start": "02.11.2023", "end": "09.11.2023", "item": "80be39e522204fd0942916d73234d044_e55f0dd5f2444c719ab4f4e37fb81d0b"}, // Turnip Boy Commits Tax Evasion
 
 	{"start": "26.10.2023", "end": "02.11.2023", "item": "d1a3ff292b2f4ee289a83d7a91ae3458_e5c0d43b05a0405b802234841da67fd1"}, // Tandem A Tale of Shadows
-	// {"start": "26.10.2023", "end": "02.11.2023", "item": "?"}, // The Evil Within 2
+	{"start": "26.10.2023", "end": "02.11.2023", "item": "5891aa5c4c6f4aabbf555a679e02cfb9_2d77a2b3303349bca51291fcf0e29cd2"}, // The Evil Within 2
 
 	{"start": "19.10.2023", "end": "26.10.2023", "item": "35eda4ff87f94a7491dc28175b8f3b4f_17371e07abfe45adbdbd62c651ed6b68"}, // Eternal Threads
-	// {"start": "19.10.2023", "end": "26.10.2023", "item": "?"}, // The Evil Within
+	{"start": "19.10.2023", "end": "26.10.2023", "item": "d602fd70876141ba9bf4d54809c423d1_a43e7276399947b8b7b38b29f4f75a7d"}, // The Evil Within
 
 	{"start": "12.10.2023", "end": "19.10.2023", "item": "aee7dd76aa6746578f476dc47f8d1d7f_00438c2b22454541a0f70de33364331c"}, // Blazing Sails
 	{"start": "12.10.2023", "end": "19.10.2023", "item": "ad43401ad02840c2b2bee5f1f1a59988_6bb8533f10c84c49946d32727690c3e1"}, // Q.U.B.E. 10th Anniversary
@@ -271,7 +271,7 @@ var giveaways_list = [
 	{"start": "21.09.2023", "end": "28.09.2023", "item": "a3100205e194489088c7625c8c5c1596_bbd8be51c11945dc8690b030d5b37e09"}, // The Forest Quartet
 	{"start": "21.09.2023", "end": "28.09.2023", "item": "0f58cd1c026441f49371d663a710fe83_fd06338c5faa41968d6130b4927e3e17"}, // Out of Line
 
-	// {"start": "14.09.2023", "end": "21.09.2023", "item": "?"}, // 911 Operator
+	{"start": "14.09.2023", "end": "21.09.2023", "item": "d923c737f0d243ccab407605ea40d39e_273c7831fc3440e5b07317a9ce730a0f"}, // 911 Operator - Every Life Matters
 
 	{"start": "07.09.2023", "end": "14.09.2023", "item": "14d712e338ee4fe5b5304d959cd75cd2_56e23ceb7e1544f0a8f1f50154403ac2"}, // Spelldrifter
 
@@ -280,7 +280,7 @@ var giveaways_list = [
 	{"start": "24.08.2023", "end": "31.08.2023", "item": "e209b2d1d5384f639335f64e3e6c4bb8_7f3def68aae042268d0b5ef9a20f1ca4"}, // Homeworld: Deserts of Kharak
 
 	{"start": "17.08.2023", "end": "24.08.2023", "item": "8211dc6089af4542926b7a8137b9079e_ea08171c6a0144a293d0c77f1996e69c"}, // Black Book
-	// {"start": "17.08.2023", "end": "24.08.2023", "item": "?"}, // Dodo Peak
+	{"start": "17.08.2023", "end": "24.08.2023", "item": "cea01263911a4e179a5e3892ef710930_435f086b9e2e4da9882d36585cd998c5"}, // Dodo Peak
 
 	{"start": "10.08.2023", "end": "17.08.2023", "item": "80d3aeb1d7c3434981e0bcbc47700a83_93aba3588eac4dac86a1b578f6e10186"}, // Europa Universalis IV
 	{"start": "10.08.2023", "end": "17.08.2023", "item": "750dfadbde8445f980601e84434359c5_e40af7696fe84488b314137f0f76b7e9"}, // Orwell: Keeping an Eye on You
@@ -292,7 +292,7 @@ var giveaways_list = [
 	{"start": "27.07.2023", "end": "03.08.2023", "item": "5db7394e65044dd1bb083ee983e2b3a5_1709353a08384d518fe56f25732eb9dd"}, // Severed Steel
 
 	{"start": "20.07.2023", "end": "27.07.2023", "item": "a0c5d9d8a9a940e8a8f63118c7323210_ba2934e0e75a4f9193cac4107d5ea904"}, // Murder by Numbers
-	// {"start": "20.07.2023", "end": "27.07.2023", "item": "?"}, // The Elder Scrolls Online
+	{"start": "20.07.2023", "end": "27.07.2023", "item": "27aa2ebdcda14b3bb8a669aab73ca55f_b9e3c7e855044cbb82c82ea939241db7"}, // The Elder Scrolls Online
 
 	{"start": "13.07.2023", "end": "20.07.2023", "item": "5c59642227a2412fb38f324d1772914e_9fcdf953ddb94212a2ce0496a7e73652"}, // Train Valley 2
 
@@ -333,9 +333,15 @@ var giveaways_list = [
 	{"start": "20.04.2023", "end": "27.04.2023", "item": "b13f6a1e5121469d8a825947b759339d_40c4367909484809909f6c1e82e2023f"}, // Never Alone (Kisima Ingitchuna)
 
 	{"start": "13.04.2023", "end": "20.04.2023", "item": "2bda08f9230144a19e98373cc4a6ac2d_52bf29cddef541aeaea4605f5d9f3123"}, // MORDHAU
-	// {"start": "13.04.2023", "end": "20.04.2023", "item": "?"}, // TODO: Second Extinction
+	// also Second Extinction, but I guess I missed it, and it was removed from stores in 2023
 
-	// {"start": "06.04.2023", "end": "13.04.2023", "item": "?"}, // TODO: Dying Light: Enhanced Edition
+	// Dying Light: Enhanced Edition
+	{"start": "06.04.2023", "end": "13.04.2023", "item": "2c42520d342a46d7a6e0cfa77b4715de_9421139e63f34d6281c18698b54d1e63"}, // Dying Light
+	/*
+	{"start": "06.04.2023", "end": "13.04.2023", "item": "2c42520d342a46d7a6e0cfa77b4715de_abc75324a4d042d7bb252adf1d720bb5"}, // Dying Light: Standard to Enhanced Edition Upgrade
+	{"start": "06.04.2023", "end": "13.04.2023", "item": "2c42520d342a46d7a6e0cfa77b4715de_c7475b5731fb483283651c9d67b86adb"}, // Dying Light The Following
+	{"start": "06.04.2023", "end": "13.04.2023", "item": "2c42520d342a46d7a6e0cfa77b4715de_5821c65a103144548f3b55e8ce011292"}, // Dying Light The Bozak
+	*/
 	{"start": "06.04.2023", "end": "13.04.2023", "item": "315e6807f6684c279fc286d0fc36a44f_d9a609c6106046eab55014955f31448b"}, // shapez
 
 	{"start": "30.03.2023", "end": "06.04.2023", "item": "46d340566781448ebdc2cb576f91d3b6_8292ce89bcfe4a6badab60f8269928ab"}, // The Silent Age
