@@ -372,7 +372,7 @@ var giveaways_list = [
 
 	// 2022
 	
-	// {"start": "29.12.2022", "end": "05.01.2023", "item": "?"}, // TODO: Dishonored: Definitive Edition
+	{"start": "29.12.2022", "end": "05.01.2023", "item": "766e1b59c32c447093add5efbc1a4858_19884196ffca4ad0b56486a76773e5f9"}, // Dishonored - Definitive Edition
 	{"start": "29.12.2022", "end": "05.01.2023", "item": "1c943de0163f4f0982f34dc0fc37dce9_748e5691a85a4158b3da33faabb37e43"}, // Eximius: Seize the Frontline
 
 	{"start": "28.12.2022", "end": "28.12.2022", "item": "ff8c96d781824ba1ae62d18d207fc52e_9b106e9bf35d4a7e8cefa750bd26e759"}, // Mortal Shell
@@ -389,7 +389,7 @@ var giveaways_list = [
 	{"start": "25.12.2022", "end": "25.12.2022", "item": "f4a904fcef2447439c35c4e6457f3027_c7bad4fcef1e4188b36732ed4bdf8103"}, // Death Stranding DEATH STRANDING DIGITAL SOUNDTRACK
 	*/
 	{"start": "24.12.2022", "end": "24.12.2022", "item": "c5e786eddfd041caa9984213e3f9621d_7147920c1dcd4c82915c2d48a409a26d"}, // Metro: Last Light Redux
-	// {"start": "23.12.2022", "end": "23.12.2022", "item": "?"}, // TODO: Encased
+	{"start": "23.12.2022", "end": "23.12.2022", "item": "48ee23bbc7c34ac09604253e74d17b49_06154e422cbe4a45a848c89ef2f08cf7"}, // Encased
 	{"start": "22.12.2022", "end": "22.12.2022", "item": "2e412cfcbd954e7180930e9784a47e18_ad210330aa424a0f843d501ca26f8488"}, // Fallout
 	{"start": "22.12.2022", "end": "22.12.2022", "item": "aae22da1fb884fa395b25bc30dd61faf_87e1c4c8fcbd47fba99e57a8b52defca"}, // Fallout 2
 	{"start": "22.12.2022", "end": "22.12.2022", "item": "b90be973f6e74975ac1a6ff15dbfd0b3_025bf6c6f8f54e9ba1853e2a81dfd896"}, // Fallout Tactics
@@ -402,16 +402,16 @@ var giveaways_list = [
 	{"start": "15.12.2022", "end": "15.12.2022", "item": "6a8dfa6e441e4f2f9048a98776c6077d_49c4bf5c6fd24259b87d0bcc96b6009f"}, // Bloons TD 6
 
 	{"start": "08.12.2022", "end": "15.12.2022", "item": "13cba1b288ec417badb9a276cbb6d819_80ce94350bce414293a62d3cef420b4a"}, // Wildcat Gun Machine
-	// {"start": "08.12.2022", "end": "15.12.2022", "item": "?"}, // TODO: Saints Row IV: Re-Elected
+	{"start": "08.12.2022", "end": "15.12.2022", "item": "151e56468b5049628653dedab7c88007_57c0757a76374077be3a587c58e5b04a"}, // Saints Row IV Re-Elected
 
 	{"start": "01.12.2022", "end": "08.12.2022", "item": "58dbbafdb5b04b3e9442506354457e3c_2b8748cc0626405eac89a425374bb659"}, // Fort Triumph
 	{"start": "01.12.2022", "end": "08.12.2022", "item": "0e76e53e157d416ab598342ed3a9dd5a_e7873d67c5f14949978e44306867cfc8"}, // RPG in a Box
 
-	// {"start": "24.11.2022", "end": "01.12.2022", "item": "?"}, // TODO: Star Wars: Squadrons
+	{"start": "24.11.2022", "end": "01.12.2022", "item": "bc2b0372eaa448469cb9a769f27acea1_8cf2931625ac41cead9f0baf2c3fdfde"}, // Star Wars Squadrons
 
-	// {"start": "17.11.2022", "end": "24.11.2022", "item": "?"}, // TODO: Rumbleverse Epic Cheerleader Pack
 	{"start": "17.11.2022", "end": "24.11.2022", "item": "be69d6b9214f4bc594c4cb1cd310a553_ed510ff91037484c90ac1fd50152dbae"}, // Dark Deity
 	{"start": "17.11.2022", "end": "24.11.2022", "item": "95e09a8c24c44684bca1a6f25aea920c_4a896599a11348d0925d66f852977059"}, // Evil Dead: The Game
+	// also Rumbleverse Epic Cheerleader Pack, but I guess I missed it, and it was closed in 2023
 
 	{"start": "10.11.2022", "end": "17.11.2022", "item": "caf357c955344eaeaaaddb3c8357dbdf_3297b71137cf46e0ac5ad35683787eb6"}, // Alba — A Wildlife Adventure
 	{"start": "10.11.2022", "end": "17.11.2022", "item": "2f215955790d456b80c291bc2feaf7f7_c275c2a3a6564d298db3dd4ca623e1f9"}, // Shadow Tactics: Blades of the Shogun
