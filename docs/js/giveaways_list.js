@@ -65,13 +65,13 @@ var giveaways_list = [
 	{"start": "30.12.2024", "end": "30.12.2024", "item": "04e4108a1fec4845bd2744e8d554c9a6_66f8c4bf50d1416c8ddf1d48cc95e4b2"}, // [REDACTED]
 	{"start": "29.12.2024", "end": "29.12.2024", "item": "a1a52b1a570e4ee3ab3b2a8ca930753e_d1e09eb6c1e447f98d5792f73f33d88c"}, // Orcs Must Die! 3
 	{"start": "28.12.2024", "end": "28.12.2024", "item": "db6d869788bd4aa59f9ccb26c91a0153_7ae00498170d40a18952e3542b7cdd08"}, // KILL KNIGHT
-	// {"start": "27.12.2024", "end": "27.12.2024", "item": ""}, // HOT WHEELS UNLEASHED
+	{"start": "27.12.2024", "end": "27.12.2024", "item": "71e6bd85af1841f598526da595f22a62_dff2626bd13b457387875f9ba12f3309"}, // HOT WHEELS UNLEASHED
 	{"start": "26.12.2024", "end": "26.12.2024", "item": "708f57aaa04b42ef885be16c8288f0ac_d303a92b6c4d4e25808a92a0a9ca3950"}, // Ghostrunner 2
 	{"start": "25.12.2024", "end": "25.12.2024", "item": "calluna_9afb582e90b74bdd9e2146fb79c78589"},						   // Control
-	// {"start": "24.12.2024", "end": "24.12.2024", "item": ""}, // DREDGE
+	{"start": "24.12.2024", "end": "24.12.2024", "item": "8b454b47f5544fc6829cf0fed42ebae0_eac6533129434f98a6b04a81cbcaf357"}, // DREDGE
 	{"start": "23.12.2024", "end": "23.12.2024", "item": "91b15e9ef6c94b1694d87639beb8cbad_94e1585836694fd8ba7be97b03f1d9b3"}, // Dark and Darker: Legendary Status
 	{"start": "22.12.2024", "end": "22.12.2024", "item": "194cda74f9024d67860202683a3dab18_24cb36289be34527b528cda87cdc925c"}, // Wizard of Legend
-	// {"start": "21.12.2024", "end": "21.12.2024", "item": ""}, // TerraTech
+	{"start": "21.12.2024", "end": "21.12.2024", "item": "96830aff053e404c808a54300c941e57_df8a45a7adf74a7d8a9fc807d595ef2e"}, // TerraTech
 	{"start": "20.12.2024", "end": "20.12.2024", "item": "a940fa38f001486a9884640924119576_f3ac42b603f546ccbd0f0240ba120143"}, // Astrea Six Sided Oracles
 	{"start": "19.12.2024", "end": "19.12.2024", "item": "a4e77bc04aa440a096962c14b63a41e8_9cc0c39d76354bd79d78f405e09cdb51"}, // Vampire Survivors
 
@@ -81,7 +81,7 @@ var giveaways_list = [
 	{"start": "05.12.2024", "end": "12.12.2024", "item": "9c59efaabb6a48f19b3485d5d9416032_709536796ff5489a97c4574b9d6bda24"}, // LEGO: Star Wars: The Skywalker Saga
 	{"start": "05.12.2024", "end": "12.12.2024", "item": "9c59efaabb6a48f19b3485d5d9416032_e8c72d870a3645fcbc5534271210c8a5"}, // LEGO: Star Wars: Classic Obi-Wan
 
-	// {"start": "28.11.2024", "end": "05.12.2024", "item": ""}, // Brotato
+	{"start": "28.11.2024", "end": "05.12.2024", "item": "3b391953ce4b42bb9a28a2fee249154b_518490da62794d0a8f3695cbe2fcf0a6"}, // Brotato
 
 	{"start": "21.11.2024", "end": "28.11.2024", "item": "7109c2e220544434ad355bce3cf69120_a14e80eeef704aa1894b1bf14547e069"}, // Beholder
 
@@ -89,7 +89,7 @@ var giveaways_list = [
 	{"start": "14.11.2024", "end": "21.11.2024", "item": "efc30c2078a2499ab979d198255e2e4b_1cb5e018771c43ee96aa553b450e9f95"}, // Snakebird Complete
 
 	{"start": "07.11.2024", "end": "14.11.2024", "item": "eca9a86adffa4605b8250d383fc01098_9ee12f049a214208afb3236018bcc168"}, // Deceive Inc
-	// {"start": "07.11.2024", "end": "14.11.2024", "item": ""}, // Apex Legends pack
+	// also Apex Legends pack
 
 	{"start": "31.10.2024", "end": "07.11.2024", "item": "b9e6e3d5a4474a8ead248c62bfdf08b7_a01d846767aa43d0bbb285548d59817d"}, // Witch It
 	{"start": "31.10.2024", "end": "07.11.2024", "item": "a93cd6111251461c953776a0c4ea4d80_d0083c0713b140709d92ac02b179cbf2"}, // Ghostwire: Tokyo
@@ -117,30 +117,33 @@ var giveaways_list = [
 	{"start": "05.09.2024", "end": "12.09.2024", "item": "610a546d4e204215a0b9a1c8a382bacb_a3575fda30c34f1fba24f5f6c7ddb2e1"}, // Football Manager 2024 Resource archiver
 	{"start": "05.09.2024", "end": "12.09.2024", "item": "3196925cb7ea45c3a9c47118e52a820e_f554c33320e4489880f9c640f487395f"}, // Sniper Ghost Warrior Contracts
 
-	// {"start": "29.08.2024", "end": "05.09.2024", "item": ""}, // Fallout Classic Collection
+	// Fallout Classic Collection
+	{"start": "29.08.2024", "end": "05.09.2024", "item": "2e412cfcbd954e7180930e9784a47e18_ad210330aa424a0f843d501ca26f8488"}, // Fallout: A Post Nuclear Role Playing Game
+	{"start": "29.08.2024", "end": "05.09.2024", "item": "aae22da1fb884fa395b25bc30dd61faf_87e1c4c8fcbd47fba99e57a8b52defca"}, // Fallout 2: A Post Nuclear Role Playing Game
+	{"start": "29.08.2024", "end": "05.09.2024", "item": "b90be973f6e74975ac1a6ff15dbfd0b3_025bf6c6f8f54e9ba1853e2a81dfd896"}, // Fallout Tactics: Brotherhood of Steel
 	{"start": "29.08.2024", "end": "05.09.2024", "item": "3072dbe471f84dac8b2e9ba8af253ee2_ead90ef7726d403cb8df00b7cd767c63"}, // Wild Card Football
 
 	{"start": "22.08.2024", "end": "29.08.2024", "item": "ba2eb1ee9bfc434b8c06d33f9df7d15a_b3303e3e422448b8bbcee71138f63a01"}, // Gigantic: Rampage Edition
 	{"start": "22.08.2024", "end": "29.08.2024", "item": "6b0541b5d9aa476cbf407643ab3b1d7d_96571224db9a4dae8414e06050230e51"}, // The Callisto Protocol
 
 	{"start": "15.08.2024", "end": "22.08.2024", "item": "7b9cdaaca4f5424e8d6bd7dabe559010_cc82af51ae724ec6bcf291fa940be8fc"}, // Death's Gambit: Afterlife
-	// {"start": "15.08.2024", "end": "22.08.2024", "item": ""}, // World of Warships pack
+	// also World of Warships pack
 
 	{"start": "08.08.2024", "end": "15.08.2024", "item": "5d9f109e44ec4c8bbc5495f43b601f25_7dbf6df45b47438197d789e095d7e8c1"}, // CYGNI - All Guns Blazing
 	{"start": "08.08.2024", "end": "15.08.2024", "item": "3eb832eb6d9f4496818a0b0d667420c0_90f6c1b0452f4f839a34c55e09f326d0"}, // DNF DUEL
-	// {"start": "08.08.2024", "end": "15.08.2024", "item": ""}, // Apex Legends pack
+	// also Apex Legends pack
 
 	{"start": "01.08.2024", "end": "08.08.2024", "item": "b112cc17de8c4b43a2372993b5916fec_c94754a1de0c4bd4b7749dbb2e1d82bc"}, // LumbearJack
 
 	{"start": "25.07.2024", "end": "01.08.2024", "item": "a7e2a2c51b9149c097b771926ed91877_d712d3b11cab4347b327b65baa4ebb95"}, // F.I.S.T.: Forged In Shadow Torch
-	// {"start": "25.07.2024", "end": "01.08.2024", "item": ""}, // Olympics Go! Paris 2024
+	{"start": "25.07.2024", "end": "01.08.2024", "item": "fe3e06d17d13402388cccfa984de6041_5de87fe779f54f44bb106d4df2910340"}, // Olympics Go! Paris 2024
 
 	{"start": "18.07.2024", "end": "25.07.2024", "item": "89b9c510e8d74b9da34c447915b1ffb1_a69da8b6bd194d73af049579b4932f0b"}, // Arcade Paradise
 	{"start": "18.07.2024", "end": "25.07.2024", "item": "89a30c2a3fdb4281b5df57350e797ca9_12a46af639454dbfb162908aed866b61"}, // Maid of Sker
 
-	// {"start": "11.07.2024", "end": "18.07.2024", "item": ""}, // Floppy Knights
+	{"start": "11.07.2024", "end": "18.07.2024", "item": "f7ca5706875344d8a1fe695093353fae_8792117b4de44b098523bab9b3ff6e76"}, // Floppy Knights
 
-	// {"start": "04.07.2024", "end": "11.07.2024", "item": ""}, // The Falconeer
+	{"start": "04.07.2024", "end": "11.07.2024", "item": "29e93200bb53431a961afc53e39fb9c8_758fb8c2460b49a5a0d50ee0eba1a1dd"}, // The Falconeer
 
 	{"start": "27.06.2024", "end": "04.07.2024", "item": "3f6f54e0f8164224b817d23075cbb2a8_6b74182c39e34bccb214741b5d6b54df"}, // Sunless Skies: Sovereign Edition
 
@@ -156,7 +159,7 @@ var giveaways_list = [
 
 	{"start": "23.05.2024", "end": "30.05.2024", "item": "308cbcb523ad4937a8c509d10e9b688a_5072135b902d472891107c66d12116b0"}, // Farming Simulator 22
 
-	// {"start": "16.05.2024", "end": "23.05.2024", "item": ""}, // Dragon Age: Inquisition
+	{"start": "16.05.2024", "end": "23.05.2024", "item": "afe2527e29b94db48b2eef984e34d81a_1860f41341d1499fa4a06ae064340bbe"}, // Dragon Age: Inquisition - Game of the Year Edition
 
 	{"start": "09.05.2024", "end": "16.05.2024", "item": "bda8d2133655435982b9118972792328_e0aa26672dcb40c3a137ced30ed1f160"}, // Firestone Online Idle RPG
 	{"start": "09.05.2024", "end": "16.05.2024", "item": "396a808f269241aba0fe2ad322ebd6d5_3324006765f34f57a408996ad2e592b5"}, // Circus Electrique
@@ -181,13 +184,13 @@ var giveaways_list = [
 	{"start": "21.03.2024", "end": "28.03.2024", "item": "75d74aeb36024d95b8a30bad40dc19c3_f39049d62f8e4db5ab307453983213d0"}, // Call of the Wild: The Angler
 
 	{"start": "14.03.2024", "end": "21.03.2024", "item": "d5ee752640ef4cee8b7f5364410ba41f_619e04f4d42c4b65b37d17ea3310f218"}, // The Bridge
-	// {"start": "14.03.2024", "end": "21.03.2024", "item": ""}, // Deus Ex: Mankind Divided
+	{"start": "14.03.2024", "end": "21.03.2024", "item": "5c5b2b01c8ce475d86cdd2c76fd11f7b_d08fae14b2a24a7ca9d70994a8a0ea9c"}, // Deus Ex - Mankind Divided
 
 	{"start": "07.03.2024", "end": "14.03.2024", "item": "4a681a809a094e2c8dcc68353c68fed6_59fdf842adb843c1a07d714c410e107d"}, // Astro Duel 2
 
 	{"start": "29.02.2024", "end": "07.03.2024", "item": "2ed7ed64d8604265924b85bbd5670220_c4e7b40a8b064a7a8e88e68b3c1e5da5"}, // Aerial_Knight's Never Yield
 
-	{"start": "22.02.2024", "end": "29.02.2024", "item": "moose_e42eca8e2aeb48da9ccc5d5ecc212b62"}, // Super Meat Boy Forever
+	{"start": "22.02.2024", "end": "29.02.2024", "item": "moose_e42eca8e2aeb48da9ccc5d5ecc212b62"}, 						   // Super Meat Boy Forever
 
 	{"start": "15.02.2024", "end": "22.02.2024", "item": "ac98aa34584648f2b71152e509191c1c_fe90738ef51c4da39fb9efc8720b6a5a"}, // Dakar Desert Rally
 
@@ -197,14 +200,14 @@ var giveaways_list = [
 	{"start": "01.02.2024", "end": "08.02.2024", "item": "88c17fed155e43068c338d33d1bcd481_a4a58a236fc544c6b47bf72706946ef1"}, // Doors - Paradox
 	{"start": "25.01.2024", "end": "01.02.2024", "item": "1260f09c5ab842b9a645e14f085ed5af_96bea94ee49745f8984d6f889fd9c2e9"}, // Infinifactory
 
-	// {"start": "18.01.2024", "end": "25.01.2024", "item": ""}, // LOVE
+	{"start": "18.01.2024", "end": "25.01.2024", "item": "6a04125b9d884151868aa2c56e84dc11_400bdeae771149c9b3fe19d927019f69"}, // LOVE
 
 	{"start": "11.01.2024", "end": "18.01.2024", "item": "d93cf08971eb4920862a95870a051f81_e34731008ad54f77927bd837e5547a40"}, // Sail Forth
 
 	{"start": "04.01.2024", "end": "11.01.2024", "item": "2a09fb19b47f46dfb11ebd382f132a8f_88f4bb0bb06e4962a2042d5e20fb6ace"}, // Guardians of the Galaxy
 	{"start": "04.01.2024", "end": "11.01.2024", "item": "2a09fb19b47f46dfb11ebd382f132a8f_b2666e211d334d15a0c29188d0abb6c8"}, // Guardians of the Galaxy: Social-Lord Outfit
 	{"start": "03.01.2024", "end": "04.01.2024", "item": "71d19da3678943098859baa9c4c39f95_38649a203d904405ab9068e09dc5be91"}, // A Plague Tale: Innocence
-	// {"start": "02.01.2024", "end": "03.01.2024", "item": ""}, // 20 Minutes Till Dawn
+	{"start": "02.01.2024", "end": "03.01.2024", "item": "ee9fad7056a94957b3a4d8c457000337_9335e563c3b24fe9bad3a935f3ef5546"}, // 20 Minutes Till Dawn
 	{"start": "01.01.2024", "end": "02.01.2024", "item": "040baa2d100d465caf428c688cc3cdba_ddcae2cac7f94a5e9f19e8f7a24b4878"}, // Escape Academy
 
 	// 2023
