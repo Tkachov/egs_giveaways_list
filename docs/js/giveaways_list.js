@@ -4,11 +4,11 @@ var giveaways_list = [
 	{"start": "29.05.2025", "end": "05.06.2025", "item": "92053006068e4aa9b1ad413f72090f5e_9354cd92a21f42a186b73c984290c942"}, // Limbo
 	{"start": "29.05.2025", "end": "05.06.2025", "item": "c37115918ccc4969a57b6b1bdc28af4a_4742cc98b91541499570c72f3825b893"}, // Tiny Tina's Wonderlands
 
-	// {"start": "22.05.2025", "end": "29.05.2025", "item": ""}, // Deliver At All Costs
+	{"start": "22.05.2025", "end": "29.05.2025", "item": "2ef976af17b74478a4b2938d54bb3db4_c067dd3d76c24b5394970c54c7c587e5"}, // Deliver At All Costs
 	{"start": "22.05.2025", "end": "29.05.2025", "item": "09f00180b25347bdb65ac0b7378756b7_22f9ae4d7e9844ed82ace6d125e1ccf9"}, // Gigapocalypse
 	{"start": "22.05.2025", "end": "29.05.2025", "item": "b7b42e2078524ab386a8b2a9856ef557_c80a76de890145edbe0d41679dbccc66"}, // Sifu
 
-	// {"start": "15.05.2025", "end": "22.05.2025", "item": ""}, // Dead Island 2
+	{"start": "15.05.2025", "end": "22.05.2025", "item": "236c74b4cd2e4e3099cbe2ebdc9686fd_75a5bee8052f4e2498094b2faaea8c11"}, // Dead Island 2
 	{"start": "15.05.2025", "end": "22.05.2025", "item": "0024d18025a544fd99b2ee8dee87baaf_6a9f4b3a49534f07b86dc4b0e0451e93"}, // Happy Game
 
 	{"start": "08.05.2025", "end": "15.05.2025", "item": "7029f6353d7f468eb6940bbe6041474e_fbca48e4e06c4676bef9a9ad66e4ea99"}, // Touch Type Tale
@@ -23,17 +23,17 @@ var giveaways_list = [
 
 	{"start": "10.04.2025", "end": "17.04.2025", "item": "043ffc92cbd64a9fbc350ea68f415937_53d899266198493ba6c65765f81e25a1"}, // Arcadegeddon
 	{"start": "10.04.2025", "end": "17.04.2025", "item": "7e508f543b05465abe3a935960eb70ac_48353a502e72433298f25827e03dbff0"}, // Idle Champions of the Forgotten Realms
-	// {"start": "10.04.2025", "end": "17.04.2025", "item": ""}, // River City Girls
+	{"start": "10.04.2025", "end": "17.04.2025", "item": "a02304688fb3406192a3491b4281bee7_ff3441646daa4bb9aac0ae01beca6275"}, // River City Girls
 
-	// {"start": "03.04.2025", "end": "10.04.2025", "item": ""}, // Cat Quest II
+	{"start": "03.04.2025", "end": "10.04.2025", "item": "58004246d72f474a957ff5f57b9684ca_44dc6b5ffd984b32b526c7d6bed73b86"}, // Cat Quest II
 
-	// {"start": "27.03.2025", "end": "03.04.2025", "item": ""}, // Cat Quest
+	{"start": "27.03.2025", "end": "03.04.2025", "item": "c986e75258a146fba03a920dba852ca9_18d3c0e34d85461e90474b3a69afea1e"}, // Cat Quest
 	{"start": "27.03.2025", "end": "03.04.2025", "item": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68_cf7b858799184d94a2920426e728b2ed"}, // Neko Ghost, Jump!
 
-	// {"start": "20.03.2025", "end": "27.03.2025", "item": ""}, // Jurassic World Evolution 2
+	{"start": "20.03.2025", "end": "27.03.2025", "item": "4817ba5c11504724ba4d5817c8995dff_c58f6419c8754f169577e9162d1c8b32"}, // Jurassic World Evolution 2
 
 	{"start": "13.03.2025", "end": "20.03.2025", "item": "ff8c96d781824ba1ae62d18d207fc52e_9b106e9bf35d4a7e8cefa750bd26e759"}, // Mortal Shell
-	// {"start": "13.03.2025", "end": "20.03.2025", "item": ""}, // World of Warships - Anniversary Party Favor
+	// also World of Warships - Anniversary Party Favor
 
 	{"start": "06.03.2025", "end": "13.03.2025", "item": "a567c32599bf4d4fb609e424f3691b39_d74fb2e8ae09432db115612e1bde5655"}, // Them's Fightin' Herds
 
@@ -42,11 +42,11 @@ var giveaways_list = [
 	{"start": "20.02.2025", "end": "27.02.2025", "item": "0f3f352865294c3ea5e10454f24fde85_6538249d5bc84eb69715c5ab78ca712d"}, // Garden Story
 	{"start": "20.02.2025", "end": "27.02.2025", "item": "wombat_ec6ed5344a904ea78729113d80818d18"},						   // World War Z Aftermath
 
-	// {"start": "13.02.2025", "end": "20.02.2025", "item": ""}, // Apex Legends Loba Free Unlock Bundle
-	// {"start": "13.02.2025", "end": "20.02.2025", "item": ""}, // F1 Manager 2024
+	{"start": "13.02.2025", "end": "20.02.2025", "item": "53ea1f0a585f4fbc9c8adc6b76af1165_93bae60779234528837028190b8495ff"}, // F1 Manager 2024
+	// also Apex Legends Loba Free Unlock Bundle
 
-	// {"start": "06.02.2025", "end": "13.02.2025", "item": ""}, // Beyond Blue
-	// {"start": "06.02.2025", "end": "13.02.2025", "item": ""}, // HUMANKIND Standard Edition
+	{"start": "06.02.2025", "end": "13.02.2025", "item": "bd9fd28ca1214868922f2ab41d6d3b65_c17465f604fe411a8dca86089cd68898"}, // Beyond Blue
+	{"start": "06.02.2025", "end": "13.02.2025", "item": "02c14a01b7044db98de3f3a10813a42e_1708848cdb2842d2bc2ce3b536b26b0d"}, // HUMANKIND Standard Edition
 
 	{"start": "30.01.2025", "end": "06.02.2025", "item": "487df1dfd24b44c381a2a376fbf78946_034973e5bc3b4aa8af5247eba80c6f46"}, // Undying
 
