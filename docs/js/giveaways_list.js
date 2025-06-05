@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "05.06.2025", "end": "12.06.2025", "item": "03b2f198c0ec447db7ceff375b4bfe6b_f1c822a8c39f48fcb91c278dd183cb84"}, // Ogu and the Secret Forest
+	{"start": "05.06.2025", "end": "12.06.2025", "item": "7dee3ddeac7d427eb35def472be64d9c_b9f16025674b4a4d93c30d666c3c9c9d"}, // DEATHLOOP
+
 	{"start": "29.05.2025", "end": "05.06.2025", "item": "92053006068e4aa9b1ad413f72090f5e_9354cd92a21f42a186b73c984290c942"}, // Limbo
 	{"start": "29.05.2025", "end": "05.06.2025", "item": "c37115918ccc4969a57b6b1bdc28af4a_4742cc98b91541499570c72f3825b893"}, // Tiny Tina's Wonderlands
 
