@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "12.06.2025", "end": "19.06.2025", "item": "0f4a572a3c1541319db70c3737d3a123_b8d3e844044f4770a8167990b3ac3427"}, // Two Point Hospital
+
 	{"start": "05.06.2025", "end": "12.06.2025", "item": "03b2f198c0ec447db7ceff375b4bfe6b_f1c822a8c39f48fcb91c278dd183cb84"}, // Ogu and the Secret Forest
 	{"start": "05.06.2025", "end": "12.06.2025", "item": "7dee3ddeac7d427eb35def472be64d9c_b9f16025674b4a4d93c30d666c3c9c9d"}, // DEATHLOOP
 
