@@ -1,6 +1,10 @@
 var giveaways_list = [
 	// 2025
 
+	// next: Backpack Hero, Figment
+
+	{"start": "26.06.2025", "end": "03.07.2025", "item": "66a0893b7b9a42a695f0a387d64dfcc6_15956355c14a4cd19c6b64abfd6f7425"}, // Sable
+
 	{"start": "19.06.2025", "end": "26.06.2025", "item": "2485eccb13d14250a0a5649e8ed63a3b_b5ceb05aec154822a24582c27c4835c9"}, // The Operator
 
 	{"start": "12.06.2025", "end": "19.06.2025", "item": "0f4a572a3c1541319db70c3737d3a123_b8d3e844044f4770a8167990b3ac3427"}, // Two Point Hospital
