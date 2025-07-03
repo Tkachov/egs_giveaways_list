@@ -1,7 +1,10 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Backpack Hero, Figment
+	// next: Figment 2: Creed Valley, Sky Racket
+
+	{"start": "03.07.2025", "end": "10.07.2025", "item": "0dc17d69dbfa4dd7b4eeb480d3adad6d_91fdd636e8a443b3b354dfc532be5f51"}, // Backpack Hero
+	{"start": "03.07.2025", "end": "10.07.2025", "item": "270e1d648a5e4060b7b441615c4da4d9_1b2bc7cc58ae4633bcc8f7abc67fd537"}, // Figment
 
 	{"start": "26.06.2025", "end": "03.07.2025", "item": "66a0893b7b9a42a695f0a387d64dfcc6_15956355c14a4cd19c6b64abfd6f7425"}, // Sable
 
