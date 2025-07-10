@@ -1,7 +1,10 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Figment 2: Creed Valley, Sky Racket
+	// next: Sid Meier's Civilization VI Platinum Edition
+
+	{"start": "10.07.2025", "end": "17.07.2025", "item": "109a4631336a475ca4e4a8a51cc6fe69_527156be25ad44289bc3b30e98ef9e7d"}, // Figment 2: Creed Valley
+	{"start": "10.07.2025", "end": "17.07.2025", "item": "43c0da4f8c774c23a76a213fb8dfe59b_424d9c4cc908464cbfabec6f10430f85"}, // Sky Racket
 
 	{"start": "03.07.2025", "end": "10.07.2025", "item": "0dc17d69dbfa4dd7b4eeb480d3adad6d_91fdd636e8a443b3b354dfc532be5f51"}, // Backpack Hero
 	{"start": "03.07.2025", "end": "10.07.2025", "item": "270e1d648a5e4060b7b441615c4da4d9_1b2bc7cc58ae4633bcc8f7abc67fd537"}, // Figment
