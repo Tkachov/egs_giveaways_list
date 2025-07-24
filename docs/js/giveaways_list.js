@@ -1,7 +1,12 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Sid Meier's Civilization VI Platinum Edition
+	// next: Keylocker | Turn Based Cyberpunk Action
+	// next: Pilgrims
+
+	{"start": "24.07.2025", "end": "31.07.2025", "item": "524c3386e7e6470a8d8400cc51d92296_ede00501bf0b4cc9ac10f3b578f1d074"}, // Legion TD 2
+
+	// {"start": "17.07.2025", "end": "24.07.2025", "item": "?"}, // Sid Meier's Civilization VI Platinum Edition
 
 	{"start": "10.07.2025", "end": "17.07.2025", "item": "109a4631336a475ca4e4a8a51cc6fe69_527156be25ad44289bc3b30e98ef9e7d"}, // Figment 2: Creed Valley
 	{"start": "10.07.2025", "end": "17.07.2025", "item": "43c0da4f8c774c23a76a213fb8dfe59b_424d9c4cc908464cbfabec6f10430f85"}, // Sky Racket
