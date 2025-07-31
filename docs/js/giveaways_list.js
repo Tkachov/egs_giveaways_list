@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Keylocker | Turn Based Cyberpunk Action
-	// next: Pilgrims
+	// next: 112 Operator
+	// next: Road Redemption
+
+	{"start": "31.07.2025", "end": "07.08.2025", "item": "1c0e80ffead94d1f911254d457ebb48b_0b484ff8e0864b7d89f7ad7c370baab0"}, // Keylocker | Turn Based Cyberpunk Action
+	{"start": "31.07.2025", "end": "07.08.2025", "item": "0693e8391e49492096424712a5595484_759cbe84099f4227bc53e61ec2f6380a"}, // Pilgrims
 
 	{"start": "24.07.2025", "end": "31.07.2025", "item": "524c3386e7e6470a8d8400cc51d92296_ede00501bf0b4cc9ac10f3b578f1d074"}, // Legion TD 2
 
