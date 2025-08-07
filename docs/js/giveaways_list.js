@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2025
 
-	// next: 112 Operator
-	// next: Road Redemption
+	// next: Hidden Folks
+	// next: Totally Reliable Delivery Service Standard Edition
+
+	// {"start": "07.08.2025", "end": "14.08.2025", "item": "?"}, // 112 Operator
+	{"start": "07.08.2025", "end": "14.08.2025", "item": "462451248e9640f4a211294193034dda_365528088ea64e23b087b66dbfc6ec13"}, // Road Redemption
 
 	{"start": "31.07.2025", "end": "07.08.2025", "item": "1c0e80ffead94d1f911254d457ebb48b_0b484ff8e0864b7d89f7ad7c370baab0"}, // Keylocker | Turn Based Cyberpunk Action
 	{"start": "31.07.2025", "end": "07.08.2025", "item": "0693e8391e49492096424712a5595484_759cbe84099f4227bc53e61ec2f6380a"}, // Pilgrims
