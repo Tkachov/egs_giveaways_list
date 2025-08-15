@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Hidden Folks
-	// next: Totally Reliable Delivery Service Standard Edition
+	// next: Kamaeru
+	// next: Strange Horticulture
+
+	// {"start": "14.08.2025", "end": "21.08.2025", "item": "?"}, // Hidden Folks
+	{"start": "14.08.2025", "end": "21.08.2025", "item": "52b90f9a982a404781b189f6a7903226_b6494173e7534ad197dafd4d93149718"}, // Totally Reliable Delivery Service Standard Edition
 
 	// {"start": "07.08.2025", "end": "14.08.2025", "item": "?"}, // 112 Operator
 	{"start": "07.08.2025", "end": "14.08.2025", "item": "462451248e9640f4a211294193034dda_365528088ea64e23b087b66dbfc6ec13"}, // Road Redemption
