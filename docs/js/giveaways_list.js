@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Kamaeru
-	// next: Strange Horticulture
+	// next: Machinarium
+	// next: Make Way
+
+	{"start": "21.08.2025", "end": "28.08.2025", "item": "a1fb482c4c6c4dcd855a1cbef1ad79d1_dbcdb14475534f8bbe1cf14cb6a66ee4"}, // Kamaeru
+	{"start": "21.08.2025", "end": "28.08.2025", "item": "c9d0a59bf89c45ceadc5960d6bc1ae4c_5d5ced3d214242c89d3b68973114a7e8"}, // Strange Horticulture
 
 	// {"start": "14.08.2025", "end": "21.08.2025", "item": "?"}, // Hidden Folks
 	{"start": "14.08.2025", "end": "21.08.2025", "item": "52b90f9a982a404781b189f6a7903226_b6494173e7534ad197dafd4d93149718"}, // Totally Reliable Delivery Service Standard Edition
