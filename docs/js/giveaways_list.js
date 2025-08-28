@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Machinarium
-	// next: Make Way
+	// next: Monument Valley
+	// next: The Battle of Polytopia
+
+	{"start": "28.08.2025", "end": "04.09.2025", "item": "e52b4d8cbcfd45ad95eff800ccc59d93_e3bc416f823d4a00900cd47c1eabfbc0"}, // Machinarium
+	{"start": "28.08.2025", "end": "04.09.2025", "item": "99d8ac4b0cd94611b52bae792d84b0e4_04e6f55930d545c7b52ceae1ad5cd433"}, // Make Way
 
 	{"start": "21.08.2025", "end": "28.08.2025", "item": "a1fb482c4c6c4dcd855a1cbef1ad79d1_dbcdb14475534f8bbe1cf14cb6a66ee4"}, // Kamaeru
 	{"start": "21.08.2025", "end": "28.08.2025", "item": "c9d0a59bf89c45ceadc5960d6bc1ae4c_5d5ced3d214242c89d3b68973114a7e8"}, // Strange Horticulture
