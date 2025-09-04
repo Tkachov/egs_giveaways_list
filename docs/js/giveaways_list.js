@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Monument Valley
+	// next: Ghostrunner 2
+	// next: Monument Valley 2
 	// next: The Battle of Polytopia
+
+	{"start": "04.09.2025", "end": "11.09.2025", "item": "e236e73a294b462d85715f5ba23a6346_0c0ad0b164b44ac4981e85c888f48180"}, // Monument Valley
 
 	{"start": "28.08.2025", "end": "04.09.2025", "item": "e52b4d8cbcfd45ad95eff800ccc59d93_e3bc416f823d4a00900cd47c1eabfbc0"}, // Machinarium
 	{"start": "28.08.2025", "end": "04.09.2025", "item": "99d8ac4b0cd94611b52bae792d84b0e4_04e6f55930d545c7b52ceae1ad5cd433"}, // Make Way
