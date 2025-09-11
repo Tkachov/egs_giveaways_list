@@ -1,9 +1,12 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Ghostrunner 2
-	// next: Monument Valley 2
-	// next: The Battle of Polytopia
+	// next: Project Winter
+	// next: Samorost 2
+
+	{"start": "11.09.2025", "end": "18.09.2025", "item": "708f57aaa04b42ef885be16c8288f0ac_d303a92b6c4d4e25808a92a0a9ca3950"}, // Ghostrunner 2
+	{"start": "11.09.2025", "end": "18.09.2025", "item": "e6abebfda00f45e2b3b9ba79970bc511_d2e5e3fe19f24372a67c44f931a26740"}, // Monument Valley 2
+	{"start": "11.09.2025", "end": "18.09.2025", "item": "c28a4972ae574f27af0304e6ac625009_8325b3ee3dfa48feb553fbe3175d3971"}, // The Battle of Polytopia
 
 	{"start": "04.09.2025", "end": "11.09.2025", "item": "e236e73a294b462d85715f5ba23a6346_0c0ad0b164b44ac4981e85c888f48180"}, // Monument Valley
 
