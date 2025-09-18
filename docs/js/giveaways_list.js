@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Project Winter
-	// next: Samorost 2
+	// next: Eastern Exorcist
+	// next: Jorel's Brother and The Most Important Game of the Galaxy
+
+	{"start": "18.09.2025", "end": "25.09.2025", "item": "788e00e07a364c4ab1a42708b6ea6e17_728eac3293f34dc686a292a4e6f7d925"}, // Project Winter
+	{"start": "18.09.2025", "end": "25.09.2025", "item": "3341d4dd5b8d44c3a372da3f10122485_a558c399db1645bd92a00aa30d46ab1f"}, // Samorost 2
 
 	{"start": "11.09.2025", "end": "18.09.2025", "item": "708f57aaa04b42ef885be16c8288f0ac_d303a92b6c4d4e25808a92a0a9ca3950"}, // Ghostrunner 2
 	{"start": "11.09.2025", "end": "18.09.2025", "item": "e6abebfda00f45e2b3b9ba79970bc511_d2e5e3fe19f24372a67c44f931a26740"}, // Monument Valley 2
