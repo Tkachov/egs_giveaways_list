@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Eastern Exorcist
-	// next: Jorel's Brother and The Most Important Game of the Galaxy
+	// next: Firestone Online Idle RPG
+	// next: Nightingale
+
+	{"start": "25.09.2025", "end": "02.10.2025", "item": "630a4b97a55545bb9941aee38ec799db_43d9786b2f5c40b48ac3b553dc4004e8"}, // Eastern Exorcist
+	// {"start": "25.09.2025", "end": "02.10.2025", "item": "?"}, // Jorel's Brother and The Most Important Game of the Galaxy
 
 	{"start": "18.09.2025", "end": "25.09.2025", "item": "788e00e07a364c4ab1a42708b6ea6e17_728eac3293f34dc686a292a4e6f7d925"}, // Project Winter
 	{"start": "18.09.2025", "end": "25.09.2025", "item": "3341d4dd5b8d44c3a372da3f10122485_a558c399db1645bd92a00aa30d46ab1f"}, // Samorost 2
