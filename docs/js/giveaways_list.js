@@ -1,8 +1,12 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Firestone Online Idle RPG
-	// next: Nightingale
+	// next: Gravity Circuit
+	// next: Albion Online - Rogue Journeyman Bundle
+
+	{"start": "02.10.2025", "end": "09.10.2025", "item": "bda8d2133655435982b9118972792328_e0aa26672dcb40c3a137ced30ed1f160"}, // Firestone Online Idle RPG -- 100$ bundle on login
+	{"start": "02.10.2025", "end": "09.10.2025", "item": "88e8dde0de8f44bdb3580d73e36d4157_64d6c50c78884c3cbc2da848d203b13e"}, // Nightingale
+	{"start": "02.10.2025", "end": "09.10.2025", "item": "88e8dde0de8f44bdb3580d73e36d4157_24f8f260b4224cdbbbd85989925c8bcf"}, // Nightingale - 0.3.2
 
 	{"start": "25.09.2025", "end": "02.10.2025", "item": "630a4b97a55545bb9941aee38ec799db_43d9786b2f5c40b48ac3b553dc4004e8"}, // Eastern Exorcist
 	// {"start": "25.09.2025", "end": "02.10.2025", "item": "?"}, // Jorel's Brother and The Most Important Game of the Galaxy
