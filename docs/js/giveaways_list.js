@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Gravity Circuit
-	// next: Albion Online - Rogue Journeyman Bundle
+	// next: Amnesia: The Bunker
+	// next: Samorost 3
+
+	{"start": "09.10.2025", "end": "16.10.2025", "item": "de295b694198450fad4569530b0e9419_389c01e501384f3b8b82f4d656a30c1c"}, // Gravity Circuit
+	// {"start": "09.10.2025", "end": "16.10.2025", "item": "?"}, // Albion Online - Rogue Journeyman Bundle
 
 	{"start": "02.10.2025", "end": "09.10.2025", "item": "bda8d2133655435982b9118972792328_e0aa26672dcb40c3a137ced30ed1f160"}, // Firestone Online Idle RPG -- 100$ bundle on login
 	{"start": "02.10.2025", "end": "09.10.2025", "item": "88e8dde0de8f44bdb3580d73e36d4157_64d6c50c78884c3cbc2da848d203b13e"}, // Nightingale
