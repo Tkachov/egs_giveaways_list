@@ -1,8 +1,10 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Amnesia: The Bunker
-	// next: Samorost 3
+	// next: Fear the Spotlight
+
+	// {"start": "16.10.2025", "end": "23.10.2025", "item": "?"}, // Amnesia: The Bunker
+	{"start": "16.10.2025", "end": "23.10.2025", "item": "c62d7481ae1744dab7310c8f4e1e9548_0694714a54bd4a5280b26b105a5e25fd"}, // Samorost 3
 
 	{"start": "09.10.2025", "end": "16.10.2025", "item": "de295b694198450fad4569530b0e9419_389c01e501384f3b8b82f4d656a30c1c"}, // Gravity Circuit
 	// {"start": "09.10.2025", "end": "16.10.2025", "item": "?"}, // Albion Online - Rogue Journeyman Bundle
