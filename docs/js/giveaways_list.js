@@ -1,7 +1,10 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Fear the Spotlight
+	// next: Bendy and the Ink Machine
+	// next: Five Nights at Freddy's: Into the Pit
+
+	{"start": "23.10.2025", "end": "30.10.2025", "item": "61159823352c4467b9f6205c01d8d3ee_a74d03d6c34a4ff7a8504da77d2f9d8e"}, // Fear the Spotlight
 
 	// {"start": "16.10.2025", "end": "23.10.2025", "item": "?"}, // Amnesia: The Bunker
 	{"start": "16.10.2025", "end": "23.10.2025", "item": "c62d7481ae1744dab7310c8f4e1e9548_0694714a54bd4a5280b26b105a5e25fd"}, // Samorost 3
