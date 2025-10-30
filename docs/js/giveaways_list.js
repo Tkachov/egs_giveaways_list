@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Bendy and the Ink Machine
-	// next: Five Nights at Freddy's: Into the Pit
+	// next: Felix The Reaper
+	// next: Idle Champions of the Forgotten Realms
+
+	// {"start": "30.10.2025", "end": "06.11.2025", "item": "?"}, // Bendy and the Ink Machine
+	// {"start": "30.10.2025", "end": "06.11.2025", "item": "?"}, // Five Nights at Freddy's: Into the Pit
 
 	{"start": "23.10.2025", "end": "30.10.2025", "item": "61159823352c4467b9f6205c01d8d3ee_a74d03d6c34a4ff7a8504da77d2f9d8e"}, // Fear the Spotlight
 
