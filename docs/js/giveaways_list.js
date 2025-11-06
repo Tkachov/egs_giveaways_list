@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Felix The Reaper
-	// next: Idle Champions of the Forgotten Realms
+	// next: Scourgebringer
+	// next: Songs of Silence
+
+	{"start": "06.11.2025", "end": "13.11.2025", "item": "77882e466fc140cdb20ea0c72fca9f93_8226917a74314cf083721ff439fd3107"}, // Felix The Reaper
+	{"start": "06.11.2025", "end": "13.11.2025", "item": "7e508f543b05465abe3a935960eb70ac_48353a502e72433298f25827e03dbff0"}, // Idle Champions of the Forgotten Realms - Nixie's Champions of Renown Bundle Pack
 
 	// {"start": "30.10.2025", "end": "06.11.2025", "item": "?"}, // Bendy and the Ink Machine
 	// {"start": "30.10.2025", "end": "06.11.2025", "item": "?"}, // Five Nights at Freddy's: Into the Pit
