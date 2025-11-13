@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Scourgebringer
-	// next: Songs of Silence
+	// next: Zoeti
+
+	{"start": "13.11.2025", "end": "20.11.2025", "item": "c03a3687567a4cf3910ea5ec7279664e_4c0313f2f6b9409bb8974948c2dabcfc"}, // Scourgebringer
+	{"start": "13.11.2025", "end": "20.11.2025", "item": "900054606a74444badf56b2f2abd7c69_6e159ce574a74cdcb537626b2b1b6807"}, // Songs of Silence
+	// {"start": "13.11.2025", "end": "20.11.2025", "item": "?"}, // Zero Hour
 
 	{"start": "06.11.2025", "end": "13.11.2025", "item": "77882e466fc140cdb20ea0c72fca9f93_8226917a74314cf083721ff439fd3107"}, // Felix The Reaper
 	{"start": "06.11.2025", "end": "13.11.2025", "item": "7e508f543b05465abe3a935960eb70ac_48353a502e72433298f25827e03dbff0"}, // Idle Champions of the Forgotten Realms - Nixie's Champions of Renown Bundle Pack
