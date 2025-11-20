@@ -1,7 +1,9 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Zoeti
+	// next: Universe for Sale
+
+	{"start": "20.11.2025", "end": "27.11.2025", "item": "1a7cbda7efe7435dabda1af662aeb1ba_6905f08128b5477c8efd768c37d9b967"}, // Zoeti
 
 	{"start": "13.11.2025", "end": "20.11.2025", "item": "c03a3687567a4cf3910ea5ec7279664e_4c0313f2f6b9409bb8974948c2dabcfc"}, // Scourgebringer
 	{"start": "13.11.2025", "end": "20.11.2025", "item": "900054606a74444badf56b2f2abd7c69_6e159ce574a74cdcb537626b2b1b6807"}, // Songs of Silence
