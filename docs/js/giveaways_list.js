@@ -1,7 +1,10 @@
 var giveaways_list = [
 	// 2025
 
-	// next: Universe for Sale
+	// next: The Darkside Detective
+	// next: The Jackbox Party Pack 4
+
+	// {"start": "27.11.2025", "end": "04.12.2025", "item": "?"}, // Universe for Sale
 
 	{"start": "20.11.2025", "end": "27.11.2025", "item": "1a7cbda7efe7435dabda1af662aeb1ba_6905f08128b5477c8efd768c37d9b967"}, // Zoeti
 
