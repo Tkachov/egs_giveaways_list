@@ -1,6 +1,8 @@
 var giveaways_list = [
 	// 2025
 
+	// {"start": "11.12.2025", "end": "18.12.2025", "item": "?"}, // Hogwarts Legacy
+
 	{"start": "04.12.2025", "end": "11.12.2025", "item": "29857990e5434b7db5dd026ef18dbc96_166da88e9a664bafa4a611b883355363"}, // The Darkside Detective
 	{"start": "04.12.2025", "end": "11.12.2025", "item": "snowdrop_511a4fa19607460f9cbcecea7cef668d"}, // The Jackbox Party Pack 4
 
