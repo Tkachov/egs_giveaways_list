@@ -1,6 +1,7 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "22.12.2025", "end": "22.12.2025", "item": "88f877d800874f1d8a503ef29d919e38_ad78f4198966442d95eeb8653f30a1e1"}, // Paradise Killer
 	// {"start": "21.12.2025", "end": "21.12.2025", "item": "?"}, // Sorry We're Closed
 	{"start": "20.12.2025", "end": "20.12.2025", "item": "cfd5606247d5400480bb7dccec626f1a_534237ea5aac4ea9973b916a0bf180bc"}, // Blood West
 	{"start": "19.12.2025", "end": "19.12.2025", "item": "0bb1bf6df5784815a0c62120f8a82b25_13092063f71b4331b488bbe22d0a083e"}, // Eternights
