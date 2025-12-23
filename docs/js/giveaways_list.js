@@ -1,6 +1,7 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "23.12.2025", "end": "23.12.2025", "item": "57da9a65dbf54e5c97a60f224393ab2f_fa97857cf98a4d5281f1698640f74628"}, // Bloodstained: Ritual of the Night
 	{"start": "22.12.2025", "end": "22.12.2025", "item": "88f877d800874f1d8a503ef29d919e38_ad78f4198966442d95eeb8653f30a1e1"}, // Paradise Killer
 	// {"start": "21.12.2025", "end": "21.12.2025", "item": "?"}, // Sorry We're Closed
 	{"start": "20.12.2025", "end": "20.12.2025", "item": "cfd5606247d5400480bb7dccec626f1a_534237ea5aac4ea9973b916a0bf180bc"}, // Blood West
