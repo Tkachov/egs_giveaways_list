@@ -1,6 +1,7 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "25.12.2025", "end": "25.12.2025", "item": "ff52981b1d9947978153c7a7f8bc6d90_a10c5b9efef64535b9e290dc3755c189"}, // Disco Elysium - The Final Cut
 	{"start": "24.12.2025", "end": "24.12.2025", "item": "6b0541b5d9aa476cbf407643ab3b1d7d_96571224db9a4dae8414e06050230e51"}, // The Callisto Protocol
 	{"start": "23.12.2025", "end": "23.12.2025", "item": "57da9a65dbf54e5c97a60f224393ab2f_fa97857cf98a4d5281f1698640f74628"}, // Bloodstained: Ritual of the Night
 	{"start": "22.12.2025", "end": "22.12.2025", "item": "88f877d800874f1d8a503ef29d919e38_ad78f4198966442d95eeb8653f30a1e1"}, // Paradise Killer
