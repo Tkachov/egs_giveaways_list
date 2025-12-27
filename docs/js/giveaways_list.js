@@ -1,6 +1,7 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "27.12.2025", "end": "27.12.2025", "item": "1bbc3e512f4d40e4b889920814335c3f_e71eec3e42394296a81b4a4e8cee9591"}, // Cassette Beasts
 	{"start": "26.12.2025", "end": "26.12.2025", "item": "c5f6069e7dd644dab009294f0fddc7a7_93e3dd361ab14ee9919914fa1ae199a2"}, // We Were Here Together
 	{"start": "25.12.2025", "end": "25.12.2025", "item": "ff52981b1d9947978153c7a7f8bc6d90_a10c5b9efef64535b9e290dc3755c189"}, // Disco Elysium - The Final Cut
 	{"start": "24.12.2025", "end": "24.12.2025", "item": "6b0541b5d9aa476cbf407643ab3b1d7d_96571224db9a4dae8414e06050230e51"}, // The Callisto Protocol
