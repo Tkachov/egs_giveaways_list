@@ -1,6 +1,7 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "29.12.2025", "end": "29.12.2025", "item": "ec36eca1c206428c8a6c7f52ae2bd9b7_7529940dcf5343c085eb1c1f784bff74"}, // Viewfinder
 	{"start": "28.12.2025", "end": "28.12.2025", "item": "18cec32f6f994aad963423441a42a931_399115c1a9c84a38b4dfdfa93f231ed0"}, // SKALD Against the Black Priory
 	{"start": "27.12.2025", "end": "27.12.2025", "item": "1bbc3e512f4d40e4b889920814335c3f_e71eec3e42394296a81b4a4e8cee9591"}, // Cassette Beasts
 	{"start": "26.12.2025", "end": "26.12.2025", "item": "c5f6069e7dd644dab009294f0fddc7a7_93e3dd361ab14ee9919914fa1ae199a2"}, // We Were Here Together
