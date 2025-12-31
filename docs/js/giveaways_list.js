@@ -1,6 +1,7 @@
 var giveaways_list = [
 	// 2025
 
+	{"start": "31.12.2025", "end": "31.12.2025", "item": "bd46d4ce259349e5bd8b3ded20274737_4c4a6c0767304c9d830f3f36f2b29018"}, // Chivalry 2
 	// {"start": "30.12.2025", "end": "30.12.2025", "item": "?"}, // Trine Classic Collection (includes four titles: Trine Enchanted Edition, Trine 2: Complete Story, Trine 3: Artifacts of Power and Trine 4: Definitive Edition)
 	{"start": "29.12.2025", "end": "29.12.2025", "item": "ec36eca1c206428c8a6c7f52ae2bd9b7_7529940dcf5343c085eb1c1f784bff74"}, // Viewfinder
 	{"start": "28.12.2025", "end": "28.12.2025", "item": "18cec32f6f994aad963423441a42a931_399115c1a9c84a38b4dfdfa93f231ed0"}, // SKALD Against the Black Priory
