@@ -1,4 +1,9 @@
 var giveaways_list = [
+	// 2026
+
+	// {"start": "01.01.2026", "end": "08.01.2026", "item": "?"}, // Total War: THREE KINGDOMS
+	// {"start": "01.01.2026", "end": "08.01.2026", "item": "?"}, // Wildgate
+
 	// 2025
 
 	{"start": "31.12.2025", "end": "31.12.2025", "item": "bd46d4ce259349e5bd8b3ded20274737_4c4a6c0767304c9d830f3f36f2b29018"}, // Chivalry 2
