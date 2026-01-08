@@ -1,6 +1,11 @@
 var giveaways_list = [
 	// 2026
 
+	// next: Styx: Master of Shadows
+	// next: Styx: Shards of Darkness
+
+	{"start": "08.01.2026", "end": "15.01.2026", "item": "6a8dfa6e441e4f2f9048a98776c6077d_49c4bf5c6fd24259b87d0bcc96b6009f"}, // Bloons TD 6
+
 	// {"start": "01.01.2026", "end": "08.01.2026", "item": "?"}, // Total War: THREE KINGDOMS
 	// {"start": "01.01.2026", "end": "08.01.2026", "item": "?"}, // Wildgate
 
