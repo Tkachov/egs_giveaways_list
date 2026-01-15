@@ -1,8 +1,10 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Styx: Master of Shadows
-	// next: Styx: Shards of Darkness
+	// next: Rustler - Grand Theft Horse
+
+	{"start": "15.01.2026", "end": "22.01.2026", "item": "795fdebb6c6e497d98cee43057286743_d5c9e5f3392e459b833fe4f2a0db2229"}, // Styx: Shards of Darkness - Deluxe Edition
+	{"start": "15.01.2026", "end": "22.01.2026", "item": "962cf46ed59b42c1a16834193a7cde54_8421c4879f4f40ba8e44a0ac5113787c"}, // Styx: Master of Shadows
 
 	{"start": "08.01.2026", "end": "15.01.2026", "item": "6a8dfa6e441e4f2f9048a98776c6077d_49c4bf5c6fd24259b87d0bcc96b6009f"}, // Bloons TD 6
 
