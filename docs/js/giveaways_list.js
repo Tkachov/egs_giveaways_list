@@ -1,7 +1,9 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Rustler - Grand Theft Horse
+	// next: Definitely Not Fried Chicken
+
+	{"start": "22.01.2026", "end": "29.01.2026", "item": "aca2ee0619aa482791f0a71dbf3eeac0_74b8de4cd48249d794475a6b9ddea96d"}, // Rustler - Grand Theft Horse
 
 	{"start": "15.01.2026", "end": "22.01.2026", "item": "795fdebb6c6e497d98cee43057286743_d5c9e5f3392e459b833fe4f2a0db2229"}, // Styx: Shards of Darkness - Deluxe Edition
 	{"start": "15.01.2026", "end": "22.01.2026", "item": "962cf46ed59b42c1a16834193a7cde54_8421c4879f4f40ba8e44a0ac5113787c"}, // Styx: Master of Shadows
