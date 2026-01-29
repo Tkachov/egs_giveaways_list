@@ -1,7 +1,10 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Definitely Not Fried Chicken
+	// next: Botany Manor
+	// next: Poison Retro Set
+
+	{"start": "29.01.2026", "end": "05.02.2026", "item": "8d8fb21ac3554271853582bad9d394d7_db8dac217a444c098e4b55b2d7ae8ee9"}, // Definitely Not Fried Chicken
 
 	{"start": "22.01.2026", "end": "29.01.2026", "item": "aca2ee0619aa482791f0a71dbf3eeac0_74b8de4cd48249d794475a6b9ddea96d"}, // Rustler - Grand Theft Horse
 
