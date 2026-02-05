@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Botany Manor
-	// next: Poison Retro Set
+	// next: Nobody Wants to Die
+	// next: The Darkside Detective A Fumble in the Dark
+
+	{"start": "05.02.2026", "end": "12.02.2026", "item": "969bbfac9e7840a986c1d594ccd55c01_66c68a2c5160418a976902a74145a8c6"}, // Botany Manor
+	// {"start": "05.02.2026", "end": "12.02.2026", "item": "?"}, // Pixel Gun 3D: Poison Retro Set
 
 	{"start": "29.01.2026", "end": "05.02.2026", "item": "8d8fb21ac3554271853582bad9d394d7_db8dac217a444c098e4b55b2d7ae8ee9"}, // Definitely Not Fried Chicken
 
