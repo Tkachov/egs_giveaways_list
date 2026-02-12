@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Nobody Wants to Die
-	// next: The Darkside Detective A Fumble in the Dark
+	// next: Return to Ash
+	// next: STALCRAFT: X Starter Edition
+
+	// {"start": "12.02.2026", "end": "19.02.2026", "item": "?"}, // Nobody Wants to Die
+	{"start": "12.02.2026", "end": "19.02.2026", "item": "87375f89fc4c4c7a8c681cf21febee06_07afaf4e35554a489d57f0553d3eb2e3"}, // The Darkside Detective A Fumble in the Dark
 
 	{"start": "05.02.2026", "end": "12.02.2026", "item": "969bbfac9e7840a986c1d594ccd55c01_66c68a2c5160418a976902a74145a8c6"}, // Botany Manor
 	// {"start": "05.02.2026", "end": "12.02.2026", "item": "?"}, // Pixel Gun 3D: Poison Retro Set
