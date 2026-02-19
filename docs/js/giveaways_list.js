@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Return to Ash
-	// next: STALCRAFT: X Starter Edition
+	// next: Boxes: Lost Fragments
+	// next: My Night Job
+
+	{"start": "19.02.2026", "end": "26.02.2026", "item": "511a5b709ee242fb9603378b071d99d7_8a57b4f7184a40d2b3af45a3d67b5e42"}, // Return to Ash
+	{"start": "19.02.2026", "end": "26.02.2026", "item": "1319020a7c08408489d4dc9c5b1df4c0_f1de33de1cff4a8f94cd7df1e981498c"}, // STALCRAFT: X
 
 	// {"start": "12.02.2026", "end": "19.02.2026", "item": "?"}, // Nobody Wants to Die
 	{"start": "12.02.2026", "end": "19.02.2026", "item": "87375f89fc4c4c7a8c681cf21febee06_07afaf4e35554a489d57f0553d3eb2e3"}, // The Darkside Detective A Fumble in the Dark
