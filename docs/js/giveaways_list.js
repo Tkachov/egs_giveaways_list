@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Boxes: Lost Fragments
-	// next: My Night Job
+	// next: Idle Champions of the Forgotten Realms
+	// next: Turnip Boy Robs a Bank
+
+	// {"start": "26.02.2026", "end": "05.03.2026", "item": "?"}, // Boxes: Lost Fragments
+	{"start": "26.02.2026", "end": "05.03.2026", "item": "08e225ed73a2433198c025de20ec8173_234c60877ec04bbe8cd1ef31423d6bf5"}, // My Night Job
 
 	{"start": "19.02.2026", "end": "26.02.2026", "item": "511a5b709ee242fb9603378b071d99d7_8a57b4f7184a40d2b3af45a3d67b5e42"}, // Return to Ash
 	{"start": "19.02.2026", "end": "26.02.2026", "item": "1319020a7c08408489d4dc9c5b1df4c0_f1de33de1cff4a8f94cd7df1e981498c"}, // STALCRAFT: X
