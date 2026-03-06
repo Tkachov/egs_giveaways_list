@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Idle Champions of the Forgotten Realms
-	// next: Turnip Boy Robs a Bank
+	// next: Cozy Grove
+	// next: Isonzo
+
+	// {"start": "05.03.2026", "end": "12.03.2026", "item": "?"}, // Idle Champions of the Forgotten Realms - Raistlin's Renown Pack
+	// {"start": "05.03.2026", "end": "12.03.2026", "item": "?"}, // Turnip Boy Robs a Bank
 
 	// {"start": "26.02.2026", "end": "05.03.2026", "item": "?"}, // Boxes: Lost Fragments
 	{"start": "26.02.2026", "end": "05.03.2026", "item": "08e225ed73a2433198c025de20ec8173_234c60877ec04bbe8cd1ef31423d6bf5"}, // My Night Job
