@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Cozy Grove
-	// next: Isonzo
+	// next: Electrician Simulator
+	// next: World of Warships - Epic Anniversary Tachibana Pack
+
+	{"start": "12.03.2026", "end": "19.03.2026", "item": "768ec2d3b5114ac4a800631b12ee3f31_9d8631e6a6704ac582c1cb7a278c6e76"}, // Cozy Grove
+	{"start": "12.03.2026", "end": "19.03.2026", "item": "30de69013f3b41b0ba594a8ef3b693ba_c8cb6acccdb64610b6500302e2113a61"}, // Isonzo
 
 	// {"start": "05.03.2026", "end": "12.03.2026", "item": "?"}, // Idle Champions of the Forgotten Realms - Raistlin's Renown Pack
 	// {"start": "05.03.2026", "end": "12.03.2026", "item": "?"}, // Turnip Boy Robs a Bank
