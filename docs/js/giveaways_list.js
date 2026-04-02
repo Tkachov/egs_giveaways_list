@@ -1,7 +1,10 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Clone Drone in the Danger Zone
+	// next: Prop Sumo
+
+	{"start": "02.04.2026", "end": "09.04.2026", "item": "59d27ef047494b999bf0b04ddc471a07_414297c3f6e84b9cbb456970bdd9f3b9"}, // Clone Drone in the Danger Zone
+	{"start": "02.04.2026", "end": "09.04.2026", "item": "7de6896ed120435fba9433d2732dadb4_79b6f6080a6d41cd83e8c9558d3e154b"}, // TOMAK: Save the Earth Regeneration
 
 	{"start": "26.03.2026", "end": "02.04.2026", "item": "dc6b31eb3a7540f28ccff83204aa1c3d_cec846cc92b143aaaa87b3b084579fe3"}, // Havendock
 	{"start": "26.03.2026", "end": "02.04.2026", "item": "5ffdf739f9b549ebba9caf3596e7c632_cb564ab363c54fe09f4a9239496be766"}, // Hyper Echelon
