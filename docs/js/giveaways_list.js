@@ -1,7 +1,10 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Prop Sumo
+	// next: The Stone of Madness
+
+	{"start": "09.04.2026", "end": "16.04.2026", "item": "a01818d165284996896acce560c669fa_da0b722e57d34b0dad7716a86418af9e"}, // Prop Sumo
+	{"start": "09.04.2026", "end": "16.04.2026", "item": "7de6896ed120435fba9433d2732dadb4_79b6f6080a6d41cd83e8c9558d3e154b"}, // TOMAK: Save the Earth Regeneration
 
 	{"start": "02.04.2026", "end": "09.04.2026", "item": "59d27ef047494b999bf0b04ddc471a07_414297c3f6e84b9cbb456970bdd9f3b9"}, // Clone Drone in the Danger Zone
 	{"start": "02.04.2026", "end": "09.04.2026", "item": "7de6896ed120435fba9433d2732dadb4_79b6f6080a6d41cd83e8c9558d3e154b"}, // TOMAK: Save the Earth Regeneration
