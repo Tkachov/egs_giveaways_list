@@ -1,7 +1,9 @@
 var giveaways_list = [
 	// 2026
 
-	// next: The Stone of Madness
+	// next: DOOMBLADE
+
+	{"start": "16.04.2026", "end": "23.04.2026", "item": "bc51d32ca88b41bda1e50f5876c0b16e_2676eaa03e664f11a93af7911bbc988e"}, // The Stone of Madness
 
 	{"start": "09.04.2026", "end": "16.04.2026", "item": "a01818d165284996896acce560c669fa_da0b722e57d34b0dad7716a86418af9e"}, // Prop Sumo
 	{"start": "09.04.2026", "end": "16.04.2026", "item": "7de6896ed120435fba9433d2732dadb4_79b6f6080a6d41cd83e8c9558d3e154b"}, // TOMAK: Save the Earth Regeneration
