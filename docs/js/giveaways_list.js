@@ -1,7 +1,10 @@
 var giveaways_list = [
 	// 2026
 
-	// next: DOOMBLADE
+	// next: Firestone Online Idle RPG
+	// next: Oddsparks: An Automation Adventure
+
+	{"start": "23.04.2026", "end": "30.04.2026", "item": "12a3a68913864eaa8420e575eb6dbd42_f4a9486a842e40aaa4818c84ccf4bcca"}, // DOOMBLADE
 
 	{"start": "16.04.2026", "end": "23.04.2026", "item": "bc51d32ca88b41bda1e50f5876c0b16e_2676eaa03e664f11a93af7911bbc988e"}, // The Stone of Madness
 
