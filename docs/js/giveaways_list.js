@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Firestone Online Idle RPG
-	// next: Oddsparks: An Automation Adventure
+	// next: Arranger: A Role-Puzzling Adventure
+	// next: Trash Goblin
+	
+	{"start": "30.04.2026", "end": "07.05.2026", "item": "bda8d2133655435982b9118972792328_e0aa26672dcb40c3a137ced30ed1f160"}, // Firestone Online Idle RPG -- 100$ bundle on login
+	{"start": "30.04.2026", "end": "07.05.2026", "item": "77c83b36cd1047f7aceeef2e5f84ab85_8a7fc61f624f468fb5a6ff4028328f06"}, // Oddsparks: An Automation Adventure
 
 	{"start": "23.04.2026", "end": "30.04.2026", "item": "12a3a68913864eaa8420e575eb6dbd42_f4a9486a842e40aaa4818c84ccf4bcca"}, // DOOMBLADE
 
