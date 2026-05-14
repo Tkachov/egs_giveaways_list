@@ -1,7 +1,8 @@
 var giveaways_list = [
 	// 2026
 
-	// next: 2 mystery games
+	{"start": "14.05.2026", "end": "21.05.2026", "item": "5c10bee95e764d44bb35230a61aaf869_04f06747248d41ed87e66825a8659562"}, // Sunderfolk - Standard Edition
+	// {"start": "14.05.2026", "end": "21.05.2026", "item": "?"}, // The Telltale Batman Shadows Edition
 
 	{"start": "07.05.2026", "end": "14.05.2026", "item": "2df8b055a5674c8e9211fc51f8efd210_ed45286d84ab438b8e6dbfb73c4140e8"}, // Arranger: A Role-Puzzling Adventure
 	{"start": "07.05.2026", "end": "14.05.2026", "item": "f14e8d865ad04b93a5df850ce7a59fe2_e52e38a83c9546c1b6a7c592c91c5dd9"}, // Trash Goblin
