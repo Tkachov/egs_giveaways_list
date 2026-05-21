@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2026
 
+	{"start": "21.05.2026", "end": "28.05.2026", "item": "5aab0660c2db4caa8a535d267a84633c_afd45fad1ecb4c6a99b23df4e127f69c"}, // Tomb Raider I-III Remastered Starring Lara Croft
+	{"start": "21.05.2026", "end": "28.05.2026", "item": "0558e58003aa447a8ace48c3a0d53b54_e059859c0aef407e81320c78ed08f57a"}, // Down in Bermuda
+
 	{"start": "14.05.2026", "end": "21.05.2026", "item": "5c10bee95e764d44bb35230a61aaf869_04f06747248d41ed87e66825a8659562"}, // Sunderfolk - Standard Edition
 	// {"start": "14.05.2026", "end": "21.05.2026", "item": "?"}, // The Telltale Batman Shadows Edition
 
