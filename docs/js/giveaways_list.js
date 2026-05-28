@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2026
 
+	{"start": "28.05.2026", "end": "04.06.2026", "item": "52b71983d55a48c899abbc022b380c1c_4467d2a0c7294d5cb8004559c96fca8d"}, // LONESTAR
+	{"start": "28.05.2026", "end": "04.06.2026", "item": "92e8ff0ca9bb421c831dc0f6fc8ef54d_779a54f151bf476fad839fe635fb20c8"}, // Calico
+
 	{"start": "21.05.2026", "end": "28.05.2026", "item": "5aab0660c2db4caa8a535d267a84633c_afd45fad1ecb4c6a99b23df4e127f69c"}, // Tomb Raider I-III Remastered Starring Lara Croft
 	{"start": "21.05.2026", "end": "28.05.2026", "item": "0558e58003aa447a8ace48c3a0d53b54_e059859c0aef407e81320c78ed08f57a"}, // Down in Bermuda
 
