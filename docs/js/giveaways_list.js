@@ -1,6 +1,9 @@
 var giveaways_list = [
 	// 2026
 
+	// {"start": "04.06.2026", "end": "11.06.2026", "item": "?"}, // Rogue Waters
+	{"start": "04.06.2026", "end": "11.06.2026", "item": "3a18db06dff0465b8a58308aa29020a0_5b2d14c165be4b9b829fb1bff9ce491c"}, // Songs of Conquest
+
 	{"start": "28.05.2026", "end": "04.06.2026", "item": "52b71983d55a48c899abbc022b380c1c_4467d2a0c7294d5cb8004559c96fca8d"}, // LONESTAR
 	{"start": "28.05.2026", "end": "04.06.2026", "item": "92e8ff0ca9bb421c831dc0f6fc8ef54d_779a54f151bf476fad839fe635fb20c8"}, // Calico
 
