@@ -1,6 +1,12 @@
 var giveaways_list = [
 	// 2026
 
+	// next: Citizen Sleeper
+	// next: ROBOBEAT
+
+	{"start": "11.06.2026", "end": "18.06.2026", "item": "b002ccbe10f946f082a63bf85fa30558_952493e4db7748819c20e780bc269202"}, // The Ouroboros King
+	// {"start": "11.06.2026", "end": "18.06.2026", "item": "?"}, // Warhammer 40K Speed Freeks
+
 	// {"start": "04.06.2026", "end": "11.06.2026", "item": "?"}, // Rogue Waters
 	{"start": "04.06.2026", "end": "11.06.2026", "item": "3a18db06dff0465b8a58308aa29020a0_5b2d14c165be4b9b829fb1bff9ce491c"}, // Songs of Conquest
 
