@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Citizen Sleeper
-	// next: ROBOBEAT
+	// next: RollerCoaster Tycoon 3 Complete Edition
+	// next: Voidwrought
+
+	{"start": "18.06.2026", "end": "25.06.2026", "item": "e4ef0c8c500a41eaa57c53d32410595d_d91f1dd2dfbd4576b0966ab0f4eed09f"}, // Citizen Sleeper
+	{"start": "18.06.2026", "end": "25.06.2026", "item": "9704b88f02244a60b9b0ab81e0e31389_1239ac53c639480fa69c775302b2eaf6"}, // ROBOBEAT
 
 	{"start": "11.06.2026", "end": "18.06.2026", "item": "b002ccbe10f946f082a63bf85fa30558_952493e4db7748819c20e780bc269202"}, // The Ouroboros King
 	// {"start": "11.06.2026", "end": "18.06.2026", "item": "?"}, // Warhammer 40K Speed Freeks
