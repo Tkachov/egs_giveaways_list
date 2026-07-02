@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: I Have No Mouth, and I Must Scream
-	// next: River City Girls 2
+	// next: Nova Lands
+	// next: Tattoo Tycoon
+
+	{"start": "02.07.2026", "end": "09.07.2026", "item": "2e13c6ccfb3147ec8c67985160c48296_5177af9f1b3d4957a4f43c4779ff8e5e"}, // I Have No Mouth, and I Must Scream
+	{"start": "02.07.2026", "end": "09.07.2026", "item": "973ce75835994a35ab386d56ed2dffa3_8efa8262e2d84e62b3a8d05b0d41852a"}, // River City Girls 2
 
 	// {"start": "25.06.2026", "end": "02.07.2026", "item": "?"}, // RollerCoaster Tycoon 3 Complete Edition
 	{"start": "25.06.2026", "end": "02.07.2026", "item": "1c6e13038e00432ba0a3c11bb85d1d5f_62db4b4dc8024f109a3719061bc5f43d"}, // Voidwrought
