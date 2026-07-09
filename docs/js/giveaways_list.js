@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Nova Lands
-	// next: Tattoo Tycoon
+	// next: Echo Generation: Midnight Edition
+	// next: Luto
+
+	{"start": "09.07.2026", "end": "16.07.2026", "item": "740ba4a6fbed4062a9c43d52c5996b0b_ba72ad8df75e4917bfc9655f583b171f"}, // Nova Lands
+	{"start": "09.07.2026", "end": "16.07.2026", "item": "b0a2eaef9e8e4fca9d8f9d4aa26fed4d_6592a042d7d242b09902cbe890a9f651"}, // Tattoo Tycoon
 
 	{"start": "02.07.2026", "end": "09.07.2026", "item": "2e13c6ccfb3147ec8c67985160c48296_5177af9f1b3d4957a4f43c4779ff8e5e"}, // I Have No Mouth, and I Must Scream
 	{"start": "02.07.2026", "end": "09.07.2026", "item": "973ce75835994a35ab386d56ed2dffa3_8efa8262e2d84e62b3a8d05b0d41852a"}, // River City Girls 2
