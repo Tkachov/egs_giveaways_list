@@ -1,8 +1,10 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Echo Generation: Midnight Edition
-	// next: Luto
+	// next: Foretales
+
+	{"start": "16.07.2026", "end": "23.07.2026", "item": "2c198b4055e64df698944727dbb561ea_33deb5f312a94a7aa85942786a89b9f3"}, // Echo Generation: Midnight Edition
+	{"start": "16.07.2026", "end": "23.07.2026", "item": "9f3ffc77b7264d63859bfd9bc935c9f8_37b1f7d89d0e4be0971c3614911abf3c"}, // Luto
 
 	{"start": "09.07.2026", "end": "16.07.2026", "item": "740ba4a6fbed4062a9c43d52c5996b0b_ba72ad8df75e4917bfc9655f583b171f"}, // Nova Lands
 	{"start": "09.07.2026", "end": "16.07.2026", "item": "b0a2eaef9e8e4fca9d8f9d4aa26fed4d_6592a042d7d242b09902cbe890a9f651"}, // Tattoo Tycoon
