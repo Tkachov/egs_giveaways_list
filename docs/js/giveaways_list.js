@@ -1,7 +1,10 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Foretales
+	// next: OTXO
+	// next: Sol Cesto
+
+	{"start": "23.07.2026", "end": "30.07.2026", "item": "c5730ad3d7004a65a472a7699b88008a_543284ed36b746099afd292d55a0cc63"}, // Foretales
 
 	{"start": "16.07.2026", "end": "23.07.2026", "item": "2c198b4055e64df698944727dbb561ea_33deb5f312a94a7aa85942786a89b9f3"}, // Echo Generation: Midnight Edition
 	{"start": "16.07.2026", "end": "23.07.2026", "item": "9f3ffc77b7264d63859bfd9bc935c9f8_37b1f7d89d0e4be0971c3614911abf3c"}, // Luto
