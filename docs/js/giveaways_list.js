@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: OTXO
-	// next: Sol Cesto
+	// next: Beacon Pines
+	// next: We Were Here Together
+
+	{"start": "30.07.2026", "end": "06.08.2026", "item": "dfe95c9009f548b0b167b3d65cc91979_a92b2157d5374f14a3388ba09312f825"}, // OTXO
+	// {"start": "30.07.2026", "end": "06.08.2026", "item": "?"}, // Sol Cesto
 
 	{"start": "23.07.2026", "end": "30.07.2026", "item": "c5730ad3d7004a65a472a7699b88008a_543284ed36b746099afd292d55a0cc63"}, // Foretales
 
