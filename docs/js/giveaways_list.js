@@ -1,8 +1,10 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Beacon Pines
-	// next: We Were Here Together
+	// next: Caravan SandWitch
+
+	{"start": "06.08.2026", "end": "13.08.2026", "item": "1c83ea77e736438f9852b31aeb4f7a20_36528facf91943ce977306501a8a2e64"}, // Beacon Pines
+	{"start": "06.08.2026", "end": "13.08.2026", "item": "c5f6069e7dd644dab009294f0fddc7a7_93e3dd361ab14ee9919914fa1ae199a2"}, // We Were Here Together
 
 	{"start": "30.07.2026", "end": "06.08.2026", "item": "dfe95c9009f548b0b167b3d65cc91979_a92b2157d5374f14a3388ba09312f825"}, // OTXO
 	// {"start": "30.07.2026", "end": "06.08.2026", "item": "?"}, // Sol Cesto
