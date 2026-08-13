@@ -1,7 +1,10 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Caravan SandWitch
+	// next: Cardpocalypse Standard Edition
+	// next: Albion Online - Epic Mage Bundle
+
+	{"start": "13.08.2026", "end": "20.08.2026", "item": "45b137b2ecd14e01a54b52e575f1632d_9327ca5d08bb4af99017cb458c2f9396"}, // Caravan SandWitch
 
 	{"start": "06.08.2026", "end": "13.08.2026", "item": "1c83ea77e736438f9852b31aeb4f7a20_36528facf91943ce977306501a8a2e64"}, // Beacon Pines
 	{"start": "06.08.2026", "end": "13.08.2026", "item": "c5f6069e7dd644dab009294f0fddc7a7_93e3dd361ab14ee9919914fa1ae199a2"}, // We Were Here Together
