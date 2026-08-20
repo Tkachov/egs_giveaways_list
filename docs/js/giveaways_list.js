@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Cardpocalypse Standard Edition
-	// next: Albion Online - Epic Mage Bundle
+	// next: Breathedge
+	// next: Rival Stars Horse Racing : Desktop Edition
+
+	{"start": "20.08.2026", "end": "27.08.2026", "item": "2bfd5ca43ef443739ada168e017e1b78_cec34f6190c64fc8a764f1b4b35bfd84"}, // Cardpocalypse
+	// {"start": "20.08.2026", "end": "27.08.2026", "item": "?"}, // Albion Online - Epic Mage Bundle
 
 	{"start": "13.08.2026", "end": "20.08.2026", "item": "45b137b2ecd14e01a54b52e575f1632d_9327ca5d08bb4af99017cb458c2f9396"}, // Caravan SandWitch
 
