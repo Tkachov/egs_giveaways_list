@@ -1,8 +1,10 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Breathedge
-	// next: Rival Stars Horse Racing : Desktop Edition
+	// next: Alone With You
+
+	{"start": "27.08.2026", "end": "03.09.2026", "item": "08ae29e4f70a4b62aa055e383381aa82_1addbe9a36af44b2868133287a3673c0"}, // Breathedge
+	{"start": "27.08.2026", "end": "03.09.2026", "item": "f570d80aa4fe463ca53c4410d1c75e1e_8f705ba4365148e0b589b11124693908"}, // Rival Stars Horse Racing : Desktop Edition
 
 	{"start": "20.08.2026", "end": "27.08.2026", "item": "2bfd5ca43ef443739ada168e017e1b78_cec34f6190c64fc8a764f1b4b35bfd84"}, // Cardpocalypse
 	// {"start": "20.08.2026", "end": "27.08.2026", "item": "?"}, // Albion Online - Epic Mage Bundle
