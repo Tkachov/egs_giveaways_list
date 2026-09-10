@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Astral Ascent
-	// next: Luftrausers
+	// next: Mindcop
+	// next: Shogun Showdown
+
+	{"start": "03.09.2026", "end": "10.09.2026", "item": "0cb5817d554740e8bedf9ceea32522bd_0b0faa4abae64b5f9d27e7b3eb44e161"}, // Astral Ascent
+	{"start": "03.09.2026", "end": "10.09.2026", "item": "639daf403b554ee9b02eee5eedafc302_01d4a45b776e436f94098c7e5f588733"}, // Luftrausers
 
 	// {"start": "03.09.2026", "end": "10.09.2026", "item": "?"}, // next: Alone With You
 
