@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Mindcop
-	// next: Shogun Showdown
+	// next: Astrea Six Sided Oracles
+	// next: Mechabellum
+
+	{"start": "17.09.2026", "end": "24.09.2026", "item": "f20a4eda0f2d486ea73cab8af1224e31_6e8f9bdd22cb483d85f6083e74e75771"}, // Mindcop
+	{"start": "17.09.2026", "end": "24.09.2026", "item": "59ff4d481277487d8c073166ba7612d3_8a131e66a6d44d32ae0dddcfe0ed40e3"}, // Shogun Showdown
 
 	{"start": "10.09.2026", "end": "17.09.2026", "item": "0cb5817d554740e8bedf9ceea32522bd_0b0faa4abae64b5f9d27e7b3eb44e161"}, // Astral Ascent
 	{"start": "10.09.2026", "end": "17.09.2026", "item": "639daf403b554ee9b02eee5eedafc302_01d4a45b776e436f94098c7e5f588733"}, // Luftrausers
@@ -820,6 +823,9 @@ var giveaways_list = [
 	{"start": "29.07.2021", "end": "05.08.2021", "item": "a64d4c5460384218b17de5bd785085f8_3fde4f4763284f4b9917f9291fdae7ac"}, // Train Sim World 2: Schnellfahrstrecke Köln-Aachen DLC
 	{"start": "29.07.2021", "end": "05.08.2021", "item": "a64d4c5460384218b17de5bd785085f8_df0a30f86b43424696e7c1a50c69be6d"}, // Train Sim World 2: Bakerloo Line
 	{"start": "29.07.2021", "end": "05.08.2021", "item": "a64d4c5460384218b17de5bd785085f8_7a2b089a248942b6814674c0cb531571"}, // Train Sim World 2: Sand Patch Grade
+	{"start": "29.07.2021", "end": "05.08.2021", "item": "58eb386001624553a5c2c6fdd9b47fd5_28da9cbbfd094231b8967151be939c47"}, // Train Sim World 7: Schnellfahrstrecke Koln-Aachen Remastered
+	{"start": "29.07.2021", "end": "05.08.2021", "item": "58eb386001624553a5c2c6fdd9b47fd5_53289618aaa94175b9575b32b1ace9ed"}, // Train Sim World 7: Sand Patch Grade
+	{"start": "29.07.2021", "end": "05.08.2021", "item": "58eb386001624553a5c2c6fdd9b47fd5_c65c110f486d4f7d902867d0e79fef39"}, // Train Sim World 7: Bakerloo Line
 	{"start": "29.07.2021", "end": "05.08.2021", "item": "7dc02eac2fe347368b5f72a02bb5bc5e_97f646aa2baa42fa9ca17919bd8a8639"}, // Mothergunship
 
 	{"start": "22.07.2021", "end": "29.07.2021", "item": "e4a2a414d46849f49a35c0f80df2903a_799b21a13e764a8488444b4ada9202b7"}, // Verdun
