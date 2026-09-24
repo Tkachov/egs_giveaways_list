@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Astrea Six Sided Oracles
-	// next: Mechabellum
+	// next: BURIED STARS
+	// next: System Shock 2: 25th Anniversary Remaster
+
+	{"start": "24.09.2026", "end": "01.10.2026", "item": "a940fa38f001486a9884640924119576_f3ac42b603f546ccbd0f0240ba120143"}, // Astrea Six Sided Oracles
+	{"start": "24.09.2026", "end": "01.10.2026", "item": "36074aa6badf45698cced1a44e837fa2_32dc85f412334a1e83ff27cda46a27ef"}, // Mechabellum
 
 	{"start": "17.09.2026", "end": "24.09.2026", "item": "f20a4eda0f2d486ea73cab8af1224e31_6e8f9bdd22cb483d85f6083e74e75771"}, // Mindcop
 	{"start": "17.09.2026", "end": "24.09.2026", "item": "59ff4d481277487d8c073166ba7612d3_8a131e66a6d44d32ae0dddcfe0ed40e3"}, // Shogun Showdown
