@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: BURIED STARS
-	// next: System Shock 2: 25th Anniversary Remaster
+	// next: Out of Sight
+	// next: TerraScape
+
+	{"start": "01.10.2026", "end": "08.10.2026", "item": "9bd512d68e3143909842932ac45a4182_b4412cf12f8c4069831611d5bdd8b69f"}, // BURIED STARS
+	{"start": "01.10.2026", "end": "08.10.2026", "item": "a90f2381d7aa48c09b4080515a9541cd_f06b7c3fda4f4b43a247ef189897ead5"}, // System Shock 2: 25th Anniversary Remaster
 
 	{"start": "24.09.2026", "end": "01.10.2026", "item": "a940fa38f001486a9884640924119576_f3ac42b603f546ccbd0f0240ba120143"}, // Astrea Six Sided Oracles
 	{"start": "24.09.2026", "end": "01.10.2026", "item": "36074aa6badf45698cced1a44e837fa2_32dc85f412334a1e83ff27cda46a27ef"}, // Mechabellum
