@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Out of Sight
-	// next: TerraScape
+	// next: Agent A: A puzzle in disguise
+	// next: Bad Cheese
+
+	{"start": "08.10.2026", "end": "15.10.2026", "item": "436099305a2249a8bbe4d9113fc41d53_ad6a817e51b349619f51957b229520cf"}, // Out of Sight
+	{"start": "08.10.2026", "end": "15.10.2026", "item": "bfb80547289b477193ce3b14d83cd292_e6ebabecf20740628e42d3894ed872c5"}, // TerraScape
 
 	{"start": "01.10.2026", "end": "08.10.2026", "item": "9bd512d68e3143909842932ac45a4182_b4412cf12f8c4069831611d5bdd8b69f"}, // BURIED STARS
 	{"start": "01.10.2026", "end": "08.10.2026", "item": "a90f2381d7aa48c09b4080515a9541cd_f06b7c3fda4f4b43a247ef189897ead5"}, // System Shock 2: 25th Anniversary Remaster
