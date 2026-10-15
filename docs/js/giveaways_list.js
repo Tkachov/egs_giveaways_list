@@ -1,8 +1,11 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Agent A: A puzzle in disguise
-	// next: Bad Cheese
+	// next: Home - A Unique Horror Adventure
+	// next: Sker Ritual
+
+	{"start": "15.10.2026", "end": "22.10.2026", "item": "45f125178d8c4bc18e1827a307bcc5c0_8d217c6b1d7b44f293e65b784b74ea61"}, // Agent A: A puzzle in disguise
+	// {"start": "15.10.2026", "end": "22.10.2026", "item": "?"}, // next: Bad Cheese
 
 	{"start": "08.10.2026", "end": "15.10.2026", "item": "436099305a2249a8bbe4d9113fc41d53_ad6a817e51b349619f51957b229520cf"}, // Out of Sight
 	{"start": "08.10.2026", "end": "15.10.2026", "item": "bfb80547289b477193ce3b14d83cd292_e6ebabecf20740628e42d3894ed872c5"}, // TerraScape
@@ -19,7 +22,7 @@ var giveaways_list = [
 	{"start": "10.09.2026", "end": "17.09.2026", "item": "0cb5817d554740e8bedf9ceea32522bd_0b0faa4abae64b5f9d27e7b3eb44e161"}, // Astral Ascent
 	{"start": "10.09.2026", "end": "17.09.2026", "item": "639daf403b554ee9b02eee5eedafc302_01d4a45b776e436f94098c7e5f588733"}, // Luftrausers
 
-	// {"start": "03.09.2026", "end": "10.09.2026", "item": "?"}, // next: Alone With You
+	// {"start": "03.09.2026", "end": "10.09.2026", "item": "?"}, // Alone With You
 
 	{"start": "27.08.2026", "end": "03.09.2026", "item": "08ae29e4f70a4b62aa055e383381aa82_1addbe9a36af44b2868133287a3673c0"}, // Breathedge
 	{"start": "27.08.2026", "end": "03.09.2026", "item": "f570d80aa4fe463ca53c4410d1c75e1e_8f705ba4365148e0b589b11124693908"}, // Rival Stars Horse Racing : Desktop Edition
