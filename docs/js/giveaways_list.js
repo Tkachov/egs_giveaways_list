@@ -1,8 +1,10 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Home - A Unique Horror Adventure
-	// next: Sker Ritual
+	// next: Sorry We're Closed
+
+	{"start": "22.10.2026", "end": "29.10.2026", "item": "c7e46cce751b40b6937e878abd0fc531_5cd30a054efe451d988f242f0f493a7d"}, // Home - A Unique Horror Adventure
+	{"start": "22.10.2026", "end": "29.10.2026", "item": "156c17659ff0468bb533eba104a1f19f_febec539139a4ee9836609b73e573e3d"}, // Sker Ritual
 
 	{"start": "15.10.2026", "end": "22.10.2026", "item": "45f125178d8c4bc18e1827a307bcc5c0_8d217c6b1d7b44f293e65b784b74ea61"}, // Agent A: A puzzle in disguise
 	// {"start": "15.10.2026", "end": "22.10.2026", "item": "?"}, // next: Bad Cheese
