@@ -1,7 +1,12 @@
 var giveaways_list = [
 	// 2026
 
-	// next: Sorry We're Closed
+	// next: Knightica
+
+	{"start": "05.11.2026", "end": "12.11.2026", "item": "27e33143fc9e4de8bbf76782292933d4_c2dd8a25b569404f9f88950d7691b83e"}, // Flotsam
+	// {"start": "05.11.2026", "end": "12.11.2026", "item": "7e508f543b05465abe3a935960eb70ac_48353a502e72433298f25827e03dbff0"}, // next: Idle Champions of the Forgotten Realms
+
+	// {"start": "29.10.2026", "end": "05.11.2026", "item": "?"}, // Sorry We're Closed
 
 	{"start": "22.10.2026", "end": "29.10.2026", "item": "c7e46cce751b40b6937e878abd0fc531_5cd30a054efe451d988f242f0f493a7d"}, // Home - A Unique Horror Adventure
 	{"start": "22.10.2026", "end": "29.10.2026", "item": "156c17659ff0468bb533eba104a1f19f_febec539139a4ee9836609b73e573e3d"}, // Sker Ritual
